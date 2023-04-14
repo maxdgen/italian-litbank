@@ -1,0 +1,144 @@
+T0	FAC 30 48	Paradiso terrestre
+T1	PER 52 59	Goldoni
+T2	FAC 108 114	teatro
+T3	FAC 200 214	Caffè Francese
+T4	PER 227 247	donna Maria di Varga
+T5	PER 333 339	alcuni
+T6	PER 355 373	Guglielmo Baglioni
+T7	PER 411 421	gli uomini
+T8	PER 451 461	le signore
+T9	PER 469 487	Ferdinando Anselmi
+T10	PER 521 539	gl ' interlocutori
+T11	PER 542 559	le interlocutrici
+T12	PER 624 649	il giudice più autorevole
+T13	PER 652 663	donna Maria
+T14	PER 818 827	un autore
+T15	PER 904 917	un professore
+T16	PER 920 934	un predicatore
+T17	PER 937 953	un propagandista
+T18	PER 1085 1093	Baglioni
+T19	PER 1362 1381	la signora Graziani
+T20	PER 1384 1402	il mio amico Mauri
+T21	PER 1549 1559	i credenti
+T22	PER 1725 1730	donna
+T23	PER 1748 1753	Adamo
+T24	PER 1799 1821	primigenio ermafrodito
+T25	PER 1948 1953	Adamo
+T26	PER 1978 1981	Eva
+T27	PER 2051 2061	la femmina
+T28	PER 2085 2096	istigatrice
+T29	PER 2154 2162	i maschi
+T30	PER 2231 2241	la femmina
+T31	PER 2652 2660	Baglioni
+T32	PER 2671 2676	Gorli
+T33	PER 2742 2769	il seduttore disinteressato
+T34	PER 2878 2894	una persona viva
+T35	PER 2943 2951	Baglioni
+T36	PER 3154 3157	Eva
+T37	PER 3180 3185	Adamo
+T38	PER 3269 3277	qualcuno
+T39	PER 3358 3366	un altro
+T40	PER 3491 3499	Baglioni
+T41	PER 3502 3514	i suoi amici
+T42	PER 3603 3612	avversarî
+T43	PER 3726 3731	Gorli
+T44	PER 3807 3831	la baronessa di Sclàfani
+T45	PER 3852 3871	povera donna Emilia
+T46	PER 3875 3891	un amico di casa
+T47	FAC 3887 3891	casa
+T48	PER 4082 4091	il marito
+T49	PER 4153 4164	donna Maria
+T50	PER 4214 4228	mia cara amica
+T51	PER 4352 4366	esseri viventi
+T52	PER 4418 4424	maschi
+T53	PER 4620 4629	voi donne
+T54	PER 4634 4647	secondo Dumas
+T55	PER 4667 4710	creature illogiche , subalterne e malefiche
+T56	PER 4780 4787	astanti
+T57	PER 4815 4826	donna Maria
+T58	PER 4835 4851	signora Graziani
+T59	PER 4861 4882	qualcuno degli uomini
+T60	PER 4936 4943	Anselmi
+T61	PER 5192 5202	noi uomini
+T62	PER 5360 5365	tutte
+T63	PER 5414 5437	quella signorina laggiù
+T64	PER 5463 5494	una vistosa e solitaria cliente
+T65	FAC 5531 5545	elegante Caffè
+T66	PER 5877 5888	Emilio Zola
+T67	PER 6106 6129	personaggio di Baglioni
+T68	PER 6191 6196	amico
+T69	FAC 6219 6227	scuderie
+T70	PER 6611 6618	oratore
+T71	PER 6621 6640	la signora Graziani
+T72	PER 6803 6822	queste povere donne
+T73	PER 6883 6899	quelle signorine
+T74	PER 7339 7358	l ' amante respinto
+T75	PER 7506 7534	d ' una creatura insensibile
+T76	PER 7537 7561	d ' una bellezza inutile
+T77	PER 7572 7582	Maupassant
+T78	PER 8413 8422	una donna
+T79	PER 8430 8439	una donna
+T80	PER 8446 8460	una mercenaria
+T81	PER 8464 8477	un ' ammalata
+T82	PER 8495 8525	una creatura bella d ' aspetto
+T83	PER 8774 8786	una creatura
+T84	PER 8995 9010	facondo oratore
+T85	PER 9013 9024	gli astanti
+T86	PER 9099 9112	Alberto Mauri
+T87	PER 9348 9358	le signore
+T88	PER 9364 9371	Anselmi
+T89	PER 9383 9388	Mauri
+T90	PER 9399 9410	donna Maria
+T91	PER 9454 9475	baronessa di Sclàfani
+T92	FAC 9641 9645	casa
+T93	FAC 9650 9654	casa
+T94	ORG 9698 9718	Cavalleria rusticana
+T95	PER 9721 9732	La comitiva
+T96	PER 9746 9752	alcuni
+T97	PER 9774 9779	altri
+T98	LOC 9813 9834	il centro della città
+T99	GPE 9829 9834	città
+T100	PER 9837 9848	donna Maria
+T101	PER 9851 9870	la signora Graziani
+T102	PER 9873 9885	suo fratello
+T103	PER 9888 9895	Anselmi
+T104	PER 9898 9903	Mauri
+T105	LOC 9934 9950	i quartieri alti
+T106	PER 10006 10025	la signora di Varga
+T107	PER 10031 10038	Susanna
+T108	PER 10125 10130	Mauri
+T109	PER 10144 10159	l ' interrogata
+T110	PER 10174 10181	giovane
+T111	LOC 10215 10229	le vie deserte
+T112	PER 10348 10353	Mauri
+T113	PER 10370 10378	due dame
+T114	PER 10383 10402	gli altri cavalieri
+T115	PER 10884 10889	tutti
+T116	GPE 10970 10993	più bel paese del mondo
+T117	LOC 10988 10993	mondo
+T118	LOC 10996 11033	una spiaggia tutta frondosa e fiorita
+T119	LOC 11046 11061	un mare azzurro
+T120	FAC 11119 11137	Un tempio marmoreo
+T121	LOC 11157 11161	mare
+T122	PER 11185 11192	Fortuna
+T123	PER 11210 11218	la gente
+T124	PER 11273 11288	la mutevole Dea
+T125	LOC 11417 11452	altissime rupi sopra irte scogliere
+T126	LOC 11438 11452	irte scogliere
+T127	FAC 11530 11536	tempio
+T128	PER 11539 11568	creature di favolosa bellezza
+T129	PER 11606 11612	sirene
+T130	PER 11615 11623	La donna
+T131	PER 11666 11683	la più desiderata
+T132	PER 11686 11691	altre
+T133	PER 11953 11993	qualcuno , un amico straricco e generoso
+T134	PER 11998 12016	lo stesso mercante
+T135	PER 12211 12226	quella creatura
+T136	PER 12248 12258	un ' altra
+T137	PER 12955 12978	straniera , principessa
+T138	PER 13046 13051	gente
+T139	PER 13158 13165	nessuna
+T140	PER 13319 13355	Suo marito , gigantesco , soldatesco
+T141	PER 13373 13378	padre
+T142	LOC 13684 13702	giardini incantati
+T143	LOC 13711 13726	il placido mare

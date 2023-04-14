@@ -1,0 +1,226 @@
+T0	FAC 18 42	osteria di Muzio Scevola
+T1	LOC 48 58	Trastevere
+T2	GPE 139 153	Comune di Roma
+T3	FAC 179 194	casupole vicine
+T4	FAC 327 334	osteria
+T5	PER 357 366	Garibaldi
+T6	LOC 479 510	piazzetta davanti all ' osteria
+T7	FAC 503 510	osteria
+T8	PER 519 531	molti uomini
+T9	PER 582 588	alcuni
+T10	PER 608 627	classe dei bottegai
+T11	PER 766 771	altri
+T12	PER 796 814	ceto dei cittadini
+T13	PER 839 852	popolo minuto
+T14	PER 855 866	I cittadini
+T15	PER 981 989	popolani
+T16	PER 1038 1060	un giovinotto sbarbato
+T17	PER 1139 1151	i capannelli
+T18	PER 1168 1176	la folla
+T19	PER 1202 1215	Il giovinotto
+T20	PER 1246 1251	tutti
+T21	PER 1264 1272	ciascuno
+T22	PER 1287 1300	Signor Rosati
+T23	PER 1315 1325	le persone
+T24	PER 1424 1436	Fabio Rosati
+T25	PER 1493 1510	la folla popolana
+T26	GPE 1535 1540	Borgo
+T27	PER 1597 1631	il Simonetti , un omaccione grasso
+T28	FAC 1644 1664	bottega d ' orzarolo
+T29	LOC 1674 1691	piazza Rusticucci
+T30	PER 1725 1735	i liberali
+T31	LOC 1739 1749	quel rione
+T32	PER 1803 1815	Fabio Rosati
+T33	PER 1818 1869	Scortichino , il ricco oste di San Francesco a Ripa
+T34	FAC 1849 1869	San Francesco a Ripa
+T35	PER 1888 1897	Fabio mio
+T36	FAC 1916 1927	l ' osteria
+T37	PER 1937 1942	gente
+T38	PER 2073 2078	tutti
+T39	PER 2116 2130	Sua Eccellenza
+T40	PER 2172 2180	liberale
+T41	FAC 2184 2195	Campidoglio
+T42	PER 2216 2247	quel clericalone del de Petriis
+T43	ORG 2307 2339	fratelloni dell ' Angelo Custode
+T44	PER 2382 2394	i forestieri
+T45	PER 2406 2417	Scortichino
+T46	PER 2429 2438	il Rosati
+T47	PER 2487 2497	ricco oste
+T48	PER 2544 2623	un uomo alto con una lunga barba e due occhi mansueti come quelli di un agnello
+T49	PER 2650 2661	un principe
+T50	PER 2694 2730	il sor Domenico , uomo popolarissimo
+T51	PER 2752 2777	l ' amicizia di Garibaldi
+T52	VEH 2797 2805	Vascello
+T53	PER 2823 2827	eroe
+T54	PER 2897 2909	questa gente
+T55	PER 2948 2976	il principe della Marsiliana
+T56	GPE 2966 2976	Marsiliana
+T57	PER 3017 3026	il Rosati
+T58	PER 3062 3074	sor Domenico
+T59	PER 3111 3124	sor Fabio mio
+T60	PER 3127 3138	il principe
+T61	PER 3146 3152	nemici
+T62	PER 3181 3198	liberale schietto
+T63	PER 3203 3216	quella moglie
+T64	PER 3231 3245	la principessa
+T65	PER 3258 3267	il Rosati
+T66	PER 3301 3316	il sor Domenico
+T67	PER 3343 3366	monache di Santa Rufina
+T68	GPE 3354 3366	Santa Rufina
+T69	VEH 3378 3389	la carrozza
+T70	PER 3390 3395	tutti
+T71	FAC 3452 3460	convento
+T72	PER 3463 3468	tutti
+T73	PER 3499 3510	i baciapile
+T74	FAC 3572 3585	casa Grimaldi
+T75	PER 3577 3585	Grimaldi
+T76	PER 3624 3636	sor Domenico
+T77	PER 3662 3673	principessa
+T78	LOC 3690 3700	Trastevere
+T79	PER 3739 3753	la principessa
+T80	FAC 3783 3790	osteria
+T81	PER 3803 3811	principe
+T82	PER 3886 3895	il Rosati
+T83	PER 3961 3992	la principessa della Marsiliana
+T84	LOC 3996 4006	quel luogo
+T85	PER 4049 4057	l ' oste
+T86	FAC 4176 4193	casa dal principe
+T87	PER 4185 4193	principe
+T88	PER 4264 4278	la principessa
+T89	PER 4312 4324	Fabio Rosati
+T90	PER 4410 4422	sor Domenico
+T91	PER 4486 4493	nessuno
+T92	FAC 4532 4569	palazzo del principe della Marsiliana
+T93	PER 4544 4569	principe della Marsiliana
+T94	FAC 4628 4635	cortile
+T95	PER 4638 4643	Fabio
+T96	FAC 4729 4752	antica casa principesca
+T97	PER 4758 4772	Sua Eccellenza
+T98	PER 4787 4803	Il guardaportone
+T99	PER 4881 4887	Rosati
+T100	PER 4923 4934	il principe
+T101	PER 5014 5022	la gente
+T102	PER 5045 5050	Fabio
+T103	FAC 5090 5100	anticamera
+T104	PER 5167 5175	famiglia
+T105	PER 5204 5227	celebre cardinal Urbani
+T106	FAC 5268 5278	una parete
+T107	PER 5301 5321	servitore di guardia
+T108	PER 5495 5516	d ' imperatori romani
+T109	PER 5570 5575	Fabio
+T110	FAC 5821 5832	casa Urbani
+T111	PER 5826 5832	Urbani
+T112	FAC 5847 5895	quella parte del palazzo riservata alla famiglia
+T113	PER 5887 5895	famiglia
+T114	PER 5905 5916	il principe
+T115	FAC 5926 5937	pianterreno
+T116	FAC 5938 5948	due stanze
+T117	LOC 5968 5973	Corso
+T118	PER 6008 6024	tutte le persone
+T119	PER 6055 6066	principessa
+T120	PER 6069 6122	Fabio Rosati , segretario di una quantità di comitati
+T121	PER 6156 6181	principe della Marsiliana
+T122	ORG 6196 6217	Circolo dei Cittadini
+T123	PER 6225 6232	don Pio
+T124	PER 6237 6247	presidente
+T125	PER 6418 6423	Fabio
+T126	PER 6464 6485	molti patrizii romani
+T127	PER 6506 6513	don Pio
+T128	PER 6603 6611	Il servo
+T129	PER 6723 6735	Il cameriere
+T130	PER 6751 6782	principe , un francese sbarbato
+T131	PER 6847 6852	prete
+T132	PER 6889 6894	Fabio
+T133	FAC 6936 6948	un salottino
+T134	FAC 6960 6982	la camera del principe
+T135	PER 6974 6982	principe
+T136	PER 6985 6992	Don Pio
+T137	PER 7019 7024	Fabio
+T138	PER 7135 7141	Rosati
+T139	PER 7186 7204	tutta quella gente
+T140	PER 7244 7249	Fabio
+T141	PER 7300 7308	principe
+T142	PER 7323 7335	sor Domenico
+T143	FAC 7361 7368	palazzo
+T144	PER 7544 7555	il principe
+T145	PER 7603 7622	gli elettori romani
+T146	PER 7706 7715	il Rosati
+T147	PER 7818 7829	il principe
+T148	PER 7886 7929	il sor Domenico , l ' oste di Muzio Scevola
+T149	ORG 7916 7929	Muzio Scevola
+T150	PER 7962 7976	la principessa
+T151	LOC 8006 8016	Trastevere
+T152	PER 8058 8069	Il principe
+T153	PER 8140 8149	il Rosati
+T154	PER 8200 8213	donna Camilla
+T155	PER 8279 8290	il principe
+T156	PER 8429 8443	la principessa
+T157	PER 8478 8487	il Rosati
+T158	FAC 8494 8502	galleria
+T159	PER 8505 8512	don Pio
+T160	FAC 8525 8548	salottino di sua moglie
+T161	PER 8538 8548	sua moglie
+T162	FAC 8581 8594	quella stanza
+T163	PER 8700 8706	Rosati
+T164	PER 8709 8723	La principessa
+T165	PER 8735 8744	il marito
+T166	PER 8768 8795	due monache di Santa Rufina
+T167	PER 8878 8896	la piccola signora
+T168	PER 8900 8906	marito
+T169	PER 8990 8998	le suore
+T170	PER 9271 9291	uno si chiama Urbani
+T171	PER 9333 9342	il popolo
+T172	PER 9615 9618	avi
+T173	PER 9621 9632	Il principe
+T174	PER 9839 9853	La principessa
+T175	ORG 10158 10165	osteria
+T176	PER 10190 10197	don Pio
+T177	PER 10249 10263	la principessa
+T178	ORG 10327 10340	Muzio Scevola
+T179	FAC 10365 10376	Una locanda
+T180	PER 10441 10448	Camilla
+T181	PER 10568 10576	deputato
+T182	PER 10629 10647	la piccola signora
+T183	PER 10670 10677	padrone
+T184	PER 10782 10789	custode
+T185	PER 10837 10846	mio padre
+T186	PER 10854 10866	una Grimaldi
+T187	PER 11008 11015	Camilla
+T188	PER 11025 11038	la mia rovina
+T189	PER 11050 11061	il principe
+T190	FAC 11104 11112	galleria
+T191	PER 11126 11142	il suo cameriere
+T192	PER 11224 11231	Don Pio
+T193	PER 11306 11315	servitori
+T194	FAC 11399 11406	palazzo
+T195	LOC 11458 11489	piazzetta dinanzi all ' osteria
+T196	FAC 11482 11489	osteria
+T197	PER 11536 11547	il principe
+T198	PER 11588 11600	Fabio Rosati
+T199	PER 11603 11618	il sor Domenico
+T200	PER 11785 11799	la principessa
+T201	PER 11802 11809	Don Pio
+T202	PER 11856 11868	sor Domenico
+T203	PER 11921 11935	la principessa
+T204	PER 11981 11991	le signore
+T205	PER 12082 12097	il sor Domenico
+T206	PER 12213 12223	Eccellenza
+T207	PER 12249 12269	certa gente cocciuta
+T208	PER 12347 12361	i trasteverini
+T209	PER 12457 12468	il principe
+T210	PER 12486 12498	Fabio Rosati
+T211	PER 12523 12555	un gruppo di persone ben vestite
+T212	PER 12599 12610	quel gruppo
+T213	PER 12623 12630	don Pio
+T214	PER 12631 12636	tutti
+T215	PER 12696 12707	Il principe
+T216	PER 12728 12744	ingegnere Marini
+T217	PER 12750 12768	professore Arnaldi
+T218	PER 12771 12783	Fabio Rosati
+T219	PER 12834 12863	Il signor Massa , giornalista
+T220	PER 12886 12907	un giovinotto pallido
+T221	PER 12958 12974	il signor Caruso
+T222	PER 13017 13036	un omaccione grasso
+T223	PER 13150 13178	Il principe della Marsiliana
+T224	PER 13199 13232	i due rappresentanti della stampa
+T225	ORG 13226 13232	stampa

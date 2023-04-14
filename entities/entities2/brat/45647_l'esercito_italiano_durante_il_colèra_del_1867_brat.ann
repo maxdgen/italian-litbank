@@ -1,0 +1,206 @@
+T0	ORG 34 46	l ' esercito
+T1	GPE 69 77	il paese
+T2	PER 421 426	tutti
+T3	PER 441 446	tutti
+T4	PER 591 600	il popolo
+T5	ORG 644 656	l ' esercito
+T6	PER 737 752	d ' un generale
+T7	PER 777 794	centomila soldati
+T8	GPE 863 871	il paese
+T9	ORG 1443 1455	l ' esercito
+T10	GPE 1472 1477	paese
+T11	PER 2123 2132	cittadino
+T12	PER 2140 2147	soldato
+T13	ORG 2190 2211	l ' esercito italiano
+T14	PER 2493 2501	l ' uomo
+T15	PER 2504 2516	il cittadino
+T16	GPE 2615 2621	Italia
+T17	GPE 2645 2660	molte provincie
+T18	PER 2767 2772	tutti
+T19	GPE 2825 2852	tutte le provincie italiane
+T20	GPE 2891 2901	la Sicilia
+T21	PER 3053 3096	qualche vittima nelle vicinanze di Girgenti
+T22	GPE 3088 3096	Girgenti
+T23	GPE 3117 3132	Porto Empedocle
+T24	GPE 3180 3198	tutta la provincia
+T25	GPE 3244 3257	Caltanissetta
+T26	GPE 3467 3497	la sola città di Caltanissetta
+T27	GPE 3591 3614	la provincia di Trapani
+T28	GPE 3617 3634	quella di Catania
+T29	GPE 3637 3655	quella di Siracusa
+T30	GPE 3684 3691	Palermo
+T31	GPE 3721 3728	Messina
+T32	GPE 3766 3802	tutte l ' altre provincie d ' Italia
+T33	GPE 3792 3802	d ' Italia
+T34	GPE 3826 3848	quelle del mezzogiorno
+T35	GPE 3878 3894	quella di Reggio
+T36	GPE 4020 4060	provincie di Girgenti e di Caltanissetta
+T37	PER 4063 4118	il generale Medici , comandante la divisione di Palermo
+T38	PER 4095 4118	la divisione di Palermo
+T39	GPE 4111 4118	Palermo
+T40	FAC 4235 4257	Ministero della guerra
+T41	PER 4286 4293	i corpi
+T42	GPE 4340 4353	nessuna città
+T43	GPE 4356 4372	nessun villaggio
+T44	FAC 4432 4462	ospedali militari pei colerosi
+T45	PER 4454 4462	colerosi
+T46	FAC 4465 4488	infermerie pei sospetti
+T47	PER 4480 4488	sospetti
+T48	FAC 4491 4512	case di convalescenza
+T49	FAC 4560 4573	ogni presidio
+T50	PER 4574 4615	una commissione di sorveglianza sanitaria
+T51	FAC 4686 4702	tutte le caserme
+T52	PER 4762 4768	immuni
+T53	PER 4781 4815	ogni corpo , ad ogni distaccamento
+T54	PER 4882 4897	autorità civili
+T55	PER 4952 4972	le guardie nazionali
+T56	GPE 5080 5096	città principali
+T57	PER 5131 5140	le truppe
+T58	PER 5214 5221	soldati
+T59	PER 5286 5299	gli ufficiali
+T60	PER 5326 5333	soldati
+T61	PER 5391 5399	ciascuno
+T62	PER 5594 5616	comandanti divisionali
+T63	GPE 5624 5648	altre provincie italiane
+T64	FAC 5680 5688	ospedali
+T65	FAC 5709 5716	caserme
+T66	PER 5755 5761	medici
+T67	PER 5764 5777	d ' ufficiali
+T68	PER 5839 5849	d ' uomini
+T69	PER 5995 6001	ognuno
+T70	GPE 6112 6117	paese
+T71	PER 6118 6130	l ' esercito
+T72	PER 6133 6162	i cittadini animosi ed onesti
+T73	PER 6348 6362	tutti i popoli
+T74	GPE 6407 6412	paesi
+T75	GPE 6437 6448	più piccoli
+T76	PER 6451 6460	i sindaci
+T77	PER 6463 6493	molti altri pubblici officiali
+T78	GPE 6560 6573	qualche paese
+T79	PER 6586 6591	tutti
+T80	PER 6610 6618	famiglie
+T81	PER 6633 6641	I ricchi
+T82	PER 6644 6654	gli agiati
+T83	PER 6657 6662	tutti
+T84	PER 6720 6728	le plebi
+T85	GPE 6747 6752	città
+T86	FAC 6776 6781	ville
+T87	FAC 6800 6828	tutte le case della campagna
+T88	LOC 6820 6828	campagna
+T89	PER 6847 6867	cittadini fuggiaschi
+T90	PER 6884 6890	ricchi
+T91	PER 6899 6907	chiunque
+T92	FAC 7036 7046	un abituro
+T93	FAC 7049 7060	una capanna
+T94	FAC 7063 7087	un qualunque bugigattolo
+T95	GPE 7118 7123	città
+T96	FAC 7164 7179	ogni abitazione
+T97	PER 7282 7297	la povera gente
+T98	LOC 7341 7352	la campagna
+T99	GPE 7624 7642	ciascuna provincia
+T100	LOC 7699 7707	campagna
+T101	GPE 7746 7751	città
+T102	GPE 7757 7762	città
+T103	LOC 7783 7791	campagna
+T104	PER 7819 7833	la popolazione
+T105	GPE 7852 7857	paesi
+T106	GPE 7888 7899	poche città
+T107	ORG 7948 7975	le amministrazioni comunali
+T108	PER 8055 8069	le popolazioni
+T109	ORG 8260 8268	Autorità
+T110	PER 8283 8298	pochi cittadini
+T111	GPE 8358 8369	molti paesi
+T112	PER 8390 8396	medici
+T113	PER 8405 8415	farmacisti
+T114	PER 8420 8425	tutti
+T115	PER 8438 8450	i più grandi
+T116	PER 8646 8671	gran parte dei negozianti
+T117	FAC 8703 8717	strade ferrate
+T118	FAC 8778 8793	molte fabbriche
+T119	PER 8803 8813	gli operai
+T120	FAC 8846 8857	le botteghe
+T121	FAC 8924 8935	le officine
+T122	PER 8950 8971	centinaia di famiglie
+T123	GPE 9027 9036	d ' India
+T124	PER 9175 9181	popolo
+T125	ORG 9267 9274	governo
+T126	GPE 9293 9329	gran parte dei paesi del mezzogiorno
+T127	ORG 9376 9383	governo
+T128	GPE 9515 9522	Sicilia
+T129	ORG 9584 9594	il governo
+T130	ORG 9706 9726	Autorità governative
+T131	PER 9746 9751	plebe
+T132	FAC 9997 10009	Gli ospedali
+T133	PER 10044 10062	pubblici officiali
+T134	PER 10128 10136	I poveri
+T135	FAC 10186 10193	spedali
+T136	PER 10372 10380	i medici
+T137	PER 10381 10390	assassini
+T138	PER 10544 10561	famiglie numerose
+T139	FAC 10565 10590	angusti e immondi abituri
+T140	PER 10640 10650	i cadaveri
+T141	FAC 10735 10745	campisanti
+T142	FAC 10758 10764	chiese
+T143	GPE 10790 10801	molti paesi
+T144	PER 10841 10854	gli attaccati
+T145	ORG 10987 10995	Autorità
+T146	PER 11035 11050	agenti pubblici
+T147	FAC 11081 11085	case
+T148	PER 11086 11105	i cadaveri corrotti
+T149	PER 11121 11136	questi cadaveri
+T150	FAC 11141 11146	pozzi
+T151	FAC 11178 11203	nell ' interno delle case
+T152	GPE 11209 11221	alcuni paesi
+T153	ORG 11246 11254	Autorità
+T154	PER 11272 11277	gente
+T155	FAC 11313 11320	ufficio
+T156	PER 11323 11333	i cadaveri
+T157	PER 11361 11368	parenti
+T158	FAC 11414 11418	case
+T159	FAC 11464 11472	cimiteri
+T160	LOC 11629 11641	que ' luoghi
+T161	PER 11754 11763	borbonici
+T162	PER 11770 11779	clericali
+T163	PER 11809 11846	tutti gli agenti della forza pubblica
+T164	ORG 11832 11846	forza pubblica
+T165	PER 11849 11862	i carabinieri
+T166	PER 11865 11874	i soldati
+T167	PER 11877 11902	i percettori delle dogane
+T168	PER 11905 11930	gli officiali governativi
+T169	GPE 11936 11962	alcuni paesi della Sicilia
+T170	GPE 11955 11962	Sicilia
+T171	PER 11993 12026	qualunque italiano del continente
+T172	GPE 12016 12026	continente
+T173	PER 12046 12081	tutti indistintamente gli stranieri
+T174	PER 12068 12081	gli stranieri
+T175	LOC 12134 12140	le vie
+T176	PER 12215 12229	le popolazioni
+T177	LOC 12319 12335	le vie del paese
+T178	GPE 12330 12335	paese
+T179	PER 12353 12369	gli avvelenatori
+T180	FAC 12398 12408	le caserme
+T181	PER 12413 12424	carabinieri
+T182	PER 12431 12438	soldati
+T183	FAC 12459 12474	case dei medici
+T184	PER 12468 12474	medici
+T185	FAC 12521 12529	farmacie
+T186	FAC 12587 12609	l ' ufficio del comune
+T187	GPE 12603 12609	comune
+T188	PER 12698 12718	le guardie nazionali
+T189	LOC 12737 12748	la campagna
+T190	PER 12766 12778	avvelenatori
+T191	FAC 12807 12811	case
+T192	PER 12916 12924	complici
+T193	PER 12959 12969	i cadaveri
+T194	LOC 12994 12997	vie
+T195	LOC 13006 13022	piazze del paese
+T196	GPE 13017 13022	paese
+T197	PER 13025 13040	Intere famiglie
+T198	PER 13114 13131	turbe di popolani
+T199	PER 13136 13142	vecchi
+T200	PER 13145 13150	donne
+T201	PER 13153 13160	bambini
+T202	PER 13179 13186	gli uni
+T203	PER 13202 13207	altri
+T204	FAC 13268 13275	le case
+T205	LOC 13297 13306	le rovine

@@ -1,0 +1,207 @@
+T0	PER 33 39	Chérie
+T1	PER 233 245	la fanciulla
+T2	PER 287 294	Mirella
+T3	PER 299 328	Frida , la governante tedesca
+T4	PER 336 341	Frida
+T5	PER 381 388	Mirella
+T6	PER 413 426	giovane donna
+T7	PER 614 619	Frida
+T8	PER 677 684	Mirella
+T9	PER 779 792	la governante
+T10	PER 830 840	le ragazze
+T11	PER 889 895	Chérie
+T12	PER 953 959	Chérie
+T13	PER 1026 1031	Frida
+T14	GPE 1049 1057	Westende
+T15	PER 1058 1063	tutti
+T16	FAC 1073 1078	bagno
+T17	PER 1088 1094	Chérie
+T18	PER 1251 1268	Frida Rothenstein
+T19	PER 1420 1426	Chérie
+T20	PER 1610 1615	Frida
+T21	LOC 1653 1657	mare
+T22	LOC 1688 1701	pubbliche vie
+T23	PER 1729 1736	Mirella
+T24	PER 1859 1865	Chérie
+T25	FAC 1901 1910	la stanza
+T26	PER 2063 2068	Frida
+T27	PER 2228 2234	Chérie
+T28	PER 2301 2308	Mirella
+T29	PER 2574 2581	Mirella
+T30	PER 2628 2633	Frida
+T31	FAC 2684 2696	Villa Esther
+T32	PER 2704 2720	Madame Guillaume
+T33	LOC 2761 2765	mare
+T34	LOC 2777 2792	rue dei Moulins
+T35	GPE 2796 2804	Westende
+T36	FAC 2844 2854	fabbricati
+T37	FAC 2866 2881	un nuovo hangar
+T38	VEH 2886 2895	aeroplani
+T39	FAC 2911 2960	larga passeggiata asfaltata che costeggia il mare
+T40	LOC 2953 2960	il mare
+T41	PER 2963 2969	Chérie
+T42	PER 2983 3005	qualche altro bagnante
+T43	PER 3008 3021	Alcuni uomini
+T44	LOC 3038 3046	spiaggia
+T45	PER 3210 3230	figuretta pittoresca
+T46	LOC 3311 3322	la spiaggia
+T47	GPE 3328 3336	Nieuport
+T48	GPE 3374 3381	Ostenda
+T49	PER 3439 3473	questi graziosi tipi di scolaretta
+T50	LOC 3496 3502	sabbie
+T51	PER 3512 3536	tutte le figlie di gioia
+T52	GPE 3540 3549	Bruxelles
+T53	GPE 3552 3557	Namur
+T54	GPE 3560 3563	Spa
+T55	PER 3657 3663	Chérie
+T56	FAC 3686 3707	negozio di biciclette
+T57	PER 3741 3754	Cirillo Wibon
+T58	VEH 3788 3811	sua pétrolette da corsa
+T59	PER 3856 3871	d ' una nutrice
+T60	PER 3890 3898	un padre
+T61	VEH 3914 3931	le due biciclette
+T62	LOC 3954 3962	spiaggia
+T63	PER 3971 3977	Chérie
+T64	PER 3995 4002	Cirillo
+T65	PER 4081 4087	Chérie
+T66	FAC 4121 4141	la larga passeggiata
+T67	LOC 4185 4225	sabbie , quelle vaste sabbie di Westende
+T68	GPE 4217 4225	Westende
+T69	LOC 4281 4294	quelle sabbie
+T70	LOC 4322 4343	tragiche dune deserte
+T71	PER 4346 4352	Chérie
+T72	PER 4787 4793	Chérie
+T73	LOC 4817 4854	il mezzo chilometro di arena asciutta
+T74	LOC 5471 5478	Il sole
+T75	PER 5538 5550	la fanciulla
+T76	LOC 5834 5853	il cerulo orizzonte
+T77	LOC 5933 5961	infinita azzurrità del mondo
+T78	LOC 5956 5961	mondo
+T79	VEH 5964 5976	Un aeroplano
+T80	GPE 5989 6002	Blankenberghe
+T81	GPE 6005 6013	Nieuport
+T82	PER 6041 6047	Chérie
+T83	VEH 6187 6200	l ' aeroplano
+T84	PER 6339 6345	pilota
+T85	LOC 6445 6464	la spiaggia lontana
+T86	PER 6490 6497	Mirella
+T87	PER 6547 6552	Frida
+T88	PER 6607 6614	Mirella
+T89	PER 6737 6750	Chéri - i - e
+T90	PER 6753 6766	Chéri - i - e
+T91	PER 6808 6814	Chérie
+T92	LOC 6857 6868	la spiaggia
+T93	PER 6871 6878	Mirella
+T94	PER 6968 6973	Frida
+T95	LOC 6995 6999	riva
+T96	PER 7264 7285	la governante tedesca
+T97	PER 7324 7330	Chérie
+T98	PER 7333 7340	Mirella
+T99	FAC 7375 7379	casa
+T100	LOC 7435 7443	spiaggia
+T101	PER 7618 7631	due fanciulle
+T102	LOC 7661 7667	sabbia
+T103	LOC 7703 7718	il sole cocente
+T104	PER 7773 7778	Frida
+T105	LOC 7818 7843	quella immensità sabbiosa
+T106	PER 7855 7881	due poveri esseri affogati
+T107	LOC 7923 7930	il mare
+T108	PER 8041 8061	Cirillo , il maestro
+T109	VEH 8065 8075	bicicletta
+T110	PER 8118 8128	le ragazze
+T111	VEH 8178 8190	una macchina
+T112	VEH 8202 8211	l ' altra
+T113	PER 8220 8254	quelle due piccole figure sdraiate
+T114	PER 8317 8322	Frida
+T115	PER 8349 8356	Mirella
+T116	VEH 8375 8407	una vecchia bicicletta rugginosa
+T117	PER 8417 8452	Chérie — snella figuretta scarlatta
+T118	LOC 8588 8612	sabbia elastica e liscia
+T119	PER 8634 8639	Frida
+T120	PER 8661 8668	Mirella
+T121	VEH 8687 8703	suo ferravecchio
+T122	PER 8711 8729	l ' uomo - scimmia
+T123	VEH 8805 8815	bicicletta
+T124	PER 8846 8851	Frida
+T125	PER 8902 8909	Mirella
+T126	VEH 8963 8976	la bicicletta
+T127	LOC 9023 9031	nel mare
+T128	PER 9034 9041	Mirella
+T129	PER 9066 9071	Frida
+T130	VEH 9080 9090	bicicletta
+T131	PER 9102 9116	uomo - scimmia
+T132	PER 9207 9212	Frida
+T133	VEH 9269 9288	una barca capovolta
+T134	GPE 9329 9338	Säkkingen
+T135	PER 9361 9366	Frida
+T136	FAC 9463 9475	d ' un ponte
+T137	GPE 9507 9528	piccola città lontana
+T138	LOC 9535 9539	Reno
+T139	PER 9549 9554	Frida
+T140	PER 9591 9599	Scheffel
+T141	GPE 9617 9626	Säkkingen
+T142	FAC 9783 9808	quel famoso ponte coperto
+T143	FAC 9852 9861	davanzale
+T144	LOC 9954 9979	acque sonnolenti del Reno
+T145	LOC 9975 9979	Reno
+T146	ORG 10023 10029	scuola
+T147	PER 10072 10091	Victor von Scheffel
+T148	FAC 10200 10205	ponte
+T149	PER 10231 10236	poeta
+T150	GPE 10239 10248	Säkkingen
+T151	FAC 10257 10284	sue strade bianche e pulite
+T152	PER 10402 10407	Frida
+T153	LOC 10499 10522	acque del Mare del Nord
+T154	LOC 10509 10522	Mare del Nord
+T155	LOC 10531 10561	piana e ridente spiaggia belga
+T156	PER 10591 10597	Chérie
+T157	PER 10603 10610	Mirella
+T158	PER 10620 10634	uomo - scimmia
+T159	PER 10675 10703	i suoi compagni d ' iniquità
+T160	PER 10716 10721	tutti
+T161	PER 10741 10761	Egoisti tutti quanti
+T162	GPE 10815 10827	questo paese
+T163	PER 10915 10920	Frida
+T164	PER 11095 11105	Hidigeigei
+T165	PER 11116 11124	filosofo
+T166	PER 11279 11286	Mirella
+T167	PER 11309 11321	portalettere
+T168	PER 11374 11382	la bimba
+T169	FAC 11435 11442	salotto
+T170	PER 11448 11453	Frida
+T171	PER 11456 11462	Chérie
+T172	PER 11561 11592	Mademoiselle — Chérie — Brandès
+T173	FAC 11595 11609	Villa — Esther
+T174	PER 11641 11647	Chérie
+T175	PER 11689 11693	Lulù
+T176	PER 11702 11709	Mirella
+T177	PER 11734 11740	Chérie
+T178	PER 11796 11800	Lulù
+T179	PER 11834 11846	vostra madre
+T180	PER 11859 11864	Frida
+T181	PER 11903 11910	Mirella
+T182	PER 11929 11935	Chérie
+T183	PER 11953 11959	Chérie
+T184	PER 11962 11973	sua cognata
+T185	PER 11982 11992	sua figlia
+T186	PER 12005 12010	Frida
+T187	PER 12069 12076	Mirella
+T188	PER 12106 12149	Hochwolgeborenes Fräulein Frida Rothenstein
+T189	PER 12160 12167	Mirella
+T190	PER 12173 12178	Frida
+T191	PER 12265 12272	Mirella
+T192	PER 12357 12361	Lulù
+T193	PER 12377 12381	Papà
+T194	PER 12461 12468	Nessuno
+T195	PER 12497 12502	Frida
+T196	PER 12505 12511	Chérie
+T197	PER 12542 12549	Mirella
+T198	PER 12596 12601	Fritz
+T199	PER 12604 12624	Il domestico di Papà
+T200	PER 12620 12624	Papà
+T201	PER 12643 12672	Una hochwolgeborene Signorina
+T202	PER 12695 12707	un servitore
+T203	PER 12710 12715	Frida
+T204	PER 12807 12814	Mirella
+T205	PER 12905 12910	Frida
+T206	PER 13021 13027	Chérie

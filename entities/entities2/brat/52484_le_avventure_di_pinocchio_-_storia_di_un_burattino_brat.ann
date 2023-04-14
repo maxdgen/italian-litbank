@@ -1,0 +1,135 @@
+T0	PER 18 46	Maestro Ciliegia , falegname
+T1	PER 53 70	un pezzo di legno
+T2	PER 98 108	un bambino
+T3	PER 138 143	Un re
+T4	PER 163 185	i miei piccoli lettori
+T5	PER 195 202	ragazzi
+T6	FAC 428 437	le stanze
+T7	FAC 533 564	bottega di un vecchio falegname
+T8	PER 544 564	un vecchio falegname
+T9	PER 587 602	mastr ' Antonio
+T10	PER 616 621	tutti
+T11	PER 636 652	maestro Ciliegia
+T12	PER 759 775	maestro Ciliegia
+T13	PER 1316 1353	quel buon vecchio di maestro Ciliegia
+T14	FAC 1393 1399	stanza
+T15	PER 1471 1478	nessuno
+T16	PER 1507 1514	nessuno
+T17	FAC 1531 1541	un armadio
+T18	PER 1570 1577	nessuno
+T19	PER 1634 1641	nessuno
+T20	FAC 1662 1669	bottega
+T21	FAC 1705 1711	strada
+T22	PER 1716 1723	nessuno
+T23	PER 2055 2071	maestro Ciliegia
+T24	PER 2439 2460	questo pezzo di legno
+T25	PER 2511 2521	un bambino
+T26	PER 2616 2631	tutti gli altri
+T27	PER 2746 2754	qualcuno
+T28	PER 2775 2783	qualcuno
+T29	PER 2886 2912	quel povero pezzo di legno
+T30	FAC 2961 2983	le pareti della stanza
+T31	PER 3035 3049	qualche vocina
+T32	PER 3242 3255	quella vocina
+T33	PER 3610 3626	la solita vocina
+T34	PER 3714 3740	il povero maestro Ciliegia
+T35	PER 3973 3989	Maestro Ciliegia
+T36	PER 4018 4036	suo amico Geppetto
+T37	PER 4074 4099	un burattino maraviglioso
+T38	PER 4228 4240	il falegname
+T39	FAC 4302 4309	bottega
+T40	PER 4310 4337	un vecchietto tutto arzillo
+T41	PER 4360 4368	Geppetto
+T42	PER 4374 4396	i ragazzi del vicinato
+T43	PER 4482 4491	Polendina
+T44	PER 4587 4595	Geppetto
+T45	PER 4632 4641	Polendina
+T46	PER 4727 4742	mastr ' Antonio
+T47	PER 4753 4761	Geppetto
+T48	PER 4887 4902	compar Geppetto
+T49	PER 4929 4944	mastr ' Antonio
+T50	PER 5042 5054	il falegname
+T51	PER 5180 5205	un bel burattino di legno
+T52	PER 5211 5236	un burattino maraviglioso
+T53	PER 5306 5322	questo burattino
+T54	LOC 5337 5345	il mondo
+T55	PER 5427 5436	Polendina
+T56	PER 5447 5463	la solita vocina
+T57	PER 5521 5530	Polendina
+T58	PER 5533 5548	compar Geppetto
+T59	PER 5613 5625	il falegname
+T60	PER 5713 5722	Polendina
+T61	PER 6020 6035	mastr ' Antonio
+T62	PER 6079 6087	Geppetto
+T63	PER 6092 6100	Geppetto
+T64	PER 6157 6166	falegname
+T65	PER 6205 6220	mastr ' Antonio
+T66	PER 6274 6290	I due vecchietti
+T67	PER 6311 6325	ognuno di loro
+T68	PER 6436 6451	compar Geppetto
+T69	PER 6462 6474	il falegname
+T70	PER 6614 6629	Mastr ' Antonio
+T71	PER 6786 6791	amico
+T72	PER 6794 6811	il pezzo di legno
+T73	PER 6934 6949	povero Geppetto
+T74	PER 6988 7003	mastr ' Antonio
+T75	PER 7296 7304	Geppetto
+T76	PER 7342 7351	Polendina
+T77	PER 7360 7365	Asino
+T78	PER 7370 7379	Polendina
+T79	PER 7384 7390	Somaro
+T80	PER 7395 7404	Polendina
+T81	PER 7409 7426	Brutto scimmiotto
+T82	PER 7431 7440	Polendina
+T83	PER 7466 7475	Polendina
+T84	PER 7497 7505	Geppetto
+T85	PER 7549 7558	falegname
+T86	PER 7623 7638	mastr ' Antonio
+T87	PER 7854 7862	Geppetto
+T88	PER 7876 7903	il suo bravo pezzo di legno
+T89	PER 7920 7935	mastr ' Antonio
+T90	FAC 7963 7967	casa
+T91	PER 7976 7984	Geppetto
+T92	FAC 7997 8001	casa
+T93	PER 8034 8046	il burattino
+T94	PER 8070 8079	Pinocchio
+T95	PER 8103 8112	burattino
+T96	FAC 8115 8134	La casa di Geppetto
+T97	PER 8126 8134	Geppetto
+T98	FAC 8139 8159	una stanzina terrena
+T99	FAC 8322 8337	parete di fondo
+T100	FAC 8559 8563	casa
+T101	PER 8566 8574	Geppetto
+T102	PER 8723 8732	Pinocchio
+T103	PER 8783 8814	una famiglia intera di Pinocchi
+T104	PER 8817 8835	Pinocchio il padre
+T105	PER 8838 8856	Pinocchia la madre
+T106	PER 8859 8877	Pinocchi i ragazzi
+T107	PER 8882 8887	tutti
+T108	PER 8988 9001	suo burattino
+T109	PER 9228 9236	Geppetto
+T110	PER 9392 9399	Nessuno
+T111	PER 9587 9605	Il povero Geppetto
+T112	PER 9869 9877	Geppetto
+T113	FAC 9911 9915	muro
+T114	PER 10049 10057	Geppetto
+T115	PER 10268 10276	Geppetto
+T116	PER 10394 10403	burattino
+T117	PER 10408 10417	Pinocchio
+T118	PER 10463 10472	Pinocchio
+T119	PER 10610 10618	Geppetto
+T120	PER 10706 10715	Pinocchio
+T121	PER 10732 10754	Birba d ' un figliuolo
+T122	PER 10826 10835	tuo padre
+T123	PER 10845 10856	ragazzo mio
+T124	PER 10951 10959	Geppetto
+T125	PER 11134 11146	il burattino
+T126	PER 11236 11245	Pinocchio
+T127	PER 11430 11439	Pinocchio
+T128	FAC 11483 11492	la stanza
+T129	FAC 11525 11529	casa
+T130	FAC 11544 11550	strada
+T131	PER 11577 11595	il povero Geppetto
+T132	PER 11650 11677	quel birichino di Pinocchio
+T133	FAC 11747 11768	lastrico della strada
+T134	PER 11820 11829	contadini

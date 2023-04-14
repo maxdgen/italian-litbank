@@ -1,0 +1,145 @@
+T0	PER 11 27	signor Fogazzaro
+T1	PER 88 106	il generale Trézel
+T2	PER 201 219	la signorina Prina
+T3	PER 340 348	generale
+T4	PER 461 468	Filippo
+T5	PER 479 506	la signorina a suo fratello
+T6	PER 494 506	suo fratello
+T7	PER 576 585	Stradella
+T8	ORG 653 669	società milanese
+T9	FAC 717 729	Hôtel Brocco
+T10	PER 834 852	La signorina Prina
+T11	PER 855 879	le altre amabili signore
+T12	PER 882 903	un paio di giovinotti
+T13	PER 1050 1059	damigella
+T14	PER 1190 1208	donna Luisa Trézel
+T15	PER 1302 1321	il signor Fogazzaro
+T16	PER 1352 1362	sua fedele
+T17	PER 1365 1370	Tutti
+T18	PER 1447 1454	Filippo
+T19	PER 1579 1595	signor Fogazzaro
+T20	PER 1604 1615	il generale
+T21	PER 1730 1739	suonatore
+T22	PER 1742 1756	La sua signora
+T23	PER 1850 1864	quella persona
+T24	PER 1869 1880	donna Luisa
+T25	PER 1890 1903	la Sua fedele
+T26	PER 1910 1929	una giovane signora
+T27	GPE 1959 1969	Bernardino
+T28	PER 1979 1986	Nessuno
+T29	PER 2052 2059	nessuno
+T30	PER 2062 2085	La gente dell ' albergo
+T31	FAC 2078 2085	albergo
+T32	PER 2187 2199	i forestieri
+T33	PER 2303 2317	Signora Fedele
+T34	LOC 2515 2519	mare
+T35	PER 3021 3036	generale Trézel
+T36	PER 3157 3167	le signore
+T37	FAC 3391 3405	sala da pranzo
+T38	PER 3432 3442	miei amici
+T39	PER 3609 3616	Filippo
+T40	PER 3688 3705	la signora Fedele
+T41	PER 3797 3813	la signora Prina
+T42	PER 3866 3902	d ' un cieco suonatore di pianoforte
+T43	PER 3905 3915	Un signore
+T44	PER 3995 4009	il concertista
+T45	PER 4058 4070	suo compagno
+T46	PER 4088 4096	qualcuno
+T47	PER 4141 4151	Le signore
+T48	PER 4177 4201	i giuocatori di biliardo
+T49	PER 4225 4248	i giuocatori di tarocco
+T50	PER 4268 4286	il generale Trézel
+T51	PER 4324 4329	Tutti
+T52	FAC 4350 4354	sala
+T53	FAC 4366 4372	loggia
+T54	PER 4439 4474	antico frequentatore di quelle Alpi
+T55	LOC 4463 4474	quelle Alpi
+T56	LOC 4670 4674	luna
+T57	LOC 4724 4743	due montagne enormi
+T58	LOC 4924 4928	cime
+T59	LOC 5033 5046	cielo azzurro
+T60	PER 5062 5078	signor Fogazzaro
+T61	PER 5211 5228	la signora Fedele
+T62	PER 5252 5264	concittadini
+T63	PER 5550 5568	misteriosa signora
+T64	PER 5710 5731	il compagno del cieco
+T65	PER 6135 6146	Il compagno
+T66	PER 6162 6172	Un signore
+T67	PER 6192 6203	il compagno
+T68	PER 6266 6294	una compagna , una signorina
+T69	PER 6512 6517	amici
+T70	PER 6540 6547	nessuno
+T71	PER 6734 6742	famiglia
+T72	PER 6799 6806	signora
+T73	PER 6847 6855	La gente
+T74	PER 6954 6965	il generale
+T75	PER 7056 7081	il padrone dell ' albergo
+T76	FAC 7074 7081	albergo
+T77	PER 7122 7148	concertista , signor Zuane
+T78	PER 7184 7194	sua figlia
+T79	PER 7249 7262	signor Brocco
+T80	PER 7305 7321	questo poveruomo
+T81	FAC 7392 7406	infimo albergo
+T82	PER 7425 7435	Le signore
+T83	PER 7490 7536	Un valente allievo del conservatorio di Milano
+T84	FAC 7513 7536	conservatorio di Milano
+T85	GPE 7530 7536	Milano
+T86	PER 7588 7601	il giovinotto
+T87	PER 7626 7647	Il cieco signor Zuane
+T88	PER 8019 8034	il mio compagno
+T89	PER 8096 8114	la signorina Zuane
+T90	FAC 8129 8142	camera vicina
+T91	PER 8199 8211	signor Zuane
+T92	PER 8244 8256	La signorina
+T93	PER 8461 8475	signora Fedele
+T94	PER 8500 8504	papà
+T95	PER 8507 8514	signore
+T96	PER 8690 8722	una signorina veneziana , bionda
+T97	PER 8750 8767	la signora Fedele
+T98	PER 8808 8812	papà
+T99	PER 8887 8894	Lisetta
+T100	PER 8984 8999	il signor Zuane
+T101	PER 9110 9116	Fedele
+T102	PER 9139 9156	signorina Lisetta
+T103	PER 9228 9236	lo Zuane
+T104	FAC 9255 9267	Hôtel Brocco
+T105	FAC 9295 9300	piano
+T106	PER 9555 9564	noi tutti
+T107	PER 9877 9893	moltissima gente
+T108	ORG 9903 9934	la società dell ' Hôtel Ravizza
+T109	FAC 9921 9934	Hôtel Ravizza
+T110	PER 9983 10000	La signora Fedele
+T111	PER 10048 10056	il cieco
+T112	PER 10139 10144	Zuane
+T113	FAC 10166 10173	albergo
+T114	PER 10253 10264	un fanatico
+T115	PER 10304 10311	artista
+T116	PER 10427 10438	Il pubblico
+T117	PER 10574 10603	l ' allievo del Conservatorio
+T118	FAC 10590 10603	Conservatorio
+T119	PER 10647 10659	povero cieco
+T120	FAC 10760 10769	gabinetto
+T121	PER 10789 10804	I pochi rimasti
+T122	PER 10876 10893	la signora Fedele
+T123	FAC 10935 10940	piano
+T124	PER 11181 11189	lo Zuane
+T125	PER 11239 11255	signorina malata
+T126	PER 11316 11336	La signorina Lisetta
+T127	PER 11631 11638	Lisetta
+T128	PER 11657 11665	lo Zuane
+T129	PER 11711 11738	alcuno dei signori presenti
+T130	PER 11823 11840	la signora Fedele
+T131	PER 11879 11887	lo Zuane
+T132	PER 11892 11905	una signorina
+T133	PER 12035 12051	il ragazzo Prina
+T134	PER 12173 12181	lo Zuane
+T135	PER 12292 12308	la gentile donna
+T136	PER 12317 12326	La Fedele
+T137	PER 12497 12502	altri
+T138	PER 12567 12582	il signor Zuane
+T139	PER 12727 12747	la bella venezianina
+T140	PER 12750 12758	Lo Zuane
+T141	PER 12786 12806	un gruppo di persone
+T142	PER 12809 12819	La signora
+T143	PER 13016 13045	l ' allievo del Conservatorio
+T144	FAC 13032 13045	Conservatorio

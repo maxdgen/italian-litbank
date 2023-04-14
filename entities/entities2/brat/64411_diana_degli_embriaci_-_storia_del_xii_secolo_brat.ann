@@ -1,0 +1,191 @@
+T0	PER 29 36	Leandro
+T1	PER 97 104	Vergine
+T2	LOC 191 212	un cielo senza nuvole
+T3	LOC 219 267	tiepidi raggi di un sole che pareva di primavera
+T4	GPE 315 322	Liguria
+T5	LOC 329 357	la limpidezza del firmamento
+T6	LOC 408 426	il vecchio Saturno
+T7	FAC 514 531	Le case di Genova
+T8	GPE 525 531	Genova
+T9	FAC 566 570	mura
+T10	LOC 645 649	sole
+T11	FAC 678 734	la torre degli Embriaci , la regina delle torri genovesi
+T12	PER 693 701	Embriaci
+T13	PER 899 917	i lettori benevoli
+T14	FAC 944 956	quella torre
+T15	GPE 1013 1018	città
+T16	PER 1054 1062	cicerone
+T17	GPE 1091 1097	Genova
+T18	LOC 1267 1283	colle di Sarzano
+T19	LOC 1392 1396	mare
+T20	LOC 1474 1484	tramontana
+T21	FAC 1516 1538	porta di Sant ' Andrea
+T22	GPE 1580 1585	città
+T23	PER 1688 1699	i cittadini
+T24	FAC 1734 1741	le case
+T25	PER 1762 1771	i consoli
+T26	FAC 1817 1824	le mura
+T27	LOC 1831 1838	ponente
+T28	FAC 1882 1917	la chiesa cattedrale di San Lorenzo
+T29	FAC 1920 1927	le case
+T30	FAC 1955 1976	il palazzo del Comune
+T31	LOC 2002 2009	il mare
+T32	FAC 2023 2033	una chiesa
+T33	FAC 2075 2097	San Pietro della Porta
+T34	FAC 2180 2199	piazza de ' Bianchi
+T35	GPE 2216 2224	la città
+T36	FAC 2257 2264	le case
+T37	FAC 2299 2314	torri di Babele
+T38	GPE 2308 2314	Babele
+T39	LOC 2399 2423	una breve lista di cielo
+T40	PER 2487 2499	gli abitanti
+T41	LOC 2504 2520	colle di Sarzano
+T42	PER 2546 2558	gli Embriaci
+T43	FAC 2568 2573	torre
+T44	LOC 2599 2608	il pendìo
+T45	LOC 2653 2689	la sommità delle colline circostanti
+T46	LOC 2696 2707	mare vicino
+T47	FAC 2710 2729	La torre minacciosa
+T48	LOC 2832 2839	levante
+T49	GPE 2847 2856	Carignano
+T50	FAC 2910 2942	le case dei Fieschi e de ' Sauli
+T51	PER 2922 2929	Fieschi
+T52	PER 2937 2942	Sauli
+T53	GPE 2988 3013	il vasto colmo di Sarzano
+T54	FAC 3041 3070	le torri del vecchio Castello
+T55	FAC 3087 3112	case dell ' arcivescovato
+T56	ORG 3099 3112	arcivescovato
+T57	LOC 3150 3157	i monti
+T58	LOC 3160 3195	le colline digradanti ad anfiteatro
+T59	FAC 3206 3229	chiesa di Santo Stefano
+T60	FAC 3234 3259	quella di Sant ' Ambrogio
+T61	ORG 3302 3318	clero ambrosiano
+T62	PER 3373 3381	genovesi
+T63	PER 3384 3392	milanesi
+T64	LOC 3398 3405	ponente
+T65	LOC 3437 3455	le coste dei monti
+T66	LOC 3472 3485	le loro falde
+T67	LOC 3488 3495	il mare
+T68	LOC 3496 3510	un largo campo
+T69	FAC 3516 3528	sparse ville
+T70	FAC 3551 3631	i campanili di San Giovanni di Piè , di San Siro e di Nostra Signora delle Vigne
+T71	PER 3682 3689	lettori
+T72	PER 3735 3810	messer Guglielmo Embriaco , padrone di quella torre e delle case sottoposte
+T73	FAC 3774 3786	quella torre
+T74	FAC 3795 3810	case sottoposte
+T75	PER 3868 3909	quel degno capitano ed ottimate di Genova
+T76	GPE 3903 3909	Genova
+T77	PER 3914 3933	i lettori sullodati
+T78	PER 4113 4132	una bella fanciulla
+T79	FAC 4213 4218	torre
+T80	FAC 4387 4398	il terrazzo
+T81	LOC 4403 4410	il sole
+T82	PER 4492 4501	fanciulla
+T83	PER 4816 4837	i castigati scrittori
+T84	PER 4891 4907	tutti i genovesi
+T85	PER 5019 5045	bella Diana degli Embriaci
+T86	PER 5579 5584	donna
+T87	PER 5622 5628	Laonde
+T88	PER 5693 5710	giovani cavalieri
+T89	PER 5767 5776	sue donne
+T90	FAC 5807 5836	chiesuola vicina di San Cosmo
+T91	FAC 5876 5897	San Pietro alla Porta
+T92	PER 5900 5905	Diana
+T93	PER 5938 5944	alcuno
+T94	PER 6000 6025	le istitutrici forastiere
+T95	ORG 6028 6055	i monasteri del Sacro Cuore
+T96	PER 6117 6128	bella Diana
+T97	GPE 6136 6147	Terra Santa
+T98	PER 6161 6170	suo padre
+T99	PER 6186 6196	i fratelli
+T100	PER 6224 6233	fanciulle
+T101	FAC 6320 6324	casa
+T102	GPE 6359 6370	Terra Santa
+T103	PER 6380 6396	qualchedun altro
+T104	PER 6541 6553	la fanciulla
+T105	FAC 6630 6642	quella torre
+T106	LOC 6679 6683	mare
+T107	LOC 6704 6711	levante
+T108	LOC 6847 6851	sole
+T109	LOC 6860 6867	il mare
+T110	LOC 6891 6896	cielo
+T111	FAC 7226 7230	Faro
+T112	PER 7367 7372	Diana
+T113	PER 7422 7429	un uomo
+T114	PER 7629 7639	Il vecchio
+T115	PER 7864 7908	un vecchio nostromo delle Riviere ligustiche
+T116	LOC 7890 7908	Riviere ligustiche
+T117	PER 8161 8179	la giovine signora
+T118	VEH 8241 8249	sei navi
+T119	PER 8352 8373	la Embriaca , madonna
+T120	PER 8409 8481	il vostro gran genitore , il valoroso messer Guglielmo , Testa di maglio
+T121	PER 8488 8503	Testa di maglio
+T122	PER 8533 8541	genovesi
+T123	PER 8544 8569	messer Guglielmo Embriaco
+T124	GPE 8684 8695	Gerusalemme
+T125	PER 8735 8748	il forte uomo
+T126	PER 8811 8819	Saraceni
+T127	PER 8952 8962	il vecchio
+T128	PER 9103 9119	messer Guglielmo
+T129	PER 9159 9170	balestrieri
+T130	PER 9173 9188	I miei compagni
+T131	PER 9288 9306	Mio povero Anselmo
+T132	PER 9379 9389	tua moglie
+T133	PER 9394 9404	Mia moglie
+T134	PER 9418 9440	il vecchio balestriere
+T135	PER 9477 9484	madonna
+T136	GPE 9520 9529	Antiochia
+T137	PER 9633 9641	Saracino
+T138	PER 9717 9724	Anselmo
+T139	PER 9740 9745	Diana
+T140	PER 9768 9783	tutte le galere
+T141	PER 9841 9848	madonna
+T142	PER 9947 9959	l ' Embriaca
+T143	PER 9981 9993	la Raschiera
+T144	PER 9996 10006	la Mallona
+T145	PER 10009 10038	Quell ' altre due più lontane
+T146	PER 10066 10075	la Marina
+T147	PER 10078 10088	la Caffara
+T148	PER 10091 10104	Quella laggiù
+T149	LOC 10148 10172	promontorio di Carignano
+T150	PER 10188 10198	la Pomella
+T151	PER 10201 10209	Poverina
+T152	GPE 10296 10307	Terra Santa
+T153	PER 10308 10337	il conte Goffredo di Buglione
+T154	PER 10347 10360	il degno uomo
+T155	PER 10407 10433	custode del Santo Sepolcro
+T156	FAC 10419 10433	Santo Sepolcro
+T157	PER 10464 10471	Mallona
+T158	PER 10476 10486	la Spinola
+T159	PER 10502 10541	vostro cugino , il buon messer Lamberto
+T160	PER 10606 10619	la Carmandina
+T161	PER 10665 10681	quell ' altra là
+T162	PER 10695 10707	La penultima
+T163	PER 10735 10781	quella di vostro zio , il console Amico Brusco
+T164	PER 10745 10781	vostro zio , il console Amico Brusco
+T165	PER 10881 10886	Diana
+T166	PER 10938 10943	tutti
+T167	FAC 10954 10958	casa
+T168	PER 10967 10978	le famiglie
+T169	PER 10992 11002	i lor cari
+T170	PER 11027 11041	il balestriere
+T171	PER 11070 11103	il leggiadro Arrigo di Carmandino
+T172	PER 11108 11115	Anselmo
+T173	PER 11130 11137	madonna
+T174	PER 11376 11394	mio povero Anselmo
+T175	PER 11429 11434	tutti
+T176	FAC 11456 11467	nostra casa
+T177	PER 11472 11477	Tutti
+T178	PER 11536 11568	messere Guglielmo , vostro padre
+T179	PER 11573 11601	messer Ugo , vostro fratello
+T180	PER 11648 11659	qualcheduno
+T181	PER 11672 11684	la fanciulla
+T182	PER 11795 11806	balestriere
+T183	PER 11819 11834	messere Nicolao
+T184	PER 11849 11856	madonna
+T185	PER 11865 11883	un prode cavaliere
+T186	PER 11927 11949	quel Gandolfo del Moro
+T187	PER 12054 12073	suo fedel servitore
+T188	PER 12076 12103	la fanciulla degli Embriaci
+T189	PER 12137 12144	Anselmo
+T190	PER 12304 12326	la sua giovine signora

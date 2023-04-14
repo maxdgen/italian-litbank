@@ -1,0 +1,162 @@
+T0	PER 0 10	La signora
+T1	FAC 20 24	casa
+T2	PER 107 110	Dio
+T3	FAC 271 291	studio di suo marito
+T4	PER 281 291	suo marito
+T5	PER 358 366	il sordo
+T6	PER 379 389	lo stupido
+T7	PER 392 404	il superuomo
+T8	PER 942 954	quest ' uomo
+T9	PER 957 970	questo marito
+T10	PER 973 1001	questo esseraccio spregevole
+T11	PER 1016 1022	marito
+T12	PER 1056 1067	un facchino
+T13	PER 1153 1169	una povera donna
+T14	PER 1210 1219	una donna
+T15	PER 1299 1306	un uomo
+T16	PER 1333 1342	una donna
+T17	PER 1413 1425	Marx Giraldi
+T18	PER 1560 1566	moglie
+T19	PER 1677 1688	il mio uomo
+T20	PER 1691 1699	la donna
+T21	PER 1752 1761	la mummia
+T22	PER 2002 2021	Il professor Marchi
+T23	FAC 2077 2089	Grande Hôtel
+T24	PER 2422 2431	Imbecille
+T25	PER 2453 2460	signora
+T26	PER 2531 2551	un uomo di mezza età
+T27	PER 2607 2616	il marito
+T28	PER 2619 2629	La signora
+T29	PER 2711 2735	un omarino mezzo spelato
+T30	PER 2841 2849	scrivani
+T31	PER 2882 2897	le dattilografe
+T32	PER 3061 3079	un uomo d ' affari
+T33	PER 3160 3174	signor Giraldi
+T34	PER 3194 3201	signora
+T35	PER 3355 3365	il signore
+T36	PER 3542 3548	i vivi
+T37	PER 3552 3559	i morti
+T38	PER 3596 3605	il prof .
+T39	PER 3606 3612	Marchi
+T40	FAC 3615 3627	Grande Hôtel
+T41	PER 3638 3678	il Marchi , professore dell ' Università
+T42	ORG 3668 3678	Università
+T43	PER 3761 3779	Gian Franco Marchi
+T44	PER 3875 3887	senatore X .
+T45	PER 3958 3968	il signore
+T46	FAC 4016 4024	collegio
+T47	PER 4064 4084	Un giovane di valore
+T48	PER 4107 4120	uno dei pochi
+T49	PER 4176 4185	amico mio
+T50	LOC 4339 4346	deserto
+T51	PER 4455 4467	quell ' uomo
+T52	PER 4634 4645	l ' omarino
+T53	FAC 4709 4721	Grande Hôtel
+T54	PER 4727 4736	il Marchi
+T55	PER 4846 4856	Il signore
+T56	PER 4878 4889	L ' omarino
+T57	PER 5298 5305	signora
+T58	FAC 5330 5342	Grande Hôtel
+T59	PER 5345 5354	il prof .
+T60	PER 5355 5373	Gian Franco Marchi
+T61	PER 5393 5411	la signora Giraldi
+T62	PER 5414 5424	La signora
+T63	PER 5534 5544	la signora
+T64	PER 5547 5571	quell ' uomo , il prof .
+T65	PER 5572 5578	Marchi
+T66	PER 5734 5746	quell ' uomo
+T67	PER 5928 5937	un asceta
+T68	PER 5962 5981	una suora di carità
+T69	PER 6013 6025	certi medici
+T70	PER 6079 6091	altri medici
+T71	PER 6104 6122	La signora Giraldi
+T72	PER 6152 6170	parecchi di medici
+T73	PER 6279 6289	La signora
+T74	PER 6374 6415	Bella donna , elegante , donna di spirito
+T75	PER 6488 6494	moglie
+T76	PER 6497 6504	dottore
+T77	PER 6664 6670	prof .
+T78	PER 6671 6689	Gian Franco Marchi
+T79	PER 6692 6702	La signora
+T80	FAC 6740 6762	Le stanze dell ' Hôtel
+T81	LOC 6810 6817	il sole
+T82	GPE 6857 6865	la città
+T83	PER 6938 6948	Il dottore
+T84	PER 7102 7109	signora
+T85	PER 7144 7154	mio marito
+T86	PER 7157 7167	Il dottore
+T87	PER 7240 7246	marito
+T88	PER 7339 7347	ammalata
+T89	PER 7357 7367	Il dottore
+T90	PER 7480 7490	il dottore
+T91	PER 7519 7529	La signora
+T92	PER 7551 7561	La signora
+T93	PER 7657 7664	signore
+T94	PER 7697 7704	signora
+T95	GPE 7715 7726	Stati Uniti
+T96	PER 7736 7746	la signora
+T97	PER 7750 7758	i medici
+T98	PER 7860 7872	le Americane
+T99	PER 7942 7949	signora
+T100	PER 8012 8022	il dottore
+T101	GPE 8050 8057	America
+T102	PER 8078 8088	la signora
+T103	PER 8280 8290	mio marito
+T104	PER 8327 8350	Un brutale , mio marito
+T105	PER 8356 8364	I mariti
+T106	PER 8415 8425	il dottore
+T107	PER 8441 8450	un medico
+T108	PER 8476 8486	la signora
+T109	PER 8517 8527	il dottore
+T110	PER 8649 8659	suo marito
+T111	PER 8846 8853	signora
+T112	PER 8875 8885	il dottore
+T113	PER 8997 9007	suo marito
+T114	PER 9242 9252	mio marito
+T115	PER 9286 9296	la signora
+T116	PER 9322 9329	dottore
+T117	PER 9995 10002	signora
+T118	FAC 10169 10173	casa
+T119	PER 10216 10223	signora
+T120	PER 10430 10440	suo marito
+T121	FAC 10572 10578	teatro
+T122	PER 10621 10630	amico mio
+T123	FAC 10647 10653	teatro
+T124	PER 10665 10674	amico mio
+T125	PER 10748 10757	cameriere
+T126	PER 10786 10796	Mio marito
+T127	PER 10806 10812	Giulio
+T128	PER 10815 10821	Jacopo
+T129	PER 10844 10848	Marx
+T130	PER 10891 10895	Marx
+T131	FAC 10901 10905	casa
+T132	PER 11299 11309	villanello
+T133	PER 11528 11538	una moglie
+T134	PER 11617 11622	donna
+T135	PER 11700 11706	marito
+T136	LOC 11793 11801	campagna
+T137	PER 11828 11832	Marx
+T138	PER 11955 11962	signora
+T139	PER 11968 11973	donna
+T140	PER 11996 12003	maestra
+T141	FAC 12047 12052	hôtel
+T142	VEH 12073 12087	l ' automobile
+T143	PER 12163 12183	l ' illustre dottore
+T144	PER 12195 12205	la signora
+T145	FAC 12214 12223	vestibolo
+T146	VEH 12281 12295	l ' automobile
+T147	PER 12298 12308	La signora
+T148	PER 12365 12375	il dottore
+T149	FAC 12501 12509	stazione
+T150	VEH 12577 12588	le macchine
+T151	PER 12648 12657	Valchiria
+T152	PER 12660 12670	Il dottore
+T153	PER 12749 12757	qualcuno
+T154	PER 12760 12767	Un uomo
+T155	PER 12816 12828	caro Giraldi
+T156	PER 13018 13028	scienziati
+T157	PER 13128 13148	i più grandi oratori
+T158	PER 13158 13175	il signor Giraldi
+T159	PER 13199 13219	tutti degli isterici
+T160	PER 13244 13254	mia moglie
+T161	PER 13327 13337	tua moglie

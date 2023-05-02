@@ -1,0 +1,169 @@
+T0	PER 46 63	contessa Orsolina
+T1	PER 233 247	piccola Agnese
+T2	PER 253 265	fanciulletta
+T3	PER 297 304	padrona
+T4	PER 645 653	Contessa
+T5	PER 794 799	serva
+T6	PER 804 818	quella monella
+T7	PER 931 939	famiglia
+T8	FAC 971 987	Caffè d ' Europa
+T9	GPE 981 987	Europa
+T10	PER 993 1007	piccola Agnese
+T11	FAC 1025 1029	casa
+T12	PER 1033 1042	sguattera
+T13	PER 1048 1053	cuoca
+T14	PER 1059 1068	cameriera
+T15	PER 1074 1083	bambinaia
+T16	PER 1158 1175	contessa Orsolina
+T17	FAC 1288 1292	casa
+T18	PER 1319 1327	Contessa
+T19	PER 1342 1347	tutti
+T20	PER 1348 1356	Orsolina
+T21	PER 1447 1478	pezzo di donna alta e tarchiata
+T22	PER 1644 1652	Contessa
+T23	PER 1714 1719	bimba
+T24	PER 1762 1769	padrona
+T25	PER 1949 1965	quella smorfiosa
+T26	PER 2002 2009	signora
+T27	PER 2164 2178	povera vittima
+T28	PER 2198 2204	Agnese
+T29	PER 2488 2493	bimba
+T30	PER 2668 2676	Contessa
+T31	FAC 2836 2842	cucina
+T32	PER 2865 2871	Agnese
+T33	PER 3166 3171	bimba
+T34	PER 3321 3329	Contessa
+T35	PER 3366 3377	indemoniata
+T36	PER 3491 3509	piccina spaventata
+T37	FAC 3706 3712	cucina
+T38	FAC 3734 3748	stanza attigua
+T39	PER 3955 3961	vicini
+T40	PER 4037 4048	tanti matti
+T41	PER 4051 4067	Quel personaggio
+T42	PER 4100 4131	marito della terribile Contessa
+T43	PER 4113 4131	terribile Contessa
+T44	PER 4137 4189	conte e cavaliere Venceslao Portomanero , professore
+T45	FAC 4220 4244	regio Ginnasio di Verona
+T46	GPE 4238 4244	Verona
+T47	PER 4307 4314	signora
+T48	PER 4322 4339	questa sciagurata
+T49	PER 4379 4383	uomo
+T50	PER 4471 4476	tutti
+T51	PER 4491 4503	signor Conte
+T52	PER 4521 4528	bambina
+T53	PER 4670 4676	Agnese
+T54	PER 4860 4872	fanciulletta
+T55	PER 4935 4942	padrona
+T56	PER 4952 4975	Agnese , o la bambinaia
+T57	PER 4998 5015	contessa Orsolina
+T58	FAC 5033 5049	casa Portomanero
+T59	PER 5038 5049	Portomanero
+T60	GPE 5160 5185	verde paesello del Tirolo
+T61	LOC 5190 5203	prati odorosi
+T62	GPE 5246 5252	Verona
+T63	FAC 5298 5334	quartierino privo d ' aria e di luce
+T64	PER 5362 5370	Contessa
+T65	PER 5395 5416	personale di servizio
+T66	PER 5424 5433	sua amica
+T67	GPE 5446 5452	Trento
+T68	PER 5471 5479	tirolesi
+T69	PER 5510 5515	altre
+T70	PER 5704 5723	Agnese dal Trentino
+T71	GPE 5715 5723	Trentino
+T72	PER 5727 5735	Contessa
+T73	FAC 5772 5780	stazione
+T74	PER 5846 5864	tutte le bambinaie
+T75	PER 5903 5910	signora
+T76	PER 5929 5934	altre
+T77	PER 5979 5993	nuova arrivata
+T78	PER 6114 6120	Agnese
+T79	PER 6123 6139	signora Contessa
+T80	PER 6233 6250	padrona dispotica
+T81	PER 6276 6287	buona mamma
+T82	PER 6334 6342	Contessa
+T83	PER 6400 6411	sua persona
+T84	PER 6494 6516	sua parente di Venezia
+T85	GPE 6509 6516	Venezia
+T86	PER 6522 6529	bambina
+T87	PER 6610 6622	quel donnone
+T88	PER 6628 6644	signora Contessa
+T89	VEH 6678 6695	vetture di piazza
+T90	LOC 6689 6695	piazza
+T91	FAC 6744 6748	casa
+T92	PER 6772 6778	Agnese
+T93	PER 6857 6865	Contessa
+T94	PER 7055 7061	Agnese
+T95	PER 7090 7095	bimba
+T96	PER 7272 7288	signora Contessa
+T97	PER 7371 7379	Contessa
+T98	PER 7508 7520	signor Conte
+T99	PER 7680 7687	Rosalia
+T100	PER 7693 7700	signora
+T101	FAC 7783 7787	casa
+T102	PER 7930 7957	due persone sole da servire
+T103	PER 7967 7974	Rosalia
+T104	PER 8012 8019	Rosalia
+T105	PER 8038 8044	Agnese
+T106	PER 8180 8187	padrona
+T107	PER 8277 8302	altra persona di servizio
+T108	PER 8326 8356	tutte viziose , sudice , ladre
+T109	PER 8375 8381	Agnese
+T110	FAC 8443 8453	sua cucina
+T111	PER 8459 8476	padrona dispotica
+T112	PER 8491 8508	due donne insieme
+T113	FAC 8593 8609	casa del diavolo
+T114	PER 8602 8609	diavolo
+T115	PER 8621 8633	signor Conte
+T116	PER 8756 8764	famiglia
+T117	LOC 8792 8802	Piazza Brà
+T118	PER 8808 8816	Contessa
+T119	PER 8827 8833	Agnese
+T120	FAC 8837 8853	Caffè d ' Europa
+T121	GPE 8847 8853	Europa
+T122	PER 8896 8901	bimba
+T123	ORG 8983 8988	banda
+T124	LOC 8995 9001	piazza
+T125	FAC 9034 9048	sala del Caffè
+T126	PER 9129 9136	Rosalia
+T127	LOC 9283 9289	piazza
+T128	FAC 9317 9322	Arena
+T129	PER 9399 9413	Cristiani vivi
+T130	GPE 9497 9501	Mori
+T131	GPE 9513 9545	capoluogo del paesello di Agnese
+T132	GPE 9527 9545	paesello di Agnese
+T133	PER 9539 9545	Agnese
+T134	GPE 9561 9565	Mori
+T135	GPE 9568 9574	Verona
+T136	PER 9580 9585	bimba
+T137	LOC 9656 9681	quella piazza così grande
+T138	FAC 9688 9715	tutte quelle casone bianche
+T139	PER 9722 9736	quella padrona
+T140	FAC 9842 9860	sua povera casetta
+T141	PER 9868 9873	mamma
+T142	PER 9878 9884	Menico
+T143	PER 9939 9946	signora
+T144	PER 9989 9997	poverina
+T145	PER 10145 10161	fitta di persone
+T146	PER 10180 10185	tutte
+T147	VEH 10431 10445	grossa vettura
+T148	FAC 10635 10663	ampia tettoia della stazione
+T149	FAC 10655 10663	stazione
+T150	PER 10752 10770	folla affaccendata
+T151	PER 10841 10851	conduttore
+T152	VEH 10906 10911	treno
+T153	VEH 11079 11087	macchina
+T154	VEH 11103 11108	treno
+T155	PER 11510 11518	Contessa
+T156	FAC 11647 11651	casa
+T157	PER 11690 11696	marito
+T158	PER 11704 11719	nuova bambinaia
+T159	PER 11906 11912	Agnese
+T160	PER 12034 12041	padrona
+T161	PER 12199 12208	fanciulla
+T162	PER 12368 12373	mamma
+T163	PER 12380 12386	Menico
+T164	PER 12505 12522	contessa Orsolina
+T165	PER 12598 12607	bambinaia
+T166	FAC 12667 12671	casa
+T167	PER 12707 12714	signora
+T168	FAC 12833 12839	camera

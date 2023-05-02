@@ -1,0 +1,224 @@
+T0	PER 20 25	donna
+T1	PER 34 103	numerosi commessi del grande negozio di maglieria Adolfo Scotti e C .
+T2	FAC 56 103	grande negozio di maglieria Adolfo Scotti e C .
+T3	PER 109 116	signora
+T4	PER 140 178	suo commesso di fiducia , il Baganella
+T5	FAC 300 304	casa
+T6	FAC 327 332	villa
+T7	PER 363 381	Vittorina Ornavati
+T8	PER 426 435	direttore
+T9	PER 543 574	cliente di sì grande importanza
+T10	PER 592 602	suo marito
+T11	PER 649 658	Baganella
+T12	PER 661 677	signora Ornavati
+T13	PER 747 760	altro giovane
+T14	PER 792 797	Celso
+T15	PER 803 812	Baganella
+T16	PER 838 847	Vittorina
+T17	PER 867 877	suo marito
+T18	PER 900 914	Celso Ornavati
+T19	PER 992 1006	quel Baganella
+T20	PER 1045 1068	giovane troppo elegante
+T21	PER 1239 1253	Celso Ornavati
+T22	VEH 1465 1470	treno
+T23	PER 1487 1496	Vittorina
+T24	FAC 1503 1508	villa
+T25	GPE 1512 1517	città
+T26	PER 1536 1547	Oscar Wilde
+T27	PER 1632 1641	Vittorina
+T28	PER 1662 1671	direttore
+T29	PER 1695 1700	Celso
+T30	PER 1735 1743	commesso
+T31	PER 1778 1801	giovane troppo elegante
+T32	PER 1847 1852	donna
+T33	PER 1875 1880	donna
+T34	PER 1934 1963	donna che entra in un negozio
+T35	FAC 1956 1963	negozio
+T36	PER 1986 1990	uomo
+T37	PER 2181 2188	giovine
+T38	PER 2328 2342	Celso Ornavati
+T39	PER 2402 2409	giovane
+T40	PER 2443 2452	Vittorina
+T41	PER 2670 2675	altri
+T42	PER 2687 2709	commesso alto e biondo
+T43	PER 2721 2730	direttore
+T44	PER 2740 2749	Vittorina
+T45	PER 2787 2831	signora Ornavati : una cliente di gran conto
+T46	PER 2834 2845	Filippeschi
+T47	PER 2882 2889	signora
+T48	PER 2909 2918	Vittorina
+T49	PER 2932 2961	molto singolare quel commesso
+T50	PER 3071 3086	Giorgio Brummel
+T51	PER 3269 3287	suo buon Baganella
+T52	PER 3292 3337	uomo semplice e cortese , paziente ed esperto
+T53	PER 3432 3441	direttore
+T54	PER 3457 3468	Filippeschi
+T55	PER 3476 3492	giovane elegante
+T56	PER 3495 3504	Vittorina
+T57	PER 3526 3532	marito
+T58	PER 3654 3663	suo Celso
+T59	PER 4059 4070	sue clienti
+T60	PER 4081 4090	Baganella
+T61	PER 4093 4107	alcune signore
+T62	PER 4135 4144	Vittorina
+T63	PER 4235 4244	Vittorina
+T64	PER 4343 4358	bravo Baganella
+T65	PER 4597 4604	giovane
+T66	PER 4617 4625	commesso
+T67	PER 4677 4693	povero Baganella
+T68	PER 4694 4710	quel Filippeschi
+T69	FAC 4768 4773	villa
+T70	PER 4785 4794	Vittorina
+T71	PER 4915 4926	Filippeschi
+T72	PER 4942 4951	Vittorina
+T73	PER 5058 5066	commesso
+T74	PER 5136 5143	signora
+T75	PER 5160 5171	Filippeschi
+T76	PER 5177 5184	signora
+T77	PER 5244 5252	commesso
+T78	PER 5310 5319	direttore
+T79	PER 5337 5358	cliente di gran conto
+T80	FAC 5382 5401	Adolfo Scotti e C .
+T81	PER 5437 5442	Celso
+T82	PER 5474 5484	suo marito
+T83	PER 5534 5539	Celso
+T84	PER 5756 5768	quel signore
+T85	PER 5812 5817	Celso
+T86	PER 5929 5940	Filippeschi
+T87	PER 5989 5994	Celso
+T88	PER 6005 6015	sua moglie
+T89	PER 6043 6057	vero gentleman
+T90	GPE 6088 6094	Londra
+T91	PER 6100 6113	tuo Baganella
+T92	PER 6135 6144	Baganella
+T93	PER 6159 6168	Vittorina
+T94	PER 6179 6184	nuovo
+T95	PER 6197 6205	commesso
+T96	PER 6249 6254	Celso
+T97	PER 6411 6416	Celso
+T98	PER 6484 6495	Filippeschi
+T99	PER 6600 6607	giovane
+T100	PER 6659 6669	mia moglie
+T101	PER 6724 6731	signora
+T102	PER 6762 6771	direttore
+T103	PER 6822 6827	conte
+T104	PER 6845 6850	Celso
+T105	PER 6875 6888	piccola bruna
+T106	PER 6908 6913	conte
+T107	PER 6941 6952	Filippeschi
+T108	PER 7081 7086	conte
+T109	PER 7100 7105	Celso
+T110	PER 7108 7118	sua moglie
+T111	PER 7172 7183	Filippeschi
+T112	PER 7287 7311	conte che vende le calze
+T113	PER 7337 7345	buon Dio
+T114	PER 7428 7437	Vittorina
+T115	PER 7473 7482	direttore
+T116	PER 7501 7526	conte quel nuovo commesso
+T117	PER 7535 7558	conte Folco Filippeschi
+T118	PER 7636 7645	direttore
+T119	PER 7654 7669	signora Galassi
+T120	PER 7723 7738	signora Galassi
+T121	PER 7756 7769	piccola bruna
+T122	PER 7822 7831	Vittorina
+T123	PER 7849 7858	direttore
+T124	PER 8031 8036	Celso
+T125	PER 8074 8082	croupier
+T126	GPE 8085 8095	Montecarlo
+T127	PER 8134 8143	Vittorina
+T128	PER 8194 8202	famiglia
+T129	PER 8210 8221	Filippeschi
+T130	GPE 8256 8263	Pistoia
+T131	PER 8277 8282	Celso
+T132	GPE 8291 8298	Perugia
+T133	PER 8317 8326	direttore
+T134	PER 8426 8435	Vittorina
+T135	PER 8495 8500	Celso
+T136	VEH 8535 8543	carrozze
+T137	PER 8583 8592	Vittorina
+T138	PER 8618 8625	signora
+T139	ORG 8688 8696	fabbrica
+T140	PER 8711 8720	direttore
+T141	PER 8909 8918	Vittorina
+T142	FAC 9026 9032	strada
+T143	PER 9069 9092	radi uomini malcontenti
+T144	LOC 9185 9188	via
+T145	PER 9196 9213	gruppo di curiosi
+T146	PER 9260 9269	cocchiere
+T147	PER 9342 9356	Celso Ornavati
+T148	VEH 9374 9390	vettura pubblica
+T149	PER 9417 9426	Vittorina
+T150	PER 9610 9616	moglie
+T151	PER 9629 9638	vetturino
+T152	FAC 9654 9659	caffè
+T153	PER 9675 9699	Tutti i grandi scrittori
+T154	PER 9702 9724	tutti i grandi artisti
+T155	PER 9727 9743	tutti gli uomini
+T156	PER 9861 9869	famiglia
+T157	PER 9883 9891	commessi
+T158	PER 9894 9902	scrivani
+T159	PER 9905 9914	impiegati
+T160	PER 9917 9924	copisti
+T161	FAC 10035 10039	casa
+T162	LOC 10062 10066	mare
+T163	PER 10084 10089	amico
+T164	PER 10146 10151	Celso
+T165	PER 10180 10185	amico
+T166	PER 10205 10215	suoi amici
+T167	PER 10276 10324	tutti quelli dei quali citava la vita e le gesta
+T168	PER 10400 10405	amico
+T169	PER 10427 10445	romanziere celebre
+T170	PER 10514 10522	famiglia
+T171	FAC 10615 10636	magazzino di formaggi
+T172	ORG 10665 10690	Società d ' Assicurazioni
+T173	PER 10693 10702	Vittorina
+T174	PER 10738 10756	romanziere celebre
+T175	PER 10776 10781	Celso
+T176	PER 10867 10877	miei amici
+T177	PER 10963 10976	grandi uomini
+T178	PER 10985 10992	Mio Dio
+T179	PER 11009 11018	Vittorina
+T180	PER 11045 11050	Celso
+T181	VEH 11068 11086	quell ' automobile
+T182	VEH 11128 11147	automobile da corsa
+T183	VEH 11188 11195	vettura
+T184	PER 11223 11230	signora
+T185	PER 11315 11320	Celso
+T186	PER 11323 11332	Vittorina
+T187	VEH 11384 11394	automobile
+T188	PER 11546 11551	Celso
+T189	PER 11587 11603	commessi di oggi
+T190	PER 11611 11634	grandi uomini di domani
+T191	PER 11651 11658	Stanley
+T192	PER 11664 11671	Daumier
+T193	PER 11674 11686	Arrigo Beyle
+T194	PER 11692 11703	Livingstone
+T195	PER 11725 11730	tutti
+T196	PER 11786 11811	amici personali e anonimi
+T197	PER 11851 11867	servi di bottega
+T198	ORG 11860 11867	bottega
+T199	FAC 11892 11897	caffè
+T200	PER 12048 12057	Vittorina
+T201	PER 12081 12086	Celso
+T202	PER 12187 12196	cameriere
+T203	PER 12271 12276	Celso
+T204	PER 12595 12607	Arrigo Beyle
+T205	PER 12613 12624	Livingstone
+T206	PER 12667 12689	quel conte Filippeschi
+T207	PER 12700 12708	commesso
+T208	PER 12764 12769	Celso
+T209	FAC 12926 12946	negozio di maglieria
+T210	PER 12950 12979	conte impiegato come commesso
+T211	PER 13004 13016	Arrigo Beyle
+T212	PER 13037 13049	Arrigo Beyle
+T213	PER 13134 13137	Dio
+T214	PER 13200 13209	Vittorina
+T215	PER 13225 13232	signore
+T216	PER 13282 13294	Arrigo Beyle
+T217	PER 13326 13342	grande scrittore
+T218	PER 13464 13471	Stanley
+T219	PER 13477 13488	Livingstone
+T220	PER 13519 13524	gente
+T221	PER 13607 13646	viandante che percorre una strada nuova
+T222	FAC 13634 13646	strada nuova
+T223	PER 13749 13762	gente pratica

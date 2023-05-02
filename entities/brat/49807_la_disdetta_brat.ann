@@ -1,0 +1,172 @@
+T0	PER 7 33	principessa di Roccasciano
+T1	GPE 22 33	Roccasciano
+T2	PER 255 272	cavaliere Fornari
+T3	PER 432 435	zia
+T4	PER 451 460	cavaliere
+T5	PER 618 627	cavaliere
+T6	PER 932 943	principessa
+T7	PER 1080 1085	Fanny
+T8	PER 1109 1118	cameriera
+T9	PER 1146 1155	cavaliere
+T10	PER 1167 1179	nuovi venuti
+T11	PER 1185 1204	marchese Sanfilippo
+T12	PER 1210 1223	padre Agatino
+T13	PER 1258 1269	principessa
+T14	PER 1372 1380	marchese
+T15	PER 1386 1392	monaco
+T16	PER 1473 1482	seccatore
+T17	PER 1488 1497	cavaliere
+T18	PER 1599 1607	marchese
+T19	PER 1777 1788	principessa
+T20	PER 2029 2038	cavaliere
+T21	PER 2074 2102	tutti gli altri galantuomini
+T22	PER 2170 2185	ogni lavapiatti
+T23	PER 2208 2213	cuoco
+T24	PER 2434 2443	cavaliere
+T25	PER 2523 2536	padre Agatino
+T26	PER 2790 2798	quei tre
+T27	FAC 2933 2949	casa Roccasciano
+T28	PER 2938 2949	Roccasciano
+T29	PER 3023 3033	giuocatori
+T30	PER 3092 3112	Fanny , la cameriera
+T31	PER 3130 3137	nessuno
+T32	PER 3195 3204	servitore
+T33	PER 3211 3216	cuoco
+T34	PER 3223 3256	Agostino Giarrusso , il contabile
+T35	PER 3264 3269	gente
+T36	FAC 3333 3337	casa
+T37	PER 3354 3419	Don Ferdinando , duca di Santa Cita , il cugino della principessa
+T38	GPE 3379 3389	Santa Cita
+T39	PER 3408 3419	principessa
+T40	PER 3561 3574	tutti i servi
+T41	PER 3604 3614	giuocatori
+T42	PER 3697 3703	cugina
+T43	PER 3881 3888	Nessuno
+T44	PER 3955 3966	principessa
+T45	PER 4088 4101	padre Agatino
+T46	PER 4135 4143	marchese
+T47	PER 4324 4329	tutti
+T48	PER 4412 4417	gente
+T49	PER 4432 4445	padre Agatino
+T50	PER 4637 4644	diavolo
+T51	PER 4701 4709	marchese
+T52	PER 4719 4732	padre Agatino
+T53	PER 4750 4778	donna Rosalia , la sua ganza
+T54	PER 4853 4861	marchese
+T55	FAC 4980 5003	fabbrica d ' agro cotto
+T56	ORG 5053 5061	fabbrica
+T57	PER 5093 5106	donna Rosalia
+T58	PER 5201 5212	principessa
+T59	PER 5398 5409	principessa
+T60	PER 5517 5528	principessa
+T61	PER 5646 5656	commensali
+T62	PER 5666 5683	cavaliere Fornari
+T63	PER 5693 5701	marchese
+T64	PER 5708 5721	qualche altro
+T65	PER 5892 5910	duca di Santa Cita
+T66	GPE 5900 5910	Santa Cita
+T67	PER 6069 6080	principessa
+T68	PER 6202 6207	gente
+T69	PER 6238 6260	persone di ogni genere
+T70	PER 6263 6269	vecchi
+T71	PER 6391 6406	intere famiglie
+T72	FAC 6552 6584	vaste sale dell ' antico palazzo
+T73	FAC 6570 6584	antico palazzo
+T74	FAC 6595 6607	casa propria
+T75	PER 6682 6693	provinciali
+T76	PER 6696 6706	forestieri
+T77	PER 6711 6718	nessuno
+T78	PER 6751 6766	padrona di casa
+T79	FAC 6762 6766	casa
+T80	FAC 6890 6906	stanza appartata
+T81	PER 6915 6923	marchese
+T82	PER 6926 6939	padre Agatino
+T83	PER 6945 6961	dottor Felicetta
+T84	PER 6964 6977	qualche altro
+T85	PER 7019 7030	Principessa
+T86	PER 7066 7084	tutta questa gente
+T87	PER 7403 7425	donna Cecilia Morlieri
+T88	PER 7503 7516	donna Cecilia
+T89	PER 7570 7576	marito
+T90	PER 7779 7793	Giorgio Furleo
+T91	PER 7799 7814	signorina Marco
+T92	ORG 7829 7836	società
+T93	PER 7905 7924	baronessa de Fiorio
+T94	PER 7930 7936	vicina
+T95	PER 7951 7956	tutti
+T96	PER 8013 8026	mie figliuole
+T97	PER 8127 8135	Giordano
+T98	PER 8164 8175	sue ragazze
+T99	PER 8245 8277	tutti i giovanotti della società
+T100	ORG 8270 8277	società
+T101	PER 8280 8306	Angiolina , la più piccola
+T102	PER 8337 8344	bambina
+T103	PER 8377 8387	Antonietta
+T104	PER 8417 8433	tenente Costanzo
+T105	PER 8457 8466	sua madre
+T106	PER 8546 8559	quel pezzente
+T107	PER 8566 8569	Uno
+T108	PER 8634 8653	marchesa Sanfilippo
+T109	PER 8661 8674	contessa Vita
+T110	PER 8682 8698	signore titolate
+T111	PER 8723 8738	padrona di casa
+T112	FAC 8734 8738	casa
+T113	PER 8772 8783	principessa
+T114	PER 8893 8899	cugino
+T115	PER 8973 8990	cavaliere Fornari
+T116	PER 8994 9003	cameriere
+T117	FAC 9247 9261	Grande Albergo
+T118	PER 9266 9301	Filippo Mordina , un povero diavolo
+T119	PER 9411 9429	professor Quartini
+T120	PER 9433 9448	pretore Restivi
+T121	PER 9459 9474	pretore Restivi
+T122	PER 9568 9585	suo interlocutore
+T123	PER 9730 9749	don Felice Giordano
+T124	PER 9782 9792	sua moglie
+T125	ORG 9882 9889	società
+T126	PER 9948 9953	gente
+T127	FAC 9972 9976	sale
+T128	FAC 10042 10063	stanza dei giuocatori
+T129	PER 10053 10063	giuocatori
+T130	PER 10180 10191	principessa
+T131	PER 10266 10273	Restivi
+T132	PER 10349 10376	cameriere nell ' anticamera
+T133	FAC 10366 10376	anticamera
+T134	FAC 10431 10453	casa della principessa
+T135	PER 10442 10453	principessa
+T136	FAC 11130 11140	sua camera
+T137	PER 11158 11172	amministratore
+T138	PER 11196 11207	principessa
+T139	PER 11291 11302	Principessa
+T140	PER 11433 11444	don Peppino
+T141	FAC 11518 11522	casa
+T142	PER 11536 11569	Agostino Giarrusso , il contabile
+T143	PER 11613 11622	Strignoni
+T144	ORG 11662 11667	Banca
+T145	PER 11727 11738	principessa
+T146	PER 11828 11839	don Peppino
+T147	PER 11946 11955	creditori
+T148	PER 12206 12217	principessa
+T149	PER 12364 12381	Padre don Agatino
+T150	PER 12396 12405	cameriera
+T151	PER 12418 12429	principessa
+T152	PER 12466 12477	don Peppino
+T153	PER 12588 12599	don Peppino
+T154	FAC 12666 12680	Filodrammatica
+T155	PER 12713 12730	moglie del vedovo
+T156	PER 12724 12730	vedovo
+T157	PER 12762 12775	Padre Agatino
+T158	PER 12803 12814	principessa
+T159	PER 12955 12960	altra
+T160	PER 13022 13033	principessa
+T161	PER 13044 13062	duca di Santa Cita
+T162	GPE 13052 13062	Santa Cita
+T163	PER 13298 13308	Ferdinando
+T164	PER 13315 13329	Don Ferdinando
+T165	FAC 13389 13397	Birreria
+T166	PER 13438 13449	principessa
+T167	PER 13667 13705	frequentatrici del palazzo Roccasciano
+T168	FAC 13686 13705	palazzo Roccasciano
+T169	PER 13694 13705	Roccasciano
+T170	PER 13734 13745	principessa
+T171	FAC 13766 13774	sue sale

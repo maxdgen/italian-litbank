@@ -1,0 +1,129 @@
+T0	PER 14 19	Sofia
+T1	PER 123 127	Lulù
+T2	FAC 142 148	camera
+T3	PER 328 344	sorella maggiore
+T4	PER 448 453	Sofia
+T5	PER 485 489	Lulù
+T6	PER 594 601	sorella
+T7	PER 619 624	Sofia
+T8	PER 654 676	mademoiselle Jeannette
+T9	PER 839 863	mia agghiacciata sorella
+T10	PER 869 873	Lulù
+T11	PER 884 896	vera bambina
+T12	PER 969 976	bambina
+T13	PER 1043 1052	Jeannette
+T14	PER 1182 1196	Vostra Serietà
+T15	FAC 1288 1302	Campo di Marte
+T16	FAC 1578 1585	tribuna
+T17	PER 1594 1606	Paolo Lovati
+T18	PER 1624 1657	bel giovane , Roberto Montefranco
+T19	PER 2100 2111	Montefranco
+T20	PER 2392 2403	Montefranco
+T21	FAC 2534 2540	Chiaja
+T22	FAC 2670 2676	teatro
+T23	PER 2732 2739	Roberto
+T24	PER 2784 2802	signor Montefranco
+T25	PER 2784 2829	signor Montefranco padre , mio futuro suocero
+T26	PER 2871 2876	mamma
+T27	PER 2914 2926	mio pubblico
+T28	PER 2943 2947	papà
+T29	PER 2965 2974	Jeannette
+T30	PER 3072 3086	Vice - Sindaco
+T31	PER 3237 3244	Roberto
+T32	PER 3271 3292	nostri degni genitori
+T33	PER 3333 3342	uomo così
+T34	PER 3712 3716	Lulù
+T35	PER 3742 3747	Sofia
+T36	PER 3890 3894	cara
+T37	PER 4037 4041	Lulù
+T38	PER 4063 4068	Sofia
+T39	PER 4240 4255	tutti gli altri
+T40	PER 4437 4442	Sofia
+T41	PER 4584 4588	Lulù
+T42	PER 4653 4658	sposa
+T43	PER 4686 4691	spose
+T44	PER 4741 4748	zitella
+T45	PER 4785 4801	cattiva creatura
+T46	PER 4807 4814	Roberto
+T47	PER 4820 4830	galantuomo
+T48	PER 4861 4876	fratello celibe
+T49	PER 4902 4917	fratello celibe
+T50	PER 4951 4956	madre
+T51	PER 4995 5000	mamma
+T52	PER 5012 5016	Lulù
+T53	PER 5027 5031	cara
+T54	PER 5043 5049	notaio
+T55	PER 5064 5070	notaio
+T56	PER 5118 5133	signora burlona
+T57	PER 5136 5141	Sofia
+T58	PER 5177 5182	Sofia
+T59	PER 5213 5219	notaio
+T60	PER 5225 5229	Lulù
+T61	PER 5285 5290	mamma
+T62	PER 5343 5348	madre
+T63	PER 5357 5364	sorella
+T64	PER 5413 5420	Signora
+T65	PER 5423 5432	signorina
+T66	PER 5581 5600	Roberto Montefranco
+T67	PER 5790 5813	Lulù , la sua fidanzata
+T68	PER 5893 5901	avvocato
+T69	FAC 6009 6013	casa
+T70	PER 6317 6324	Roberto
+T71	PER 6435 6440	molti
+T72	PER 6739 6746	lettore
+T73	PER 6942 6949	Roberto
+T74	PER 7023 7027	Papà
+T75	PER 7047 7050	zie
+T76	PER 7093 7102	cuginette
+T77	PER 7125 7140	amici del caffè
+T78	FAC 7135 7140	caffè
+T79	PER 7176 7187	amici serii
+T80	PER 7266 7270	Lulù
+T81	PER 7756 7771	persone che amo
+T82	PER 7930 7959	Sofia , la mia futura cognata
+T83	PER 8263 8267	Lulù
+T84	PER 8270 8282	quella Sofia
+T85	PER 8527 8531	Lulù
+T86	PER 8919 8932	due fidanzati
+T87	PER 9045 9049	Lulù
+T88	GPE 9107 9113	Italia
+T89	PER 9389 9393	Lulù
+T90	PER 9442 9447	Sofia
+T91	PER 9496 9512	quella fanciulla
+T92	PER 9630 9636	regina
+T93	PER 9708 9715	zitella
+T94	PER 9869 9873	Lulù
+T95	PER 9922 9926	Lulù
+T96	FAC 9991 9999	casa sua
+T97	PER 10206 10230	carina , carina , carina
+T98	PER 10514 10523	spagnuola
+T99	PER 10733 10738	Sofia
+T100	PER 10779 10783	Lulù
+T101	PER 10808 10813	Sofia
+T102	PER 10890 10902	Quella Sofia
+T103	PER 10905 10917	quella Sofia
+T104	PER 11015 11032	nostro giovanotto
+T105	PER 11142 11161	Roberto Montefranco
+T106	PER 11280 11285	Sofia
+T107	FAC 11314 11321	balcone
+T108	FAC 11341 11367	strada popolata e rumorosa
+T109	LOC 11392 11405	via di Toledo
+T110	GPE 11399 11405	Toledo
+T111	VEH 11429 11469	gran numero di carrozze piccole e grandi
+T112	PER 11525 11530	Sofia
+T113	PER 11547 11555	qualcuno
+T114	FAC 11692 11698	camera
+T115	PER 11733 11737	Lulù
+T116	PER 11835 11857	donna Sofia Santangelo
+T117	FAC 11933 11940	balcone
+T118	PER 12013 12028	Albina la sarta
+T119	PER 12151 12158	Roberto
+T120	PER 12207 12212	Selim
+T121	VEH 12216 12226	carrozzino
+T122	PER 12291 12298	Roberto
+T123	VEH 12334 12344	carrozzino
+T124	PER 12463 12470	Roberto
+T125	PER 12654 12662	sgarbata
+T126	PER 12742 12757	cattiva , Sofia
+T127	PER 12776 12783	Roberto
+T128	PER 12829 12836	cattiva

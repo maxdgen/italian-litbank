@@ -1,0 +1,133 @@
+T0	PER 5 10	lilia
+T1	PER 16 21	bimba
+T2	LOC 73 108	via stretta e tortuosa dei Mercanti
+T3	FAC 135 143	botteghe
+T4	FAC 220 229	alte case
+T5	VEH 395 416	qualche rara carrozza
+T6	FAC 450 473	chiesetta del Cerriglio
+T7	LOC 464 473	Cerriglio
+T8	PER 652 657	bimba
+T9	PER 752 759	mendica
+T10	PER 1107 1112	bimba
+T11	PER 1822 1827	donna
+T12	PER 1972 1994	madre scarna , mendica
+T13	PER 2016 2023	ambedue
+T14	LOC 2031 2043	vie di Porto
+T15	LOC 2038 2043	Porto
+T16	PER 2147 2153	figlia
+T17	PER 2178 2183	madre
+T18	PER 2193 2198	madre
+T19	PER 2224 2231	bambina
+T20	FAC 2412 2431	chiesa di Portanova
+T21	LOC 2422 2431	Portanova
+T22	PER 2488 2495	bambina
+T23	FAC 2686 2705	strada dei Mercanti
+T24	LOC 2772 2787	tutte le viuzze
+T25	LOC 2792 2805	vicoli ciechi
+T26	LOC 2812 2829	angiporti paurosi
+T27	FAC 2835 2848	botteghe nere
+T28	LOC 2853 2868	ruscelli fetidi
+T29	LOC 3002 3024	piazzetta di Portanova
+T30	FAC 3074 3096	cappella del Cerriglio
+T31	LOC 3087 3096	Cerriglio
+T32	LOC 3146 3164	piazzetta di Porto
+T33	FAC 3205 3218	antico Sedile
+T34	PER 3255 3265	dio Orione
+T35	FAC 3281 3289	muraglia
+T36	PER 3297 3303	popolo
+T37	PER 3311 3324	Pesce Niccolò
+T38	LOC 3342 3354	Mezzocannone
+T39	FAC 3445 3464	certi antri lugubri
+T40	LOC 3588 3596	Mercanti
+T41	FAC 3635 3649	taverna aperta
+T42	LOC 3847 3860	santa Barbara
+T43	FAC 4015 4036	stabilimento di bagni
+T44	PER 4130 4160	musa dalle larghe foglie verdi
+T45	LOC 4193 4202	Cerriglio
+T46	PER 4304 4313	viandanti
+T47	LOC 4316 4334	Quelle viuzze nere
+T48	FAC 4374 4403	quelle case stillanti umidità
+T49	PER 4522 4534	commercianti
+T50	PER 4566 4575	mediatori
+T51	PER 4600 4612	male femmine
+T52	LOC 4720 4733	santa Barbara
+T53	LOC 4745 4757	Mezzocannone
+T54	LOC 4772 4781	Cerriglio
+T55	LOC 4797 4823	via Principessa Margherita
+T56	LOC 4930 4938	Mercanti
+T57	PER 4964 4980	altre mendicanti
+T58	PER 5041 5048	guardie
+T59	PER 5371 5402	Tutta quella gente affaccendata
+T60	PER 5436 5444	bottegai
+T61	PER 5470 5490	compratori contadini
+T62	PER 5493 5507	facchini curvi
+T63	PER 5525 5550	serve luride e straccione
+T64	PER 5574 5592	Qualche galantuomo
+T65	PER 5613 5626	piccola ladra
+T66	PER 5679 5687	qualcuno
+T67	PER 5776 5784	qualcuno
+T68	FAC 6512 6531	chiesa di Portanova
+T69	LOC 6522 6531	Portanova
+T70	PER 6708 6714	operai
+T71	FAC 6783 6801	botteghe socchiuse
+T72	PER 7240 7255	femmina giovane
+T73	PER 7520 7535	giovane femmina
+T74	PER 7812 7817	bimba
+T75	PER 7862 7867	altra
+T76	PER 7925 7930	donna
+T77	FAC 7985 7990	pozzo
+T78	PER 8029 8034	bimba
+T79	FAC 8115 8123	botteghe
+T80	PER 8141 8161	viandanti frettolosi
+T81	PER 8196 8201	tutti
+T82	FAC 8207 8223	strade superiori
+T83	FAC 8308 8327	chiesa di Portanova
+T84	LOC 8318 8327	Portanova
+T85	FAC 8333 8339	chiesa
+T86	PER 8451 8461	sagrestano
+T87	FAC 8526 8542	strade spopolate
+T88	PER 8572 8577	Tutti
+T89	LOC 8683 8692	frontiera
+T90	LOC 8713 8738	larghetto di Rua Catalana
+T91	LOC 8761 8773	san Giuseppe
+T92	FAC 8835 8847	strada larga
+T93	FAC 8852 8868	magazzini puliti
+T94	FAC 8873 8888	palazzi bianchi
+T95	FAC 8893 8901	giardini
+T96	FAC 9007 9028	negozio di giocattoli
+T97	PER 9072 9077	folla
+T98	LOC 9097 9111	Fontana Medina
+T99	VEH 9209 9217	carrozze
+T100	LOC 9296 9312	piazza Municipio
+T101	FAC 9384 9392	giardino
+T102	FAC 9445 9454	san Carlo
+T103	PER 9474 9481	piccina
+T104	PER 9499 9504	folla
+T105	LOC 9527 9541	san Ferdinando
+T106	PER 9581 9586	gente
+T107	PER 9733 9738	folla
+T108	PER 9784 9794	equipaggio
+T109	PER 9808 9826	signora bellissima
+T110	PER 9935 9942	bambina
+T111	PER 10040 10045	folla
+T112	PER 10073 10078	bimba
+T113	PER 10114 10119	donna
+T114	PER 10312 10332	fioraia meravigliosa
+T115	PER 10383 10390	Signora
+T116	PER 10393 10400	signora
+T117	PER 10454 10461	fioraia
+T118	PER 10526 10531	bimba
+T119	PER 10564 10569	bimba
+T120	PER 10708 10713	gente
+T121	PER 10736 10744	studente
+T122	PER 10807 10821	grasso signore
+T123	PER 10908 10913	bimba
+T124	FAC 11246 11267	Boulangerie française
+T125	PER 11459 11466	soldato
+T126	PER 11516 11521	bimba
+T127	FAC 11534 11544	panetteria
+T128	VEH 11639 11654	Quelle carrozze
+T129	VEH 11764 11772	carrozza
+T130	PER 11777 11784	signora
+T131	LOC 11820 11823	via
+T132	PER 11865 11883	innocente creatura

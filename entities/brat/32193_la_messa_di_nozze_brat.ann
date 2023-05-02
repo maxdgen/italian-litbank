@@ -1,0 +1,142 @@
+T0	GPE 21 28	Senegal
+T1	PER 98 123	professore Domenico Perez
+T2	PER 168 182	suoi discepoli
+T3	PER 323 329	classe
+T4	FAC 474 483	corridoio
+T5	PER 505 525	alunni più diligenti
+T6	PER 608 632	Baldassarre , il bidello
+T7	PER 638 655	Signor professore
+T8	PER 667 674	signore
+T9	GPE 753 760	Firenze
+T10	GPE 785 792	Firenze
+T11	FAC 842 858	sala di convegno
+T12	FAC 993 1000	cortile
+T13	PER 1046 1051	Perez
+T14	PER 1092 1103	Baldassarre
+T15	PER 1139 1150	sconosciuto
+T16	FAC 1172 1181	ballatoio
+T17	PER 1201 1208	nessuno
+T18	PER 1223 1252	folla degli scolari sciamanti
+T19	FAC 1264 1269	corte
+T20	FAC 1298 1312	ultimo ripiano
+T21	PER 1328 1338	visitatore
+T22	PER 1544 1551	Bertini
+T23	PER 1577 1585	Lodovico
+T24	GPE 1845 1855	Valsorrisa
+T25	PER 2083 2088	altro
+T26	FAC 2166 2171	Liceo
+T27	PER 2480 2485	Perez
+T28	PER 2621 2630	amico suo
+T29	PER 2748 2759	Baldassarre
+T30	PER 2791 2801	visitatore
+T31	PER 3231 3236	Perez
+T32	FAC 3390 3398	casa mia
+T33	FAC 3548 3555	albergo
+T34	FAC 3594 3602	stazione
+T35	PER 3775 3780	mamma
+T36	FAC 3840 3845	caffè
+T37	PER 3905 3910	Perez
+T38	PER 3975 3980	amico
+T39	VEH 4010 4018	carrozza
+T40	GPE 4040 4045	città
+T41	LOC 4051 4059	campagna
+T42	PER 4104 4112	invitato
+T43	LOC 4129 4133	mare
+T44	PER 4171 4180	Vetturino
+T45	VEH 4237 4245	carrozza
+T46	PER 4324 4333	Vetturino
+T47	PER 4439 4444	amico
+T48	PER 4509 4514	altro
+T49	PER 4728 4739	interrogato
+T50	VEH 4903 4911	carrozza
+T51	FAC 4927 4945	quartieri popolari
+T52	VEH 4996 5000	tram
+T53	VEH 5009 5019	automobili
+T54	VEH 5038 5043	carri
+T55	VEH 5050 5072	veicoli d ' ogni sorta
+T56	PER 5075 5080	Perez
+T57	PER 5135 5195	Scrittore di commedie prima che insegnante di lettere greche
+T58	PER 5401 5465	artista geniale , l ' arguto dipintore dei costumi contemporanei
+T59	PER 5529 5569	dotto cultore delle classiche discipline
+T60	PER 5587 5594	giovane
+T61	PER 6190 6215	Tedesco erudito e pedante
+T62	PER 6325 6330	amico
+T63	PER 6541 6561	avversarî invisibili
+T64	PER 6644 6662	autori incriminati
+T65	PER 7022 7024	re
+T66	PER 7108 7116	militari
+T67	PER 7184 7188	eroi
+T68	PER 7226 7244	corpo dei pompieri
+T69	PER 7253 7284	casellanti delle strade ferrate
+T70	FAC 7270 7284	strade ferrate
+T71	PER 7380 7391	naturalista
+T72	PER 7549 7556	Sofocle
+T73	LOC 7593 7598	mondo
+T74	PER 7599 7610	nuovi Edipi
+T75	PER 7844 7852	mio caro
+T76	PER 7939 7986	critici e i commissarî dei concorsi governativi
+T77	PER 8010 8018	pubblico
+T78	PER 8182 8187	altri
+T79	PER 8214 8220	platee
+T80	PER 8230 8242	nessun altro
+T81	PER 8508 8527	fanciullo , bendato
+T82	PER 8881 8896	gente coniugata
+T83	PER 9037 9042	donna
+T84	PER 9241 9248	Bertini
+T85	PER 9399 9404	Perez
+T86	PER 9675 9680	tutti
+T87	PER 9749 9770	creatura predestinata
+T88	PER 9839 9844	altra
+T89	PER 9906 9911	altra
+T90	PER 9948 9953	altra
+T91	PER 10191 10200	Napoleone
+T92	PER 10266 10272	Balzac
+T93	PER 10656 10685	Uomini e donne , tutti quanti
+T94	PER 11050 11063	nostro Natali
+T95	PER 11090 11102	Luigi Albani
+T96	PER 11150 11164	queste signore
+T97	PER 11198 11212	queste signore
+T98	PER 11259 11264	sarta
+T99	PER 11413 11427	uomini e donne
+T100	PER 11485 11491	mariti
+T101	PER 11500 11505	mogli
+T102	PER 11514 11520	amanti
+T103	FAC 11585 11597	santabarbara
+T104	FAC 11639 11657	albergo di Francia
+T105	GPE 11650 11657	Francia
+T106	LOC 11663 11673	questa via
+T107	PER 11680 11687	oratore
+T108	FAC 11829 11847	albergo di Francia
+T109	GPE 11840 11847	Francia
+T110	LOC 11868 11891	corso Vittorio Emanuele
+T111	PER 11874 11891	Vittorio Emanuele
+T112	FAC 11898 11916	albergo di Francia
+T113	GPE 11909 11916	Francia
+T114	LOC 11925 11935	via Cavour
+T115	PER 11929 11935	Cavour
+T116	PER 11982 11991	Vetturino
+T117	LOC 11998 12008	via Cavour
+T118	PER 12002 12008	Cavour
+T119	FAC 12198 12204	studio
+T120	GPE 12207 12214	Firenze
+T121	PER 12246 12253	Mazzini
+T122	LOC 12324 12332	Promonte
+T123	PER 12347 12358	tua sorella
+T124	PER 12364 12383	dottore tuo cognato
+T125	PER 12388 12401	tuoi nipotini
+T126	PER 12490 12503	signora Laura
+T127	PER 12847 12863	tanti ammiratori
+T128	PER 12872 12889	poche ammiratrici
+T129	FAC 12907 12925	albergo di Francia
+T130	GPE 12918 12925	Francia
+T131	PER 12936 12945	vetturino
+T132	PER 12988 12995	Bertini
+T133	PER 13040 13045	amico
+T134	PER 13068 13077	cocchiere
+T135	VEH 13118 13126	carrozza
+T136	FAC 13168 13175	albergo
+T137	FAC 13244 13252	edificio
+T138	PER 13271 13276	Perez
+T139	FAC 13406 13421	quest ' albergo
+T140	LOC 13441 13447	centro
+T141	PER 13479 13493	gente danarosa

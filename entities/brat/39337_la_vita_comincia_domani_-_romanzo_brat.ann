@@ -1,0 +1,142 @@
+T0	FAC 8 29	grande loggia vetrata
+T1	FAC 46 69	pianterreno della villa
+T2	FAC 64 69	villa
+T3	FAC 79 95	giardino fiorito
+T4	PER 96 106	Maria Dora
+T5	PER 743 753	Maria Dora
+T6	PER 902 921	Suo padre , Stefano
+T7	FAC 976 982	aiuola
+T8	PER 1013 1027	fattore Mattia
+T9	FAC 1110 1117	veranda
+T10	FAC 1133 1141	giardino
+T11	FAC 1150 1169	duplice balaustrata
+T12	PER 1801 1813	papà Stefano
+T13	FAC 1881 1885	casa
+T14	LOC 1889 1894	viale
+T15	LOC 1955 1977	piccolo bosco di bambù
+T16	LOC 2017 2023	pendìo
+T17	FAC 2028 2036	giardino
+T18	FAC 2144 2152	cancello
+T19	FAC 2162 2178	strada campestre
+T20	PER 2223 2232	fanciulla
+T21	FAC 2535 2541	loggia
+T22	PER 2547 2597	suo fratello più che ventenne , Marcuccio lo scemo
+T23	PER 3024 3033	Marcuccio
+T24	PER 3061 3071	Maria Dora
+T25	PER 3094 3110	scemo , lunatico
+T26	FAC 3155 3163	giardino
+T27	PER 3164 3176	papà Stefano
+T28	PER 3208 3215	fattore
+T29	PER 3330 3339	contadini
+T30	PER 3364 3370	Mattia
+T31	PER 3380 3389	Giannozzo
+T32	PER 3529 3540	affittuario
+T33	PER 3597 3607	Maria Dora
+T34	FAC 3632 3640	loggiato
+T35	PER 3672 3679	Stefano
+T36	PER 3722 3731	fanciulla
+T37	PER 3795 3802	Stefano
+T38	PER 3872 3881	Giannozzo
+T39	PER 3909 3923	signor Stefano
+T40	PER 4013 4022	Giannozzo
+T41	PER 4080 4090	suo genero
+T42	PER 4100 4114	signor Giorgio
+T43	PER 4161 4168	Stefano
+T44	PER 4376 4385	Giannozzo
+T45	PER 4447 4461	signor Stefano
+T46	FAC 4519 4526	cascina
+T47	PER 4536 4545	Giannozzo
+T48	PER 4705 4712	Stefano
+T49	PER 4888 4893	tutti
+T50	FAC 4921 4932	questa casa
+T51	PER 5003 5010	Giorgio
+T52	PER 5105 5115	Maria Dora
+T53	FAC 5132 5140	loggiato
+T54	PER 5157 5161	papà
+T55	PER 5279 5283	papà
+T56	FAC 5448 5456	loggiato
+T57	FAC 5547 5555	convento
+T58	PER 5558 5568	Maria Dora
+T59	PER 5587 5619	smorfiosa come una piccola bimba
+T60	PER 5652 5677	quel suo padre accigliato
+T61	PER 5804 5814	Maria Dora
+T62	PER 5902 5906	papà
+T63	PER 6016 6023	diavolo
+T64	PER 6043 6050	curiose
+T65	PER 6133 6139	Mattia
+T66	PER 6156 6174	padrona della casa
+T67	FAC 6170 6174	casa
+T68	PER 6237 6246	Giannozzo
+T69	PER 6315 6319	papà
+T70	PER 6325 6341	povero Giannozzo
+T71	PER 6438 6445	Novella
+T72	PER 6459 6464	mamma
+T73	PER 6485 6490	mamma
+T74	FAC 6496 6502	cucina
+T75	PER 6537 6554	Berta , scioccona
+T76	PER 6577 6584	Novella
+T77	FAC 6597 6602	bagno
+T78	PER 6622 6625	uno
+T79	PER 6795 6801	Andrea
+T80	PER 6809 6825	professor Andrea
+T81	PER 6835 6867	signor Andrea , l ' uomo celebre
+T82	FAC 6965 6974	corridoio
+T83	FAC 6990 7000	sua camera
+T84	PER 7136 7159	pettegola e svergognata
+T85	PER 7175 7180	padre
+T86	PER 7225 7248	Pettegola e svergognata
+T87	FAC 7282 7303	camere dei giovinotti
+T88	PER 7293 7303	giovinotti
+T89	PER 7318 7328	giovinotti
+T90	PER 7438 7447	signorina
+T91	PER 7496 7500	papà
+T92	PER 7538 7548	Maria Dora
+T93	PER 7717 7722	mamma
+T94	PER 7744 7750	marito
+T95	PER 7756 7761	padre
+T96	FAC 7865 7873	loggiato
+T97	PER 7879 7901	suo fratello Marcuccio
+T98	PER 7949 7955	Andrea
+T99	PER 7980 7989	signorina
+T100	PER 8036 8040	uomo
+T101	PER 8046 8103	Andrea , un uomo serio , uno scienziato di così gran nome
+T102	PER 8125 8142	pettegola come te
+T103	PER 8198 8208	Maria Dora
+T104	PER 8363 8376	signor Andrea
+T105	PER 8448 8464	padre inorridito
+T106	PER 8665 8677	quell ' uomo
+T107	PER 8742 8748	Mattia
+T108	PER 8785 8791	Mattia
+T109	PER 8798 8803	scemo
+T110	PER 8824 8834	Maria Dora
+T111	PER 8856 8880	questo grande scienziato
+T112	PER 8926 8933	Giorgio
+T113	PER 8938 8945	Giorgio
+T114	PER 8977 8984	Novella
+T115	PER 9025 9039	povera Novella
+T116	PER 9061 9065	uomo
+T117	PER 9083 9094	tua sorella
+T118	PER 9119 9123	papà
+T119	PER 9184 9189	padre
+T120	PER 9197 9200	Dio
+T121	PER 9242 9247	scemo
+T122	PER 9259 9268	Marcuccio
+T123	PER 9283 9295	Mio fratello
+T124	PER 9363 9368	padre
+T125	PER 9413 9422	Marcuccio
+T126	PER 9460 9470	Maria Dora
+T127	PER 9493 9500	Novella
+T128	PER 9575 9586	sorelluccia
+T129	PER 9648 9651	Dio
+T130	PER 9660 9672	Papà Stefano
+T131	PER 9756 9772	suo figlio scemo
+T132	PER 9779 9789	giovinetto
+T133	PER 9918 9946	musicista oltremodo virtuoso
+T134	FAC 10197 10203	camera
+T135	FAC 10207 10213	camera
+T136	FAC 10222 10234	casa paterna
+T137	PER 10979 10992	uomo illustre
+T138	PER 11040 11066	Filosofo pensatore , poeta
+T139	PER 11378 11384	monaca
+T140	PER 11629 11634	ebeti
+T141	PER 11935 11940	altri

@@ -1,0 +1,87 @@
+T0	GPE 73 80	Bologna
+T1	LOC 148 166	cielo senza stelle
+T2	LOC 219 248	nuova via della vecchia città
+T3	GPE 235 248	vecchia città
+T4	LOC 621 640	altro mondo lontano
+T5	PER 1298 1311	quei minatori
+T6	LOC 1328 1333	monte
+T7	VEH 1344 1354	locomotive
+T8	PER 1738 1765	gran signore di altri tempi
+T9	FAC 1786 1800	propria strada
+T10	PER 2067 2075	famiglia
+T11	FAC 2419 2428	tribunali
+T12	FAC 2435 2441	comizi
+T13	PER 2460 2473	nuovo signore
+T14	PER 2740 2745	altri
+T15	PER 2846 2854	avvocato
+T16	PER 3165 3205	pochi altri amici della prima giovinezza
+T17	PER 3244 3257	alcuni di noi
+T18	PER 3859 3890	stranieri e superbi su la folla
+T19	PER 3885 3890	folla
+T20	PER 4034 4043	noi tutti
+T21	PER 4667 4683	tutti gli eletti
+T22	PER 4815 4821	uomini
+T23	PER 5006 5013	oratore
+T24	PER 5017 5026	scrittore
+T25	PER 5269 5275	atleta
+T26	PER 5414 5420	popolo
+T27	ORG 5468 5477	assemblee
+T28	ORG 5484 5492	comitati
+T29	PER 5503 5524	elettori e gli eletti
+T30	ORG 5541 5567	circoli mondani o politici
+T31	ORG 5619 5626	finanza
+T32	ORG 5633 5640	governo
+T33	ORG 5694 5722	moderno patriziato femminile
+T34	PER 5846 5866	gran signore moderno
+T35	PER 5915 5926	ogni classe
+T36	PER 6238 6243	folla
+T37	PER 6246 6255	candidati
+T38	PER 6298 6303	guide
+T39	PER 6324 6335	condottieri
+T40	PER 6338 6379	uomini di arte , di scienza e di politica
+T41	PER 6977 6993	tutti gli inetti
+T42	PER 7332 7337	folla
+T43	PER 7348 7358	dominatore
+T44	PER 7416 7422	coloro
+T45	PER 7444 7449	folla
+T46	LOC 7483 7487	mare
+T47	LOC 7575 7587	sue correnti
+T48	VEH 7800 7809	due treni
+T49	GPE 7860 7864	Roma
+T50	FAC 7877 7892	Castel Giubileo
+T51	PER 8032 8046	folla sorpresa
+T52	PER 8142 8179	Umberto I , il re assassinato a Monza
+T53	GPE 8174 8179	Monza
+T54	PER 8186 8192	anarca
+T55	PER 8210 8216	popolo
+T56	FAC 8251 8259	Pantheon
+T57	PER 8268 8305	vincitore benedetto dal clero di Roma
+T58	ORG 8292 8305	clero di Roma
+T59	GPE 8301 8305	Roma
+T60	PER 8311 8328	popolo d ' Italia
+T61	GPE 8322 8328	Italia
+T62	GPE 8348 8360	antica città
+T63	PER 8634 8641	vittime
+T64	PER 8686 8691	amico
+T65	PER 8751 8757	medici
+T66	PER 8891 8899	cadavere
+T67	PER 8912 8920	cadavere
+T68	PER 8934 8938	uomo
+T69	VEH 9146 9190	enorme macchina nera , sbuffante , sibilante
+T70	PER 9352 9359	morenti
+T71	PER 9633 9638	padre
+T72	PER 9891 9902	Altri morti
+T73	FAC 9957 9965	sepolcro
+T74	PER 10070 10075	gente
+T75	PER 10339 10352	soldato morto
+T76	FAC 10439 10449	parlamento
+T77	PER 10486 10494	ministro
+T78	PER 11060 11089	morto , amico mio , scomparso
+T79	PER 11103 11108	tutti
+T80	PER 11191 11215	fratello della mia anima
+T81	PER 11307 11317	tuoi figli
+T82	PER 11415 11428	padre sparito
+T83	PER 11791 11799	tuo Aldo
+T84	PER 11828 11835	maestro
+T85	PER 11884 11893	fanciullo
+T86	PER 12194 12203	Tuo padre

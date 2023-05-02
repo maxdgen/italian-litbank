@@ -1,0 +1,115 @@
+T0	PER 22 29	dottore
+T1	PER 53 61	Giovanna
+T2	PER 76 81	Ghita
+T3	PER 84 87	Ida
+T4	PER 141 148	dottore
+T5	PER 169 175	beccai
+T6	PER 194 198	vivi
+T7	PER 211 216	morti
+T8	FAC 265 275	camposanto
+T9	PER 291 296	Tonio
+T10	LOC 315 336	vicolo dei Cappuccini
+T11	FAC 513 519	cucina
+T12	PER 555 558	Ida
+T13	PER 844 853	due donne
+T14	PER 940 945	Ghita
+T15	PER 1045 1054	fanciulla
+T16	PER 1102 1110	Giovanna
+T17	PER 1150 1154	uomo
+T18	FAC 1210 1214	casa
+T19	PER 1316 1323	bambino
+T20	FAC 1330 1338	ospedale
+T21	FAC 1521 1526	bagno
+T22	FAC 1625 1630	bagno
+T23	PER 1785 1788	Ida
+T24	FAC 1978 1983	pozzo
+T25	PER 2093 2098	Ghita
+T26	FAC 2113 2119	cucina
+T27	PER 2513 2516	Ida
+T28	LOC 2697 2703	altura
+T29	FAC 3016 3022	cucina
+T30	FAC 3780 3786	cucina
+T31	PER 3902 3911	fanciulla
+T32	FAC 3987 4011	breve cortile della casa
+T33	FAC 4007 4011	casa
+T34	FAC 4028 4053	funebre siepe di mortella
+T35	FAC 4121 4127	cucina
+T36	PER 4239 4249	mendicante
+T37	FAC 4304 4308	muro
+T38	PER 4572 4581	fanciulla
+T39	PER 4618 4623	Ghita
+T40	FAC 4649 4655	camera
+T41	PER 4726 4735	Poveretta
+T42	PER 4816 4819	Ida
+T43	PER 4960 4965	Ghita
+T44	PER 5118 5130	povera gente
+T45	PER 5276 5279	Ida
+T46	PER 5459 5466	dottore
+T47	PER 5585 5599	bambino grande
+T48	PER 5675 5678	Ida
+T49	PER 5716 5723	signori
+T50	PER 5788 5806	bambini dei poveri
+T51	PER 5800 5806	poveri
+T52	PER 5928 5933	Ghita
+T53	PER 5975 5982	padrona
+T54	PER 6058 6064	Ognuno
+T55	PER 6185 6188	Ida
+T56	PER 6322 6325	Ida
+T57	PER 6418 6429	mia signora
+T58	PER 6470 6477	Signore
+T59	PER 6524 6532	poverino
+T60	PER 6751 6760	fanciulla
+T61	PER 6797 6802	Ghita
+T62	FAC 6895 6899	muro
+T63	PER 6962 6971	fanciulla
+T64	FAC 7017 7023	cucina
+T65	FAC 7338 7345	cortile
+T66	FAC 7402 7417	muri della casa
+T67	FAC 7413 7417	casa
+T68	FAC 7511 7523	quel cortile
+T69	FAC 7526 7538	quel cortile
+T70	LOC 7557 7569	nessun mondo
+T71	LOC 7576 7613	monti dalle cime bianche ed azzurrine
+T72	LOC 7620 7652	campi dai lunghi filari denudati
+T73	FAC 7711 7740	strada che conducesse persone
+T74	PER 7733 7740	persone
+T75	PER 7887 7890	Ida
+T76	FAC 8023 8036	quella cucina
+T77	LOC 8043 8062	altro mondo lontano
+T78	FAC 8348 8355	cortile
+T79	FAC 8484 8527	cortile grande come un tavolone d ' osteria
+T80	FAC 8520 8527	osteria
+T81	FAC 8587 8592	siepe
+T82	PER 8738 8750	soli viventi
+T83	PER 8801 8813	donnicciuole
+T84	LOC 8843 8849	piazza
+T85	PER 8854 8879	cadaveri di quel cimitero
+T86	FAC 8866 8879	quel cimitero
+T87	PER 9040 9045	Ghita
+T88	FAC 9062 9069	cortile
+T89	PER 9221 9229	chiunque
+T90	FAC 9245 9251	cucina
+T91	PER 9439 9448	calzolaio
+T92	PER 9455 9460	Ghita
+T93	FAC 9654 9666	Quel cortile
+T94	FAC 9689 9700	quella casa
+T95	PER 9703 9706	Ida
+T96	FAC 9780 9786	cucina
+T97	PER 10187 10192	Ghita
+T98	PER 10199 10231	Veronica , la moglie dell ' oste
+T99	PER 10227 10231	oste
+T100	PER 10279 10282	Ida
+T101	PER 10288 10293	Ghita
+T102	FAC 10352 10358	cucina
+T103	PER 10474 10477	Ida
+T104	FAC 10577 10581	muro
+T105	PER 10784 10793	fanciulla
+T106	PER 11049 11054	cieco
+T107	FAC 11292 11305	quella cucina
+T108	PER 12127 12135	ammalata
+T109	PER 12379 12384	mamma
+T110	PER 12468 12473	sarta
+T111	PER 12530 12538	ammalata
+T112	PER 12568 12571	Ida
+T113	FAC 12689 12695	stanza
+T114	PER 12809 12817	ammalata

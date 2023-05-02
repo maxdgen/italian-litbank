@@ -271,6 +271,23 @@ class Annotations:
                         print('\n')
                     i += 1
         print('occurrences = ' + str(occurrences) + '\n')
+    
+    # Print the numbers of annotations for each type
+    def print_annotations_number(self):
+        annotations = {}
+        for text_id in self.texts:
+            for label in self.texts[text_id]['labels']:
+                if label['name'] in annotations:
+                    annotations[label['name']] += 1
+                else:
+                    annotations[label['name']] = 0
+        
+        print('In the next lines will be printed the numbers of annotations for each type:')
+        total = 0
+        for annotation_type in annotations:
+            total += annotations[annotation_type]
+            print(annotation_type + ' = ' + str(annotations[annotation_type]))
+        print('There is a total of ' + str(total) + ' annotations.\n')
 
 # Check if all the labels start with a number lower than the other
 def check_correctness(a: Annotations):
@@ -285,7 +302,7 @@ def check_correctness(a: Annotations):
                 found = True
     
     if not found:
-        print("There aren't labels that cannot be read correctly.")
+        print("There aren't labels that cannot be read correctly.\n")
 
 # Check if the labels are sorted for every text
 def check_if_sorted(a: Annotations):
@@ -308,7 +325,7 @@ def check_if_sorted(a: Annotations):
             previous_label = label
     
     if not found:
-        print('The labels are sorted for every text.')
+        print('The labels are sorted for every text.\n')
 
 # Check if the labels start or end with a or more white spaces
 def find_spaces_at_the_sides(a: Annotations):
@@ -323,7 +340,7 @@ def find_spaces_at_the_sides(a: Annotations):
                 found = True
     
     if not found:
-        print("There aren't labels that start or end with white spaces.")
+        print("There aren't labels that start or end with white spaces.\n")
 
 # Check if the labels start or end with a truncated word
 def find_words_at_the_sides(a: Annotations):
@@ -356,7 +373,7 @@ def find_words_at_the_sides(a: Annotations):
                 found = True
     
     if not found:
-        print("There aren't labels that start or end with words.")
+        print("There aren't labels that start or end with words.\n")
 
 # Check if all the labels have one of the type specified by "labels_types"
 def check_labels_types(a: Annotations, labels_types):
@@ -371,7 +388,7 @@ def check_labels_types(a: Annotations, labels_types):
                 found = True
     
     if not found:
-        print("There aren't labels that have a strange type.")
+        print("There aren't labels that have a strange type.\n")
 
 # Make the ann file for every text
 def make_ann(a: Annotations, input_folders_name: str, output_folders_name: str):
@@ -426,5 +443,7 @@ if __name__ == '__main__':
     find_words_at_the_sides(a)
     
     check_labels_types(a, ['PER', 'FAC', 'LOC', 'GPE', 'VEH', 'ORG'])
+    
+    a.print_annotations_number()
     
     make_ann(a, output_directory, output_directory)

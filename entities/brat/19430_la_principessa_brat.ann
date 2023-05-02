@@ -1,0 +1,266 @@
+T0	PER 77 81	uomo
+T1	FAC 109 126	parco di Montrone
+T2	GPE 118 126	Montrone
+T3	GPE 136 142	Napoli
+T4	PER 235 243	Domenico
+T5	PER 250 258	Domenico
+T6	PER 268 274	Uomini
+T7	PER 277 282	donne
+T8	PER 285 292	ragazzi
+T9	PER 497 505	Domenico
+T10	GPE 551 557	Napoli
+T11	PER 573 586	molti signori
+T12	PER 607 627	cinque , sei padroni
+T13	PER 640 649	cocchiere
+T14	PER 652 657	cuoco
+T15	PER 660 668	valletto
+T16	FAC 692 700	conventi
+T17	FAC 706 713	locande
+T18	FAC 719 726	osterie
+T19	PER 784 816	giardiniere del duca di Montrone
+T20	PER 800 816	duca di Montrone
+T21	GPE 808 816	Montrone
+T22	PER 822 864	duca , ufficiale nell ' esercito austriaco
+T23	ORG 846 864	esercito austriaco
+T24	LOC 914 921	Oriente
+T25	PER 1009 1017	generale
+T26	PER 1034 1044	suoi amici
+T27	PER 1049 1063	suoi contadini
+T28	FAC 1088 1105	parco di Montrone
+T29	GPE 1097 1105	Montrone
+T30	PER 1170 1178	Domenico
+T31	PER 1213 1220	nessuno
+T32	PER 1298 1313	alcuni compagni
+T33	FAC 1320 1339	osteria del Falcone
+T34	PER 1332 1339	Falcone
+T35	PER 1355 1372	grossa Elisabetta
+T36	PER 1535 1540	tutti
+T37	PER 1607 1611	duca
+T38	PER 1614 1623	contadini
+T39	PER 1692 1697	tutti
+T40	PER 1703 1713	gentiluomo
+T41	PER 1721 1729	Domenico
+T42	PER 1738 1746	Domenico
+T43	PER 1778 1793	uni e gli altri
+T44	PER 1799 1807	Domenico
+T45	FAC 1893 1900	granaio
+T46	PER 2012 2017	altri
+T47	PER 2034 2042	Domenico
+T48	PER 2045 2093	Cristina Braco , cameriera della figlia del duca
+T49	PER 2078 2093	figlia del duca
+T50	PER 2089 2093	duca
+T51	PER 2132 2143	giardiniere
+T52	PER 2234 2242	Cristina
+T53	PER 2364 2375	personaggio
+T54	PER 2411 2437	alcuni non privi d ' acume
+T55	PER 2459 2475	giovane duchessa
+T56	PER 2504 2510	Enrica
+T57	PER 2568 2587	donna come Cristina
+T58	PER 2708 2712	duca
+T59	PER 2734 2743	due donne
+T60	PER 2749 2756	padrona
+T61	PER 2762 2771	cameriera
+T62	FAC 2884 2890	chiesa
+T63	PER 2912 2918	alcuno
+T64	PER 2921 2949	tutte e due rigide e pallide
+T65	PER 2969 2979	sagrestano
+T66	PER 3075 3080	pochi
+T67	PER 3099 3105	Enrica
+T68	PER 3273 3282	due donne
+T69	FAC 3308 3314	chiesa
+T70	PER 3320 3325	prete
+T71	FAC 3366 3401	cappella entro il parco di Montrone
+T72	FAC 3384 3401	parco di Montrone
+T73	GPE 3393 3401	Montrone
+T74	PER 3410 3416	Enrica
+T75	PER 3422 3431	cameriera
+T76	FAC 3516 3521	parco
+T77	PER 3551 3555	duca
+T78	PER 3598 3602	duca
+T79	PER 3614 3630	sua unica figlia
+T80	PER 3666 3677	sua sorella
+T81	PER 3696 3702	vedovo
+T82	PER 3722 3733	gentildonna
+T83	PER 3792 3798	medici
+T84	PER 3836 3842	Enrica
+T85	PER 3859 3867	Cristina
+T86	PER 3929 3933	duca
+T87	PER 3981 3985	duca
+T88	PER 4090 4096	Enrica
+T89	PER 4189 4197	Cristina
+T90	PER 4218 4222	duca
+T91	PER 4268 4276	Domenico
+T92	PER 4291 4300	contadino
+T93	FAC 4336 4342	strada
+T94	FAC 4355 4360	parco
+T95	PER 4388 4399	giardiniere
+T96	PER 4472 4480	Domenico
+T97	FAC 4512 4517	parco
+T98	PER 4570 4580	indiscreti
+T99	PER 4656 4661	tutti
+T100	FAC 4673 4680	palazzo
+T101	PER 4728 4735	ragazze
+T102	LOC 4810 4815	viale
+T103	PER 4843 4889	parecchie diecine di ragazze vestite di bianco
+T104	PER 4936 4944	Domenico
+T105	PER 4977 4982	altri
+T106	PER 5159 5167	Cristina
+T107	PER 5214 5241	vecchio intendente del duca
+T108	PER 5237 5241	duca
+T109	PER 5327 5335	Domenico
+T110	PER 5393 5403	intendente
+T111	PER 5560 5564	duca
+T112	PER 5581 5589	Domenico
+T113	PER 5615 5619	duca
+T114	FAC 5646 5651	villa
+T115	PER 5669 5679	intendente
+T116	PER 5682 5690	Domenico
+T117	PER 5707 5717	duchessina
+T118	PER 5770 5774	duca
+T119	LOC 5835 5840	prato
+T120	PER 5868 5882	nostre ragazze
+T121	PER 5925 5933	Domenico
+T122	PER 6004 6044	molti signori , amici e parenti del duca
+T123	PER 6040 6044	duca
+T124	PER 6065 6070	altri
+T125	PER 6074 6091	conte di Squirace
+T126	GPE 6083 6091	Squirace
+T127	PER 6097 6116	marchese di Trapani
+T128	GPE 6109 6116	Trapani
+T129	PER 6153 6220	avvocato del duca , fra i più reputati di Napoli , Maurizio Cotella
+T130	PER 6166 6170	duca
+T131	GPE 6195 6201	Napoli
+T132	PER 6226 6234	Marchese
+T133	PER 6250 6267	conte di Squirace
+T134	GPE 6259 6267	Squirace
+T135	PER 6331 6357	marchese , cugino del duca
+T136	PER 6353 6357	duca
+T137	FAC 6377 6381	casa
+T138	PER 6382 6392	mia moglie
+T139	PER 6464 6469	messo
+T140	PER 6500 6506	figlio
+T141	PER 6591 6601	mio cugino
+T142	PER 6647 6655	marchese
+T143	PER 6747 6763	tutta la persona
+T144	PER 6778 6782	uomo
+T145	PER 6900 6910	mio cugino
+T146	PER 6994 7002	marchese
+T147	FAC 7033 7053	camera di sua figlia
+T148	PER 7043 7053	sua figlia
+T149	PER 7131 7139	marchese
+T150	PER 7195 7200	conte
+T151	PER 7207 7215	avvocato
+T152	PER 7241 7251	suo cugino
+T153	FAC 7322 7343	ufficio molto lucroso
+T154	PER 7401 7405	duca
+T155	PER 7466 7468	Re
+T156	PER 7477 7485	marchese
+T157	PER 7514 7530	avvocato Cotella
+T158	GPE 7604 7610	Egitto
+T159	GPE 7629 7635	Napoli
+T160	PER 7641 7650	Suo padre
+T161	PER 7680 7688	famiglia
+T162	GPE 7800 7807	America
+T163	PER 7818 7844	commerciante in pianoforti
+T164	PER 7854 7865	agricoltore
+T165	PER 7868 7878	impresario
+T166	PER 7884 7941	proprietario di uno dei più grandi alberghi di New - York
+T167	FAC 7908 7941	più grandi alberghi di New - York
+T168	GPE 7931 7941	New - York
+T169	PER 7979 7984	negri
+T170	PER 7990 7995	negre
+T171	ORG 8007 8038	giornale , l ' Evening Standard
+T172	PER 8060 8066	figlio
+T173	PER 8106 8112	figlio
+T174	GPE 8154 8160	Parigi
+T175	FAC 8177 8205	scuderia di cavalli da corsa
+T176	ORG 8254 8259	Corte
+T177	PER 8268 8280	ambasciatori
+T178	PER 8288 8326	principi che si trovavano di passaggio
+T179	PER 8366 8378	duca di Lari
+T180	GPE 8374 8378	Lari
+T181	PER 8423 8465	famosa avventuriera italiana : la Barrucci
+T182	PER 8491 8498	due zii
+T183	PER 8555 8599	principessa di Morella , cugina dei Montrone
+T184	GPE 8570 8577	Morella
+T185	PER 8591 8599	Montrone
+T186	PER 8693 8704	principessa
+T187	GPE 8737 8743	Parigi
+T188	PER 8765 8774	sua nonna
+T189	PER 8808 8812	Papa
+T190	PER 8822 8829	Orléans
+T191	PER 8871 8887	sua unica nipote
+T192	PER 8899 8937	vecchia mezzo fanatica , mezzo demente
+T193	FAC 9099 9116	palazzo splendido
+T194	PER 9227 9249	antenati di suo marito
+T195	PER 9239 9249	suo marito
+T196	PER 9255 9266	principessa
+T197	PER 9279 9282	zia
+T198	GPE 9313 9319	Genova
+T199	GPE 9351 9357	Genova
+T200	GPE 9360 9366	Parigi
+T201	PER 9430 9438	marchese
+T202	PER 9580 9603	suoi numerosi creditori
+T203	PER 9612 9620	marchese
+T204	PER 9669 9673	uomo
+T205	PER 9711 9716	nonna
+T206	PER 9722 9725	zia
+T207	PER 9833 9857	primo avvocato di Napoli
+T208	GPE 9851 9857	Napoli
+T209	PER 9910 9918	marchese
+T210	PER 10212 10220	naufrago
+T211	PER 10294 10305	principessa
+T212	PER 10335 10343	marchese
+T213	PER 10437 10442	madre
+T214	GPE 10469 10475	Vienna
+T215	PER 10479 10498	celebre specialista
+T216	PER 10562 10570	marchesa
+T217	PER 10722 10730	marchese
+T218	PER 10749 10764	nonna di Parigi
+T219	GPE 10758 10764	Parigi
+T220	PER 10773 10786	zia di Genova
+T221	GPE 10780 10786	Genova
+T222	PER 10916 10924	marchese
+T223	PER 11007 11017	suo cugino
+T224	PER 11037 11041	duca
+T225	PER 11229 11237	marchese
+T226	PER 11280 11285	conte
+T227	PER 11333 11339	uomini
+T228	PER 11494 11502	avvocato
+T229	PER 11508 11514	Pietro
+T230	PER 11706 11710	duca
+T231	PER 11719 11735	duca di Montrone
+T232	GPE 11727 11735	Montrone
+T233	FAC 11808 11828	sua villa da sovrano
+T234	PER 11821 11828	sovrano
+T235	PER 11850 11860	sua figlia
+T236	PER 11863 11869	Enrica
+T237	PER 11958 11970	gentiluomini
+T238	PER 11992 11996	duca
+T239	PER 12022 12033	pochi amici
+T240	PER 12078 12115	primi a stringere la mano al valoroso
+T241	PER 12107 12164	valoroso , all ' antico compagno di eleganti dissipazioni
+T242	PER 12170 12178	marchese
+T243	FAC 12228 12233	villa
+T244	PER 12242 12246	duca
+T245	PER 12250 12256	Enrica
+T246	PER 12270 12274	duca
+T247	PER 12279 12288	contadini
+T248	PER 12303 12311	Domenico
+T249	PER 12369 12379	gentiluomo
+T250	PER 12549 12566	Una delle ragazze
+T251	PER 12578 12593	figlia del duca
+T252	PER 12589 12593	duca
+T253	PER 12708 12713	Tutte
+T254	PER 12725 12731	Enrica
+T255	PER 12867 12871	duca
+T256	PER 12894 12908	suoi contadini
+T257	PER 12930 12936	vecchi
+T258	PER 12971 12978	bambino
+T259	PER 13038 13051	suoi genitori
+T260	PER 13078 13084	Uomini
+T261	PER 13087 13092	donne
+T262	PER 13112 13116	duca
+T263	PER 13220 13226	Enrica
+T264	PER 13392 13398	Enrica
+T265	PER 13522 13539	creatura malefica

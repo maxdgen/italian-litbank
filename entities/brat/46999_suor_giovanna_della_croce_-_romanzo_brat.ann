@@ -1,0 +1,171 @@
+T0	PER 4 10	Uomini
+T1	PER 82 85	Dio
+T2	PER 162 169	Sorella
+T3	LOC 248 253	mondo
+T4	FAC 418 422	coro
+T5	PER 536 569	suor Gertrude delle Cinque Piaghe
+T6	FAC 639 643	muro
+T7	PER 652 658	monaca
+T8	FAC 692 705	tutto il coro
+T9	FAC 872 876	coro
+T10	FAC 962 993	chiesa di suor Orsola Benincasa
+T11	PER 972 993	suor Orsola Benincasa
+T12	FAC 1061 1067	tempio
+T13	PER 1141 1148	nessuno
+T14	FAC 1154 1160	chiesa
+T15	FAC 1163 1182	Quel coro così alto
+T16	FAC 1241 1247	chiesa
+T17	PER 1372 1378	fedeli
+T18	PER 1471 1484	istesse suore
+T19	ORG 1586 1598	Sepolte Vive
+T20	PER 1651 1663	figure umane
+T21	FAC 1765 1791	due larghe navate laterali
+T22	FAC 1817 1827	principale
+T23	PER 1830 1843	Suor Gertrude
+T24	PER 1914 1953	un po ' curva l ' alta e scarna persona
+T25	PER 2394 2415	altra delle Trentatre
+T26	ORG 2406 2415	Trentatre
+T27	PER 2418 2473	suor Clemenza delle Spine , una monaca piccola , minuta
+T28	PER 2593 2604	altre suore
+T29	FAC 2623 2627	coro
+T30	FAC 3026 3030	coro
+T31	PER 3037 3043	monaca
+T32	PER 3071 3076	altra
+T33	PER 3209 3238	suora più giovane , più forte
+T34	PER 3310 3321	vecchissima
+T35	PER 3351 3369	monaca vecchissima
+T36	PER 3760 3773	suora giovane
+T37	PER 3857 3864	badessa
+T38	PER 3870 3877	badessa
+T39	FAC 3920 3924	coro
+T40	PER 3963 3974	sue monache
+T41	PER 4110 4116	monaca
+T42	FAC 4200 4204	coro
+T43	PER 4207 4224	altre due monache
+T44	PER 4298 4308	queste tre
+T45	PER 4424 4436	tre converse
+T46	ORG 4508 4517	Trentatre
+T47	ORG 4526 4538	Sepolte Vive
+T48	PER 4670 4689	quattordici monache
+T49	PER 4695 4707	loro badessa
+T50	PER 4792 4810	Una delle converse
+T51	FAC 4848 4852	coro
+T52	PER 5010 5029	quattordici monache
+T53	PER 5061 5067	ognuna
+T54	FAC 5088 5092	coro
+T55	PER 5095 5153	alcune più lente per l ' età , forse , o per la corpulenza
+T56	PER 5156 5172	altre più rapide
+T57	PER 5239 5245	alcune
+T58	PER 5421 5428	persona
+T59	PER 5546 5556	claustrate
+T60	PER 5559 5565	Ognuna
+T61	PER 5642 5649	badessa
+T62	PER 5652 5691	una di esse , suor Giovanna della Croce
+T63	PER 5748 5755	badessa
+T64	PER 5922 5948	antichissima suora badessa
+T65	FAC 6021 6025	coro
+T66	FAC 6178 6182	coro
+T67	PER 6230 6234	Gesù
+T68	PER 6276 6291	trentatre suore
+T69	PER 6327 6334	Signore
+T70	ORG 6342 6377	terribile Ordine delle Sepolte Vive
+T71	PER 6523 6555	suor Teresa di Gesù , la badessa
+T72	PER 6538 6542	Gesù
+T73	PER 6596 6622	Grande Mantellata di Avila
+T74	GPE 6617 6622	Avila
+T75	PER 6628 6635	badessa
+T76	ORG 6701 6710	Trentatre
+T77	PER 6763 6794	nessuna nuova creatura muliebre
+T78	PER 6871 6879	converse
+T79	PER 6952 6965	Maria Vergine
+T80	PER 6996 7011	nessuna di esse
+T81	PER 7140 7159	suor Teresa di Gesù
+T82	PER 7155 7159	Gesù
+T83	PER 7265 7272	badessa
+T84	FAC 7390 7451	piccolo cimitero di suor Orsola , la fondatrice dell ' Ordine
+T85	PER 7410 7451	suor Orsola , la fondatrice dell ' Ordine
+T86	ORG 7445 7451	Ordine
+T87	PER 7472 7498	diciotto delle sue monache
+T88	PER 7518 7528	superstiti
+T89	PER 7627 7640	tutte vecchie
+T90	PER 7790 7835	badessa delle Trentatre , suor Teresa di Gesù
+T91	ORG 7804 7813	Trentatre
+T92	PER 7831 7835	Gesù
+T93	PER 7903 7908	suore
+T94	PER 8002 8009	badessa
+T95	PER 8021 8028	Signore
+T96	PER 8257 8265	conversa
+T97	PER 8295 8300	prete
+T98	FAC 8311 8315	coro
+T99	PER 8356 8363	monache
+T100	PER 8409 8414	tutte
+T101	PER 8502 8507	prete
+T102	PER 8685 8692	badessa
+T103	PER 8824 8849	Don Ferdinando de Angelis
+T104	PER 8882 8908	confessore delle Trentatre
+T105	ORG 8899 8908	Trentatre
+T106	FAC 8989 8998	monastero
+T107	PER 9016 9037	cardinale arcivescovo
+T108	PER 9109 9119	caro padre
+T109	PER 9158 9177	suor Teresa di Gesù
+T110	PER 9173 9177	Gesù
+T111	PER 9205 9215	confessore
+T112	PER 9295 9302	monache
+T113	PER 9477 9496	vecchissima badessa
+T114	PER 9550 9555	prete
+T115	PER 9590 9604	Alcune monache
+T116	PER 9707 9712	padre
+T117	PER 9733 9752	suor Teresa di Gesù
+T118	PER 9748 9752	Gesù
+T119	PER 9824 9827	Dio
+T120	PER 9863 9868	prete
+T121	PER 9908 9915	Signore
+T122	PER 9996 10010	quelle monache
+T123	PER 10013 10030	Quelle , in piedi
+T124	PER 10091 10096	altre
+T125	PER 10254 10259	tutte
+T126	PER 10301 10333	suor Teresa di Gesù , la badessa
+T127	PER 10316 10320	Gesù
+T128	PER 10391 10396	prete
+T129	FAC 10418 10427	quel coro
+T130	PER 10623 10640	vecchio sacerdote
+T131	PER 10754 10769	buone cristiane
+T132	PER 10775 10782	badessa
+T133	PER 10843 10868	don Ferdinando de Angelis
+T134	PER 10880 10896	tutte le monache
+T135	PER 11029 11052	madre cara , madre cara
+T136	PER 11060 11072	madre nostra
+T137	PER 11112 11124	madre nostra
+T138	PER 11296 11318	povera vecchia badessa
+T139	PER 11335 11358	sue quattordici monache
+T140	FAC 11447 11452	tomba
+T141	PER 11637 11649	Sua Eminenza
+T142	PER 11685 11695	confessore
+T143	PER 11756 11768	Sua Eminenza
+T144	PER 11784 11789	prete
+T145	GPE 11827 11831	Roma
+T146	PER 11888 11898	cara madre
+T147	FAC 11966 11975	quel coro
+T148	PER 12012 12019	monache
+T149	PER 12058 12062	Papa
+T150	PER 12068 12072	Papa
+T151	PER 12088 12103	vecchia badessa
+T152	PER 12147 12151	Papa
+T153	PER 12186 12214	noi , sue figlie , sue serve
+T154	PER 12286 12302	povero sacerdote
+T155	PER 12366 12383	Capo della Chiesa
+T156	ORG 12377 12383	Chiesa
+T157	PER 12397 12404	monache
+T158	PER 12457 12491	monaca , suor Giovanna della Croce
+T159	PER 12588 12609	una delle più giovani
+T160	PER 12619 12626	vecchie
+T161	PER 12743 12754	sua badessa
+T162	PER 12802 12806	Papa
+T163	PER 12815 12819	Papa
+T164	PER 12835 12854	suor Teresa di Gesù
+T165	PER 12850 12854	Gesù
+T166	PER 12903 12907	Papa
+T167	PER 12972 12997	don Ferdinando de Angelis
+T168	PER 13101 13116	vecchia badessa
+T169	PER 13157 13167	cara madre
+T170	PER 13327 13344	due o tre monache

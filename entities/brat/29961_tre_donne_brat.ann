@@ -1,0 +1,208 @@
+T0	LOC 16 29	Val Mis ' cia
+T1	PER 151 160	contadini
+T2	LOC 177 182	campi
+T3	PER 200 205	donne
+T4	FAC 226 238	stabilimento
+T5	PER 281 287	gruppo
+T6	PER 400 459	Maria Scaramelli -- moglie di Sandro Rampoldi il cavallante
+T7	PER 430 459	Sandro Rampoldi il cavallante
+T8	PER 463 493	giovine donna di ventidue anni
+T9	PER 554 567	povera Giulia
+T10	FAC 664 668	casa
+T11	PER 707 718	sua cognata
+T12	PER 772 779	padrone
+T13	PER 933 938	donna
+T14	FAC 1067 1073	strada
+T15	FAC 1088 1103	tutta la strada
+T16	PER 1130 1143	Povera Giulia
+T17	PER 1171 1187	povera figliuola
+T18	PER 1207 1214	Signore
+T19	PER 1300 1307	Signore
+T20	PER 1328 1351	anziana dal viso scarno
+T21	PER 1529 1535	Giulia
+T22	FAC 1597 1613	casa del diavolo
+T23	PER 1606 1613	diavolo
+T24	PER 1808 1821	altra vecchia
+T25	PER 1942 1948	Giulia
+T26	PER 1953 1959	Giulia
+T27	PER 2190 2200	Gesù , mio
+T28	PER 2470 2475	donne
+T29	PER 2541 2551	ragazzetta
+T30	PER 2590 2596	uomini
+T31	PER 2661 2666	altre
+T32	PER 2746 2758	povera gente
+T33	PER 2786 2793	vecchia
+T34	PER 2805 2816	altre donne
+T35	PER 2882 2888	uomini
+T36	PER 2926 2932	Giulia
+T37	PER 2941 3004	Cristina Scaramelli -- sorella minore di Maria moglie di Sandro
+T38	PER 2982 3004	Maria moglie di Sandro
+T39	PER 2998 3004	Sandro
+T40	PER 3059 3065	uomini
+T41	PER 3571 3574	Dio
+T42	PER 3593 3598	donne
+T43	PER 3626 3632	Alcune
+T44	PER 3651 3674	questa ribelle Cristina
+T45	PER 3682 3702	bel pezzo di ragazza
+T46	PER 3707 3714	padroni
+T47	PER 3759 3808	don Giorgio Castellani , il giovine curato di Gel
+T48	GPE 3805 3808	Gel
+T49	PER 3840 3874	sorella di lei , la sposa Rampoldi
+T50	PER 3976 3985	poveretti
+T51	PER 4017 4027	mio Sandro
+T52	PER 4051 4059	tedeschi
+T53	PER 4070 4080	piemontesi
+T54	PER 4220 4227	Signore
+T55	PER 4275 4282	anziane
+T56	PER 4308 4313	tutte
+T57	FAC 4337 4341	casa
+T58	LOC 4365 4381	pianura lombarda
+T59	FAC 4427 4452	questo mucchio di casette
+T60	LOC 4460 4479	specie d ' isolotto
+T61	LOC 4484 4502	due corsi di acqua
+T62	GPE 4508 4516	Vergonza
+T63	LOC 4522 4531	Mis ' cia
+T64	PER 4536 4545	contadini
+T65	LOC 4593 4606	Val Mis ' cia
+T66	FAC 4609 4623	Due ponticelli
+T67	LOC 4775 4780	fossi
+T68	LOC 4802 4815	Val Mis ' cia
+T69	LOC 4871 4876	isola
+T70	FAC 4907 4916	cascinale
+T71	FAC 4926 4932	chiesa
+T72	FAC 4942 4950	botteghe
+T73	FAC 4964 4969	forno
+T74	PER 4994 5003	contadini
+T75	PER 5009 5019	loro donne
+T76	PER 5155 5173	garzone di fornaio
+T77	PER 5166 5173	fornaio
+T78	GPE 5239 5247	Casorate
+T79	GPE 5253 5256	Gel
+T80	PER 5523 5545	contadini dell ' isola
+T81	LOC 5540 5545	isola
+T82	PER 5584 5603	garzone del fornaio
+T83	PER 5596 5603	fornaio
+T84	PER 5678 5682	uomo
+T85	LOC 5771 5784	quell ' eremo
+T86	FAC 5827 5835	casupola
+T87	PER 5876 5883	bambini
+T88	PER 6098 6124	più malcontenti e affamati
+T89	FAC 6208 6221	casa Rampoldi
+T90	PER 6213 6221	Rampoldi
+T91	PER 6270 6323	Virginia , la moglie di Pietro , il fratello maggiore
+T92	PER 6294 6323	Pietro , il fratello maggiore
+T93	PER 6334 6352	contadino a podere
+T94	LOC 6346 6352	podere
+T95	PER 6502 6512	due uomini
+T96	PER 6536 6569	Virginia , una pallidona delicata
+T97	LOC 6603 6611	campagna
+T98	PER 6666 6675	contadini
+T99	PER 6697 6702	donne
+T100	PER 6804 6814	due uomini
+T101	PER 6829 6842	brava massaia
+T102	PER 6917 6922	Tutti
+T103	PER 6952 6960	Rampoldi
+T104	PER 6990 6998	Virginia
+T105	FAC 7028 7052	casa di ricchi fittabili
+T106	PER 7036 7052	ricchi fittabili
+T107	PER 7107 7115	Rampoldi
+T108	PER 7146 7151	altri
+T109	PER 7160 7176	due uomini forti
+T110	LOC 7205 7211	podere
+T111	PER 7278 7284	Sandro
+T112	PER 7302 7331	Maria Scaramelli una sgobbona
+T113	FAC 7405 7409	casa
+T114	PER 7490 7507	pallida cognatina
+T115	PER 7614 7620	Sandro
+T116	PER 7654 7683	figliuola di Marco Scaramelli
+T117	PER 7667 7683	Marco Scaramelli
+T118	PER 7704 7721	fratello maggiore
+T119	FAC 7758 7762	casa
+T120	PER 7767 7778	lavoratrice
+T121	PER 7826 7832	moglie
+T122	FAC 7913 7926	casa Rampoldi
+T123	PER 7918 7926	Rampoldi
+T124	PER 7929 7935	moglie
+T125	PER 7943 7951	Virginia
+T126	PER 7970 7978	fratello
+T127	PER 7990 7995	altro
+T128	PER 8001 8007	Sandro
+T129	PER 8016 8022	Pietro
+T130	PER 8076 8087	due cognati
+T131	PER 8092 8125	Maria , sposa legittima di Sandro
+T132	PER 8119 8125	Sandro
+T133	PER 8167 8175	Rampoldi
+T134	PER 8181 8217	sorella di lei , l ' ardita Cristina
+T135	PER 8361 8372	sua sorella
+T136	PER 8403 8408	Maria
+T137	PER 8417 8422	donna
+T138	FAC 8452 8467	cucina semibuia
+T139	PER 8502 8514	due Rampoldi
+T140	PER 8520 8534	bella Virginia
+T141	PER 8578 8584	Sandro
+T142	GPE 8602 8610	Casorate
+T143	PER 8751 8759	Virginia
+T144	PER 8943 8948	Maria
+T145	FAC 9003 9009	stalla
+T146	FAC 9016 9020	casa
+T147	FAC 9095 9099	orto
+T148	FAC 9107 9113	stalle
+T149	PER 9120 9125	altri
+T150	FAC 9412 9418	strada
+T151	PER 9642 9662	quella povera Giulia
+T152	PER 9774 9782	Cristina
+T153	FAC 9804 9821	casupola da canto
+T154	PER 9836 9843	vecchia
+T155	PER 9884 9901	Annunziata Meroni
+T156	PER 9907 9916	due donne
+T157	PER 9935 9940	Maria
+T158	FAC 9957 9971	sua abitazione
+T159	PER 9993 10000	anziana
+T160	PER 10141 10147	curato
+T161	FAC 10228 10234	chiesa
+T162	PER 10249 10265	Tonio della Mora
+T163	PER 10272 10286	altro becchino
+T164	PER 10326 10338	Vostro padre
+T165	PER 10374 10396	Cristina , mia sorella
+T166	PER 10472 10477	Maria
+T167	PER 10556 10567	sua sorella
+T168	FAC 10576 10591	casa del marito
+T169	PER 10585 10591	marito
+T170	PER 10652 10663	mia sorella
+T171	PER 10778 10792	Vostra sorella
+T172	PER 10804 10816	vostro padre
+T173	PER 10844 10863	vostra povera mamma
+T174	PER 10952 10975	vostra sorella Cristina
+T175	PER 11006 11015	contadina
+T176	GPE 11090 11093	Gel
+T177	PER 11107 11113	curato
+T178	PER 11116 11121	Maria
+T179	PER 11167 11173	curato
+T180	PER 11184 11196	nostro padre
+T181	PER 11257 11266	figliuola
+T182	PER 11277 11285	Nunziata
+T183	PER 11310 11321	Mia sorella
+T184	PER 11328 11344	ragazza per bene
+T185	PER 11353 11381	figliuole della stessa madre
+T186	PER 11376 11381	madre
+T187	PER 11443 11451	sgobbona
+T188	PER 11499 11506	stupida
+T189	PER 11521 11526	serva
+T190	PER 11529 11563	quella smorfiosa di vostra cognata
+T191	PER 11572 11577	serva
+T192	FAC 11591 11599	casa mia
+T193	PER 11660 11663	Dio
+T194	PER 11799 11815	moglie di Sandro
+T195	PER 11809 11815	Sandro
+T196	PER 12028 12120	bella contadina , alta , dalle spalle larghe , dalle braccia solide quanto quelle di un uomo
+T197	PER 12116 12120	uomo
+T198	PER 12339 12346	vecchia
+T199	PER 12404 12410	Sandro
+T200	PER 12432 12440	avvocato
+T201	PER 12496 12505	sua donna
+T202	PER 12510 12515	Maria
+T203	PER 12643 12648	tutti
+T204	LOC 12702 12708	podere
+T205	PER 12722 12728	Pietro
+T206	FAC 12744 12748	casa
+T207	PER 12849 12857	famiglia

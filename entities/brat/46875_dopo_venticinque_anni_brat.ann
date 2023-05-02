@@ -1,0 +1,158 @@
+T0	GPE 65 71	Torino
+T1	GPE 74 81	Venezia
+T2	PER 126 141	tre uomini soli
+T3	PER 148 159	due di essi
+T4	PER 245 292	uno poteva essere di quarantacinque anni al più
+T5	PER 302 318	altro di 21 a 22
+T6	PER 341 346	padre
+T7	PER 349 355	figlio
+T8	PER 358 385	bellissime persone entrambi
+T9	PER 556 561	padre
+T10	PER 622 628	figlio
+T11	PER 927 934	giovane
+T12	VEH 1115 1123	carrozza
+T13	PER 1236 1245	suo padre
+T14	PER 1273 1290	terzo viaggiatore
+T15	PER 1413 1432	ometto di mezza età
+T16	PER 1540 1557	suo interlocutore
+T17	PER 1593 1642	persona molto bene informata e molto bene accetta
+T18	ORG 1646 1653	società
+T19	PER 1782 1797	Eugenio Nottoli
+T20	PER 1825 1839	signora Amalia
+T21	PER 1852 1861	figliuola
+T22	PER 1869 1884	vecchi Martelli
+T23	FAC 2004 2011	palazzo
+T24	GPE 2014 2034	San Giovanni e Paolo
+T25	PER 2111 2125	signora Amalia
+T26	PER 2167 2175	fratello
+T27	FAC 2189 2200	primo piano
+T28	PER 2209 2217	fratello
+T29	GPE 2233 2239	Londra
+T30	PER 2260 2266	moglie
+T31	PER 2276 2283	signore
+T32	GPE 2323 2330	Firenze
+T33	GPE 2335 2339	Roma
+T34	PER 2358 2372	queste signore
+T35	GPE 2385 2392	Venezia
+T36	PER 2407 2422	signora Nottoli
+T37	PER 2425 2435	sua figlia
+T38	PER 2467 2478	interrogato
+T39	LOC 2537 2551	tutto il mondo
+T40	PER 2658 2673	famiglie amiche
+T41	PER 2678 2703	Ottime e distinte signore
+T42	PER 2735 2749	signora Amalia
+T43	PER 2805 2812	Nottoli
+T44	PER 3199 3210	bella donna
+T45	GPE 3284 3291	Venezia
+T46	PER 3326 3372	ospite nella casa paterna della signora Amalia
+T47	FAC 3339 3372	casa paterna della signora Amalia
+T48	PER 3358 3372	signora Amalia
+T49	PER 3378 3392	Loro volontarî
+T50	PER 3425 3433	principi
+T51	PER 3458 3468	signor mio
+T52	PER 3479 3488	cittadini
+T53	GPE 3566 3574	Marghera
+T54	GPE 3638 3644	Sodoma
+T55	GPE 3647 3654	Gomorra
+T56	GPE 3805 3812	Vicenza
+T57	PER 3883 3899	Madonna di Monte
+T58	LOC 3894 3899	Monte
+T59	PER 3931 3940	Austriaci
+T60	GPE 4186 4193	Vicenza
+T61	PER 4284 4295	viaggiatore
+T62	GPE 4430 4437	Venezia
+T63	GPE 4489 4495	Italia
+T64	GPE 4551 4558	Venezia
+T65	GPE 4565 4570	città
+T66	VEH 4725 4734	convoglio
+T67	FAC 4753 4775	tettoia della Stazione
+T68	FAC 4767 4775	Stazione
+T69	PER 4847 4857	conduttore
+T70	PER 4903 4908	padre
+T71	PER 4911 4917	figlio
+T72	PER 4960 4967	giovine
+T73	PER 4993 5000	signore
+T74	PER 5054 5072	gran chiacchierone
+T75	LOC 5106 5134	colline tra Verona e Vicenza
+T76	GPE 5118 5124	Verona
+T77	GPE 5127 5134	Vicenza
+T78	PER 5291 5300	suo padre
+T79	GPE 5450 5456	Mestre
+T80	PER 5586 5631	Marghera , l ' eroica , la memoranda Marghera
+T81	PER 5712 5735	amici mortigli a fianco
+T82	PER 5792 5806	capi e soldati
+T83	PER 5910 5919	difensori
+T84	FAC 6064 6085	quelle casematte arse
+T85	FAC 6090 6114	quei quartieri distrutti
+T86	FAC 6165 6170	ponte
+T87	GPE 6184 6191	Venezia
+T88	PER 6205 6229	quelli ch ' erano caduti
+T89	GPE 6240 6245	città
+T90	PER 6300 6307	sorelle
+T91	PER 6313 6322	fidanzate
+T92	PER 6328 6333	spose
+T93	PER 6339 6344	madri
+T94	PER 6742 6757	lettore cortese
+T95	GPE 6798 6805	Venezia
+T96	PER 6811 6833	signor Michele Arsandi
+T97	PER 6836 6853	suo figlio Arturo
+T98	PER 6927 6949	signor Michele Arsandi
+T99	PER 6952 6969	suo figlio Arturo
+T100	PER 6995 7017	nostri due viaggiatori
+T101	LOC 7064 7070	piazza
+T102	FAC 7077 7081	molo
+T103	LOC 7090 7110	Riva degli Schiavoni
+T104	FAC 7138 7157	Chiesa di San Marco
+T105	FAC 7164 7190	cortile del Palazzo Ducale
+T106	FAC 7176 7190	Palazzo Ducale
+T107	FAC 7216 7223	albergo
+T108	PER 7250 7264	giovane Arturo
+T109	GPE 7366 7382	fantastica città
+T110	PER 7567 7576	suo padre
+T111	GPE 7610 7617	Venezia
+T112	PER 7662 7682	suoi uomini illustri
+T113	PER 7702 7716	signor Michele
+T114	PER 7883 7892	figliuolo
+T115	PER 8044 8058	signor Michele
+T116	FAC 8141 8148	albergo
+T117	GPE 8161 8168	Venezia
+T118	FAC 8375 8389	Palazzo Ducale
+T119	FAC 8536 8546	Procuratie
+T120	PER 8552 8562	giovinotto
+T121	PER 8596 8610	signor Michele
+T122	FAC 8624 8634	sua stanza
+T123	PER 8712 8718	Arturo
+T124	GPE 8739 8746	Venezia
+T125	PER 9016 9020	Kate
+T126	PER 9066 9090	quella benedetta vecchia
+T127	PER 9116 9128	mia consorte
+T128	GPE 9233 9239	Italia
+T129	GPE 9246 9264	paese della popery
+T130	FAC 9471 9481	mio studio
+T131	PER 9501 9505	Kate
+T132	PER 9623 9627	Kate
+T133	GPE 9632 9638	Londra
+T134	PER 9952 9957	sig .
+T135	PER 9958 9965	Michele
+T136	GPE 10015 10022	Venezia
+T137	PER 10110 10131	gruppo d ' artiglieri
+T138	LOC 10186 10192	laguna
+T139	LOC 10200 10220	sue isolette lontane
+T140	PER 10244 10265	pescatori chioggiotti
+T141	FAC 10280 10332	pittoresche casupole dei nostri quartieri più poveri
+T142	FAC 10305 10332	nostri quartieri più poveri
+T143	PER 10427 10442	giovane artista
+T144	PER 10544 10553	fanciulla
+T145	PER 11188 11197	fanciulla
+T146	PER 11478 11492	signor Michele
+T147	PER 11596 11611	Amalia Martelli
+T148	PER 11777 11783	moglie
+T149	PER 11803 11809	marito
+T150	PER 11891 11909	vedovi tutti e due
+T151	PER 12228 12242	signor Michele
+T152	PER 12364 12369	donne
+T153	PER 12420 12438	nostro viaggiatore
+T154	PER 12457 12463	uomini
+T155	FAC 12811 12818	albergo
+T156	FAC 12856 12865	quartiere
+T157	PER 12892 12900	Martelli

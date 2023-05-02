@@ -1,0 +1,250 @@
+T0	PER 58 92	sei auditori della Rota Fiorentina
+T1	ORG 77 92	Rota Fiorentina
+T2	ORG 112 151	Turno Giudicante sugli affari criminali
+T3	PER 160 165	tutti
+T4	FAC 183 189	stanza
+T5	PER 355 363	auditore
+T6	PER 382 405	suo bambino di tre anni
+T7	PER 436 443	secondo
+T8	PER 478 483	terzo
+T9	PER 621 631	presidente
+T10	PER 634 639	Tutti
+T11	PER 714 724	presidente
+T12	PER 841 864	ciascuno degli auditori
+T13	PER 870 885	Vostra signoria
+T14	PER 912 1000	auditore Lechini , un omettino di bassa statura , magrolino , sempre ligio , cerimonioso
+T15	PER 1078 1088	presidente
+T16	PER 1099 1129	alti magistrati della Consulta
+T17	ORG 1121 1129	Consulta
+T18	PER 1138 1162	qualche altro dignitario
+T19	PER 1220 1232	caro Lechini
+T20	PER 1249 1259	presidente
+T21	PER 1301 1315	suo prediletto
+T22	PER 1328 1335	signori
+T23	PER 1345 1350	tutti
+T24	GPE 1491 1495	Pisa
+T25	PER 1512 1539	Sua Altezza la Granduchessa
+T26	PER 1557 1568	Sua Altezza
+T27	PER 1583 1590	Lechini
+T28	ORG 1698 1717	Gazzetta di Firenze
+T29	GPE 1710 1717	Firenze
+T30	PER 1796 1806	presidente
+T31	PER 1913 1920	Lechini
+T32	GPE 1946 1950	Pisa
+T33	PER 2007 2031	nostra adorabile Sovrana
+T34	PER 2102 2126	tutta questa popolazione
+T35	PER 2205 2221	auditori , tutti
+T36	PER 2254 2264	presidente
+T37	PER 2351 2367	auditore Lechini
+T38	PER 2385 2395	presidente
+T39	PER 2468 2485	famiglia regnante
+T40	PER 2530 2537	Lechini
+T41	PER 2567 2589	maestro Andrea Nencini
+T42	FAC 2597 2630	Oratorio dei Preti di San Firenze
+T43	LOC 2619 2630	San Firenze
+T44	PER 2645 2662	signor Presidente
+T45	PER 2677 2684	Lechini
+T46	PER 2697 2716	arcivescovo Minucci
+T47	PER 2816 2824	auditore
+T48	PER 2864 2886	tenore Giovanni Duprez
+T49	PER 2917 2940	basso Domenico Cosselli
+T50	ORG 2964 2998	orchestra del Teatro della Pergola
+T51	FAC 2978 2998	Teatro della Pergola
+T52	PER 3025 3046	presidente della Rota
+T53	ORG 3042 3046	Rota
+T54	PER 3208 3218	presidente
+T55	FAC 3225 3248	Teatro degl ' Infuocati
+T56	PER 3253 3260	ragazza
+T57	PER 3311 3318	Lechini
+T58	PER 3356 3377	Clementina Vecchietti
+T59	FAC 3424 3434	Mercadante
+T60	PER 3477 3487	magistrato
+T61	ORG 3663 3693	Compagnia Internari e Paladini
+T62	ORG 3701 3710	Internari
+T63	PER 3745 3762	duchessa Eleonora
+T64	PER 3790 3807	autore del lavoro
+T65	PER 3857 3886	autore di un lavoro che piace
+T66	PER 3993 4021	autore della Monaca di Monza
+T67	GPE 4016 4021	Monza
+T68	PER 4075 4085	presidente
+T69	PER 4091 4098	usciere
+T70	PER 4147 4157	presidente
+T71	PER 4163 4173	presidente
+T72	PER 4193 4208	Vostra signoria
+T73	ORG 4273 4297	Accademia dei Georgofili
+T74	PER 4459 4478	auditore Pantellini
+T75	PER 4481 4496	Questo auditore
+T76	PER 4583 4599	auditore Lechini
+T77	PER 4661 4671	presidente
+T78	PER 4678 4697	auditore Pantellini
+T79	PER 4763 4776	suo superiore
+T80	PER 4870 4886	tutti i presenti
+T81	PER 4949 4956	Lechini
+T82	PER 5012 5022	auditorìno
+T83	PER 5076 5087	suo collega
+T84	PER 5148 5163	signor auditore
+T85	PER 5180 5190	presidente
+T86	PER 5222 5229	collega
+T87	PER 5235 5245	presidente
+T88	PER 5305 5339	nuovo arrivato con fisonomia ilare
+T89	PER 5373 5383	presidente
+T90	PER 5403 5418	famiglia nobile
+T91	GPE 5461 5466	città
+T92	PER 5473 5500	uomo di squisita educazione
+T93	PER 5617 5636	auditore Pantellini
+T94	PER 5673 5680	Signori
+T95	PER 5731 5747	auditore Lechini
+T96	PER 5811 5818	usciere
+T97	PER 5847 5870	signor Avvocato Fiscale
+T98	PER 5876 5887	Cancelliere
+T99	PER 5895 5912	signor presidente
+T100	PER 5949 5956	usciere
+T101	PER 6012 6029	Altri due uscieri
+T102	FAC 6056 6067	due armadii
+T103	PER 6081 6091	magistrati
+T104	PER 6100 6111	prigioniero
+T105	PER 6136 6146	presidente
+T106	PER 6153 6165	usciere capo
+T107	PER 6235 6252	signor presidente
+T108	FAC 6270 6288	stanza di custodia
+T109	PER 6311 6327	agente Lucertolo
+T110	FAC 6355 6362	carceri
+T111	PER 6384 6393	inquisito
+T112	PER 6426 6442	Avvocato Fiscale
+T113	PER 6448 6459	Cancelliere
+T114	FAC 6472 6488	sala d ' udienza
+T115	PER 6571 6578	usciere
+T116	PER 6629 6636	Signori
+T117	PER 6669 6679	presidente
+T118	PER 6694 6699	tutti
+T119	PER 6749 6761	capo usciere
+T120	PER 6823 6830	usciere
+T121	PER 6835 6877	auditore Pantellini , relatore nella causa
+T122	PER 6973 6998	sei magistrati della Rota
+T123	ORG 6994 6998	Rota
+T124	FAC 7015 7031	sala d ' udienza
+T125	PER 7051 7058	usciere
+T126	PER 7091 7099	pubblico
+T127	PER 7137 7145	auditori
+T128	PER 7161 7171	presidente
+T129	PER 7204 7220	avvocato fiscale
+T130	PER 7241 7255	birro graduato
+T131	FAC 7312 7316	sala
+T132	PER 7339 7349	magistrati
+T133	PER 7388 7397	inquisito
+T134	PER 7453 7468	gruppo di birri
+T135	PER 7538 7554	Nello Bartelloni
+T136	PER 7573 7584	altri birri
+T137	PER 7640 7658	avvocato Arzellini
+T138	PER 7766 7776	Presidente
+T139	PER 7785 7801	Avvocato Fiscale
+T140	FAC 7812 7816	sala
+T141	ORG 7850 7875	Rota Criminale fiorentina
+T142	FAC 7881 7892	pianterreno
+T143	FAC 7899 7925	palazzo detto del Bargello
+T144	FAC 7969 7976	cortile
+T145	LOC 8067 8085	Via del Proconsolo
+T146	LOC 8094 8112	piazza San Firenze
+T147	LOC 8137 8155	via del Proconsolo
+T148	LOC 8168 8183	Via de ' Librai
+T149	FAC 8453 8478	ufficii della Cancelleria
+T150	FAC 8486 8508	stanza del Soprastante
+T151	FAC 8514 8532	carceri della Rota
+T152	ORG 8528 8532	Rota
+T153	PER 8568 8579	prigionieri
+T154	PER 8633 8644	Cancellieri
+T155	PER 8670 8678	detenuti
+T156	FAC 8718 8739	gran sala del palazzo
+T157	FAC 8732 8739	palazzo
+T158	FAC 8754 8781	uffici della Rota Criminale
+T159	ORG 8767 8781	Rota Criminale
+T160	FAC 8804 8815	sotterranei
+T161	FAC 8917 8933	sala d ' udienza
+T162	PER 8996 9008	sei auditori
+T163	PER 9085 9092	giudici
+T164	PER 9104 9120	Avvocato Fiscale
+T165	PER 9137 9148	Cancelliere
+T166	PER 9172 9179	giudici
+T167	PER 9232 9240	avvocati
+T168	PER 9309 9327	attuarii , giovani
+T169	FAC 9347 9358	Cancelleria
+T170	ORG 9397 9409	magistratura
+T171	PER 9414 9427	altri giovani
+T172	PER 9459 9467	avvocati
+T173	FAC 9473 9490	cancello di legno
+T174	PER 9524 9549	uomo di ordinaria statura
+T175	FAC 9564 9582	sala delle udienze
+T176	PER 9606 9614	pubblico
+T177	PER 9654 9659	Nello
+T178	PER 9677 9682	Tutti
+T179	PER 9702 9720	presunto assassino
+T180	PER 9771 9776	gente
+T181	FAC 9795 9799	sala
+T182	PER 9802 9830	Alcuni venditori del Mercato
+T183	FAC 9857 9865	botteghe
+T184	PER 9904 9909	Nello
+T185	PER 9969 9975	Uomini
+T186	PER 9978 9983	donne
+T187	PER 10130 10139	due birri
+T188	FAC 10182 10186	sala
+T189	PER 10387 10392	birri
+T190	PER 10447 10459	più rumorosi
+T191	PER 10462 10486	Due consiglieri di Stato
+T192	ORG 10481 10486	Stato
+T193	PER 10489 10521	alcuni magistrati della Consulta
+T194	ORG 10513 10521	Consulta
+T195	PER 10527 10558	segretario del ministro inglese
+T196	PER 10542 10558	ministro inglese
+T197	PER 10561 10612	alcuni ragguardevoli personaggi dell ' aristocrazia
+T198	ORG 10600 10612	aristocrazia
+T199	PER 10651 10659	attuarii
+T200	PER 10667 10683	giovani avvocati
+T201	PER 10781 10800	folla dei mercatìni
+T202	PER 10803 10808	Nello
+T203	PER 10852 10861	Lucertolo
+T204	PER 10992 11002	presidente
+T205	PER 11032 11051	auditore Pantellini
+T206	PER 11120 11130	presidente
+T207	PER 11143 11154	cancelliere
+T208	PER 11219 11238	auditore Pantellini
+T209	PER 11268 11283	Signor auditore
+T210	PER 11351 11359	pubblico
+T211	PER 11390 11395	Nello
+T212	PER 11398 11407	Lucertolo
+T213	PER 11430 11435	Matto
+T214	PER 11438 11447	Vendifumo
+T215	PER 11453 11500	birro più agghindato e più elegante della città
+T216	GPE 11495 11500	città
+T217	PER 11503 11520	ritti e vigilanti
+T218	PER 11535 11544	inquisito
+T219	PER 11575 11582	astanti
+T220	PER 11589 11608	auditore Pantellini
+T221	LOC 11732 11749	Vicolo della Luna
+T222	PER 11798 11806	auditore
+T223	FAC 11821 11838	stanza misteriosa
+T224	PER 11894 11899	Nello
+T225	PER 11923 11932	mercatìno
+T226	PER 11947 11956	testimone
+T227	PER 11975 11982	giudice
+T228	PER 12069 12084	folla accalcata
+T229	FAC 12095 12103	cancello
+T230	PER 12137 12156	auditore Pantellini
+T231	PER 12205 12210	Nello
+T232	PER 12265 12281	alcuni testimoni
+T233	PER 12337 12351	povero ragazzo
+T234	FAC 12425 12429	sala
+T235	PER 12442 12449	giudice
+T236	PER 12524 12530	ferito
+T237	LOC 12567 12584	Piazza della Luna
+T238	FAC 12590 12594	sala
+T239	PER 12679 12686	giudice
+T240	PER 12876 12887	assassinato
+T241	PER 12990 12998	paziente
+T242	PER 13126 13135	moribondo
+T243	PER 13332 13341	assassino
+T244	PER 13502 13507	Nello
+T245	PER 13546 13560	auditore Nolmi
+T246	PER 13671 13709	lettore , l ' auditore Francesco Nolmi
+T247	PER 13751 13756	Nello
+T248	PER 13767 13776	colpevole
+T249	PER 13887 13895	filosofo

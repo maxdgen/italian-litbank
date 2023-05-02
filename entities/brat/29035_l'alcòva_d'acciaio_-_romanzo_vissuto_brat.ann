@@ -1,0 +1,190 @@
+T0	FAC 67 90	baracca dei bombardieri
+T1	PER 79 90	bombardieri
+T2	LOC 138 170	cresta montana di Val d ' Astico
+T3	LOC 156 170	Val d ' Astico
+T4	PER 337 382	Una ventina di ufficiali , tenenti , capitani
+T5	PER 385 426	colonnello Squilloni giocondo e pettoruto
+T6	PER 453 464	bombardieri
+T7	PER 596 607	più giovani
+T8	PER 763 775	buon dottore
+T9	PER 1134 1156	mio compagno di destra
+T10	PER 1229 1236	giovani
+T11	PER 1282 1289	dottore
+T12	PER 1467 1472	Tutti
+T13	PER 1485 1492	dottore
+T14	PER 1607 1612	Tutti
+T15	PER 1705 1717	caro dottore
+T16	PER 1909 1924	certi superiori
+T17	LOC 1967 1972	Carso
+T18	GPE 1978 1987	Caporetto
+T19	GPE 2154 2160	Italia
+T20	PER 2194 2206	caro dottore
+T21	PER 2281 2286	Tutti
+T22	PER 2299 2306	dottore
+T23	PER 2479 2485	corteo
+T24	PER 2629 2636	giovani
+T25	PER 2738 2748	colonnello
+T26	PER 2781 2788	dottore
+T27	PER 2819 2826	dottore
+T28	PER 2839 2844	Tutti
+T29	FAC 2876 2884	terrazza
+T30	PER 2988 2996	sbandati
+T31	LOC 3227 3254	pianura veneta crepuscolare
+T32	PER 3259 3269	miei amici
+T33	PER 3291 3298	dottore
+T34	PER 3497 3517	combattenti italiani
+T35	PER 3815 3835	colonnello Squilloni
+T36	PER 3841 3857	capitano Melodia
+T37	PER 3863 3876	tenente Bosca
+T38	PER 3882 3907	mio attendente Ghiandusso
+T39	LOC 3936 3958	alta montagna scoscesa
+T40	PER 3961 3965	Muti
+T41	GPE 4108 4143	città dell ' immensa pianura veneta
+T42	LOC 4121 4143	immensa pianura veneta
+T43	GPE 4163 4169	Milano
+T44	GPE 4189 4214	ribollente città lombarda
+T45	LOC 4365 4371	Fronte
+T46	PER 4592 4597	bimbi
+T47	PER 4656 4664	fratelli
+T48	PER 4669 4674	padri
+T49	PER 4681 4686	sposi
+T50	PER 4693 4699	amanti
+T51	LOC 4856 4861	Piave
+T52	GPE 5213 5219	Italia
+T53	GPE 5228 5234	Cengio
+T54	LOC 5297 5301	mari
+T55	PER 5382 5392	miei amici
+T56	VEH 5492 5519	automitragliatrici blindate
+T57	VEH 5534 5560	bella velocissima blindata
+T58	PER 5579 5588	austriaci
+T59	PER 5750 5757	nessuno
+T60	PER 5763 5779	capitano Melodia
+T61	PER 5836 5856	ricco signore romano
+T62	PER 5859 5882	ufficiale di cavalleria
+T63	ORG 5872 5882	cavalleria
+T64	PER 5913 5924	bombardieri
+T65	PER 5965 5979	padre senatore
+T66	FAC 6178 6186	ospedale
+T67	PER 6208 6220	suoi soldati
+T68	LOC 6250 6265	Piazza d ' armi
+T69	PER 6281 6294	suo squadrone
+T70	VEH 6312 6322	carrozzino
+T71	PER 6340 6350	attendente
+T72	GPE 6537 6557	villaggio di Romagna
+T73	PER 6578 6597	principe del sangue
+T74	PER 6613 6631	figlia del sindaco
+T75	PER 6624 6631	sindaco
+T76	PER 6679 6687	pompieri
+T77	ORG 6690 6705	società operaie
+T78	PER 6708 6719	carabinieri
+T79	PER 6754 6761	Melodia
+T80	LOC 6988 6994	fronte
+T81	FAC 7045 7063	ospedale di Torino
+T82	GPE 7057 7063	Torino
+T83	FAC 7192 7200	ospedale
+T84	PER 7213 7230	sentinelle feroci
+T85	FAC 7326 7342	camera mortuaria
+T86	PER 7347 7355	piantoni
+T87	PER 7399 7405	Alpino
+T88	PER 7547 7555	piantoni
+T89	PER 7598 7607	mio amico
+T90	FAC 7649 7665	camera mortuaria
+T91	PER 7784 7789	amico
+T92	PER 7940 7949	portatori
+T93	VEH 8013 8018	carro
+T94	VEH 8021 8070	Questo sgangheratissimo e trascinato da due rozze
+T95	VEH 8110 8114	tram
+T96	VEH 8194 8204	automobile
+T97	PER 8242 8255	mio cocchiere
+T98	VEH 8311 8324	due autocarri
+T99	PER 8484 8500	capitano Melodia
+T100	PER 8516 8521	Tutti
+T101	LOC 8875 8883	montagne
+T102	LOC 8913 8917	cime
+T103	PER 8946 8977	nostro bel colonnello Squilloni
+T104	PER 9000 9009	Squilloni
+T105	PER 9015 9072	simpaticissimo quarantenne , fiorentino pieno d ' ingegno
+T106	PER 9255 9260	tutti
+T107	PER 9263 9309	Comandante energico ma paterno dei bombardieri
+T108	PER 9298 9309	bombardieri
+T109	FAC 9347 9386	caffè di Vicenza , di Thiene , di Schio
+T110	GPE 9356 9363	Vicenza
+T111	GPE 9369 9375	Thiene
+T112	GPE 9381 9386	Schio
+T113	FAC 9432 9471	suo giardino multicolore di decorazioni
+T114	PER 9594 9605	Bell ' uomo
+T115	PER 9639 9664	donne della buona società
+T116	ORG 9651 9664	buona società
+T117	PER 9673 9682	disilluso
+T118	PER 9689 9695	amante
+T119	PER 9705 9724	tutte le prostitute
+T120	PER 9786 9794	qualcuno
+T121	PER 9819 9838	Magnifico ufficiale
+T122	PER 9868 9900	ottimo organizzatore di batterie
+T123	PER 9903 9946	goliardico e carnascialesco re dei bordelli
+T124	FAC 9938 9946	bordelli
+T125	PER 9949 9958	Squilloni
+T126	GPE 10002 10008	Italia
+T127	GPE 10016 10035	città della pianura
+T128	LOC 10028 10035	pianura
+T129	PER 10114 10128	voialtri poeti
+T130	PER 10147 10152	donne
+T131	PER 10168 10173	tutti
+T132	PER 10176 10185	figliuoli
+T133	PER 10216 10227	Madama Rosa
+T134	PER 10245 10279	tutti nell ' autocarro della spesa
+T135	VEH 10258 10279	autocarro della spesa
+T136	FAC 10286 10295	Campiello
+T137	FAC 10298 10304	Mosson
+T138	GPE 10312 10318	Thiene
+T139	PER 10357 10377	Colonnello Squilloni
+T140	FAC 10589 10598	Campiello
+T141	FAC 10609 10616	trincee
+T142	PER 10626 10666	cadaveri della prima offensiva austriaca
+T143	FAC 10726 10739	casa ospitale
+T144	VEH 10746 10765	automobile militare
+T145	PER 10943 10982	piccoli plotoni di scozzesi in gonnella
+T146	PER 11157 11166	ufficiali
+T147	PER 11169 11188	soldati grigioverdi
+T148	FAC 11213 11230	graziosa villetta
+T149	PER 11237 11246	ufficiali
+T150	PER 11287 11294	tenenti
+T151	PER 11297 11321	capitani in grigio verde
+T152	VEH 11431 11445	transatlantico
+T153	PER 11451 11455	dame
+T154	PER 11465 11481	tutte bellissime
+T155	PER 11555 11615	voluminosi rullanti e beccheggianti maschi di guerra in foia
+T156	PER 11621 11641	colonnello Squilloni
+T157	FAC 11731 11753	bordello di Cervignano
+T158	GPE 11743 11753	Cervignano
+T159	PER 11781 11798	Signor colonnello
+T160	PER 11815 11826	Madama Rosa
+T161	GPE 11829 11836	Cormons
+T162	PER 11868 11882	caro Squilloni
+T163	PER 11903 11927	capitano inglese ubriaco
+T164	PER 11957 11965	colonnel
+T165	FAC 11988 12004	bordel de Verona
+T166	GPE 11998 12004	Verona
+T167	PER 12007 12016	Squilloni
+T168	PER 12034 12042	studente
+T169	PER 12045 12053	marinaio
+T170	FAC 12071 12079	bordello
+T171	PER 12165 12187	popoli e sessi alleati
+T172	FAC 12190 12203	Prima saletta
+T173	LOC 12235 12243	campagna
+T174	VEH 12295 12304	areoplani
+T175	FAC 12503 12514	laboratorio
+T176	PER 12696 12722	grosso tenente di fanteria
+T177	ORG 12714 12722	fanteria
+T178	PER 12794 12801	pastore
+T179	PER 12805 12846	donna scelta pecora fronzoluta mezzo nuda
+T180	PER 12934 12953	magrissima biondina
+T181	PER 12958 12963	tutti
+T182	PER 13109 13118	ufficiali
+T183	PER 13121 13126	Tutti
+T184	FAC 13153 13162	corridoio
+T185	FAC 13221 13239	camere chirurgiche
+T186	FAC 13304 13308	casa
+T187	PER 13402 13420	Instancabili donne
+T188	PER 13570 13578	biondino
+T189	PER 13623 13650	nostro colonnello Squilloni

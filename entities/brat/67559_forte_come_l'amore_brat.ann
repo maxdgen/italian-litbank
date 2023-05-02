@@ -1,0 +1,116 @@
+T0	PER 0 8	Clotilde
+T1	FAC 53 83	salotto terreno della villetta
+T2	FAC 75 83	villetta
+T3	PER 102 107	nonna
+T4	PER 136 148	suo fratello
+T5	PER 207 244	loro vicino , l ' avvocato Dardanelli
+T6	PER 354 361	Roberto
+T7	PER 543 548	nonna
+T8	PER 716 723	Roberto
+T9	PER 822 829	giovane
+T10	PER 1168 1176	avvocato
+T11	PER 1184 1189	nonna
+T12	PER 1419 1439	Questi poeti moderni
+T13	PER 1453 1458	Volta
+T14	PER 1485 1493	avvocato
+T15	PER 1506 1511	nonna
+T16	PER 1532 1539	Roberto
+T17	PER 1614 1621	ragazza
+T18	PER 1699 1706	Roberto
+T19	PER 1761 1769	vecchina
+T20	PER 1779 1792	cara Clotilde
+T21	PER 1871 1883	tuo fratello
+T22	PER 1941 1953	Quella gente
+T23	PER 2135 2161	qualcuno che li disconosce
+T24	PER 2201 2208	Roberto
+T25	PER 2267 2272	tutti
+T26	PER 2317 2343	sorella quella monellaccia
+T27	PER 2375 2383	Clotilde
+T28	PER 2450 2455	nonna
+T29	FAC 2531 2539	giardino
+T30	PER 2592 2600	avvocato
+T31	PER 2629 2641	signora Rita
+T32	PER 2657 2667	Dardanelli
+T33	PER 2908 2915	Roberto
+T34	PER 2923 2932	nonna mia
+T35	PER 2980 2985	nonna
+T36	PER 3061 3069	avvocato
+T37	PER 3086 3102	donna emancipata
+T38	PER 3222 3230	Clotilde
+T39	PER 3319 3327	avvocato
+T40	PER 3680 3685	nonna
+T41	PER 3729 3737	Clotilde
+T42	FAC 3790 3824	giardino verde , fiorito , odoroso
+T43	PER 3901 3906	nonna
+T44	PER 3981 3989	avvocato
+T45	PER 4439 4457	Signora medichessa
+T46	PER 4549 4554	nonna
+T47	PER 4614 4621	ragazza
+T48	PER 4744 4752	avvocato
+T49	PER 4889 4899	Dardanelli
+T50	PER 5032 5040	Clotilde
+T51	PER 5115 5125	medichessa
+T52	PER 5142 5150	avvocato
+T53	PER 5346 5351	nonna
+T54	PER 5379 5386	Roberto
+T55	PER 5403 5423	tutta la buona gente
+T56	PER 5627 5637	sua moglie
+T57	PER 5676 5686	mia moglie
+T58	PER 5695 5701	grulla
+T59	PER 5724 5734	Dardanelli
+T60	PER 5787 5792	nonna
+T61	PER 5799 5820	vecchina all ' antica
+T62	PER 5823 5830	Roberto
+T63	PER 5881 5886	donne
+T64	PER 5954 5970	molte medichesse
+T65	PER 5992 5998	medici
+T66	PER 6025 6040	ammalati maschi
+T67	PER 6072 6080	Clotilde
+T68	PER 6118 6128	Dardanelli
+T69	PER 6144 6151	persona
+T70	PER 6345 6350	donne
+T71	PER 6357 6364	bambini
+T72	PER 6458 6468	Dardanelli
+T73	PER 6516 6524	Clotilde
+T74	PER 6583 6591	avvocato
+T75	PER 6670 6680	Dardanelli
+T76	PER 7172 7179	ragazza
+T77	PER 7222 7228	saggio
+T78	PER 7263 7271	indovina
+T79	PER 7311 7319	Clotilde
+T80	FAC 7342 7352	sua camera
+T81	PER 7757 7765	Clotilde
+T82	PER 7817 7886	donna giovine vestita di velluto nero con un piccolo collare di trina
+T83	PER 8059 8068	fanciulla
+T84	PER 8182 8191	fanciulla
+T85	PER 8649 8657	Clotilde
+T86	LOC 9018 9026	campagna
+T87	PER 9407 9415	Clotilde
+T88	PER 9916 9922	uomini
+T89	PER 10488 10504	pochi gli eletti
+T90	PER 10512 10541	pochi quelli che vi ascendono
+T91	PER 10643 10651	Clotilde
+T92	PER 10674 10710	tutti i giovani studenti di medicina
+T93	PER 11127 11134	bambina
+T94	PER 11159 11166	monelli
+T95	PER 11214 11219	nonna
+T96	PER 11389 11402	bimba nervosa
+T97	PER 11521 11529	manovale
+T98	PER 11672 11682	fratellino
+T99	FAC 11759 11765	scuola
+T100	PER 11959 11986	Compagne scusate e protette
+T101	PER 12036 12083	qualche bambina poco intelligente e volonterosa
+T102	PER 12137 12142	nonna
+T103	PER 12168 12175	maestra
+T104	PER 12188 12204	bimbe più astute
+T105	FAC 12303 12307	casa
+T106	PER 12390 12410	bambina che piangeva
+T107	PER 12569 12585	qualche malatina
+T108	PER 12694 12699	nonna
+T109	PER 12768 12778	vecchietta
+T110	PER 12850 12859	suo padre
+T111	ORG 12871 12879	collegio
+T112	PER 13000 13018	maestre e compagne
+T113	FAC 13293 13328	certe camerette dell ' ultimo piano
+T114	PER 13364 13394	monaca pazza , pazza per amore
+T115	PER 13432 13440	educande

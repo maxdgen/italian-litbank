@@ -1,0 +1,170 @@
+T0	FAC 40 51	Politecnico
+T1	PER 58 75	studente trentino
+T2	GPE 224 232	Seraievo
+T3	PER 239 309	arciduca Francesco Ferdinando da Este , l ' erede al trono d ' Austria
+T4	GPE 302 309	Austria
+T5	PER 371 387	mio caro giovine
+T6	LOC 541 546	mondo
+T7	PER 640 666	quella povera arciduchessa
+T8	PER 708 718	suo marito
+T9	PER 725 758	quei poveri figliuoli , innocenti
+T10	PER 784 797	loro genitori
+T11	FAC 991 1008	giardini pubblici
+T12	FAC 1044 1052	giardini
+T13	PER 1068 1082	bimbi in festa
+T14	PER 1087 1112	figli dei due assassinati
+T15	PER 1097 1112	due assassinati
+T16	FAC 1161 1184	parco del loro castello
+T17	FAC 1176 1184	castello
+T18	GPE 1291 1297	Italia
+T19	ORG 1427 1445	Austria - Ungheria
+T20	PER 1456 1461	Slavi
+T21	PER 1846 1853	giovane
+T22	FAC 1909 1920	Politecnico
+T23	PER 1923 1972	uno dei più autorevoli professori — oggi deputato
+T24	PER 2026 2039	ben letterati
+T25	PER 2042 2051	ben poeti
+T26	PER 2352 2368	altro professore
+T27	PER 2570 2583	altro signore
+T28	PER 2718 2724	legali
+T29	ORG 2794 2823	governi a tipo ancora feudale
+T30	GPE 2913 2921	Germania
+T31	PER 2937 2943	Kaiser
+T32	PER 3002 3082	garbato signore , un onesto , pacifico viaggiatore di commercio per gli articoli
+T33	GPE 3093 3100	Germany
+T34	PER 3377 3408	geni dei vari popoli d ' Europa
+T35	PER 3386 3408	vari popoli d ' Europa
+T36	GPE 3402 3408	Europa
+T37	PER 3532 3535	Dio
+T38	PER 3553 3560	Diavolo
+T39	PER 3653 3674	mio bellicoso scolaro
+T40	PER 3707 3716	letterato
+T41	FAC 3738 3749	Politecnico
+T42	PER 3755 3764	letterati
+T43	PER 3774 3777	uno
+T44	ORG 3843 3851	Avanti !
+T45	PER 3854 3882	figlio cadetto del Vorwaerts
+T46	ORG 3873 3882	Vorwaerts
+T47	PER 3945 3973	nuovi carabinieri e pompieri
+T48	GPE 4247 4253	Italia
+T49	ORG 4315 4337	giornali dell ' ordine
+T50	ORG 4376 4400	repubbliche di Pinocchio
+T51	ORG 4580 4596	classi dirigenti
+T52	GPE 4626 4632	Milano
+T53	PER 4645 4651	prof .
+T54	PER 4652 4696	Benito Mussolini , direttore dell ' Avanti !
+T55	ORG 4688 4696	Avanti !
+T56	PER 4836 4877	eroici sanculotti della nuova rivoluzione
+T57	PER 4901 4917	signori borghesi
+T58	PER 5135 5153	amico Renato Serra
+T59	GPE 5163 5171	Bellaria
+T60	LOC 5183 5196	riva del mare
+T61	PER 5199 5211	Renato Serra
+T62	PER 5234 5239	amico
+T63	FAC 5465 5494	deserta biblioteca di Romagna
+T64	GPE 5487 5494	Romagna
+T65	PER 5685 5720	ragazzone riguardoso e quasi timido
+T66	PER 5852 5885	folgorante parlatore o dialettico
+T67	GPE 6150 6170	sua città di Romagna
+T68	PER 6199 6205	Renato
+T69	PER 6226 6232	popolo
+T70	PER 6264 6270	popolo
+T71	PER 6287 6305	bevitore d ' acqua
+T72	GPE 6333 6340	Romagna
+T73	PER 6346 6356	suo popolo
+T74	PER 6369 6375	popolo
+T75	PER 6405 6411	Renato
+T76	VEH 6463 6480	bicicletta lucida
+T77	GPE 6644 6651	Romagna
+T78	PER 6748 6758	ferrovieri
+T79	PER 6811 6820	Mussolini
+T80	PER 6830 6835	Serra
+T81	PER 6843 6892	romagnolo di schietto temperamento rivoluzionario
+T82	PER 6946 6963	qualcuno dei suoi
+T83	GPE 7055 7061	Italia
+T84	ORG 7066 7086	stato rivoluzionario
+T85	PER 7113 7118	molti
+T86	GPE 7122 7129	Romagna
+T87	PER 7132 7154	socialisti en amateurs
+T88	GPE 7287 7294	Romagna
+T89	ORG 7487 7491	on .
+T90	PER 7492 7500	Giolitti
+T91	ORG 7555 7560	Stato
+T92	GPE 7598 7604	Italia
+T93	ORG 7612 7617	Stato
+T94	PER 8144 8150	prof .
+T95	PER 8151 8160	Mussolini
+T96	PER 8166 8178	Renato Serra
+T97	PER 8241 8248	nessuno
+T98	LOC 8357 8361	mare
+T99	LOC 8433 8437	mare
+T100	LOC 8444 8449	mondo
+T101	LOC 8554 8559	mondo
+T102	PER 8565 8572	Vescovo
+T103	PER 8583 8589	devoti
+T104	GPE 8625 8641	tutta l ' Italia
+T105	PER 9195 9201	Kaiser
+T106	PER 9225 9242	figlio del Kaiser
+T107	PER 9236 9242	Kaiser
+T108	PER 9245 9250	Tisza
+T109	PER 9253 9271	Francesco Giuseppe
+T110	FAC 9277 9287	casa Krupp
+T111	PER 9282 9287	Krupp
+T112	PER 9293 9297	Papa
+T113	PER 9302 9332	fornitori di muletti e di buoi
+T114	GPE 9355 9360	Ilion
+T115	PER 9391 9398	Menelao
+T116	PER 9421 9426	Elena
+T117	GPE 9429 9435	Milano
+T118	PER 9529 9534	molte
+T119	GPE 9614 9620	Milano
+T120	PER 9714 9719	sig .
+T121	PER 9720 9750	H un vecchio barbuto germanico
+T122	GPE 9777 9785	Germania
+T123	PER 9799 9816	Cosacco a Berlino
+T124	GPE 9809 9816	Berlino
+T125	PER 9900 9917	Cosacco a Berlino
+T126	GPE 9910 9917	Berlino
+T127	PER 9926 9934	tedeschi
+T128	LOC 9948 9962	tutto il mondo
+T129	PER 9981 9986	Russi
+T130	GPE 9995 10002	Berlino
+T131	PER 10078 10085	Cosacco
+T132	GPE 10094 10101	Berlino
+T133	GPE 10142 10149	Francia
+T134	PER 10159 10168	meretrice
+T135	PER 10198 10205	Cosacco
+T136	GPE 10277 10285	Germania
+T137	PER 10315 10322	Cosacco
+T138	PER 10397 10405	signor H
+T139	ORG 10558 10577	Corriere della Sera
+T140	ORG 10650 10666	Governo italiano
+T141	ORG 10706 10792	Corriere , il giornale dei benpensanti , il sostenitore , fino a ieri , della Triplice
+T142	PER 10733 10744	benpensanti
+T143	ORG 10837 10843	Secolo
+T144	ORG 10850 10858	Avanti !
+T145	ORG 10912 10931	Corriere della Sera
+T146	ORG 11006 11010	on .
+T147	PER 11011 11016	Torre
+T148	PER 11046 11054	signor H
+T149	ORG 11126 11134	Avanti !
+T150	ORG 11135 11141	Secolo
+T151	ORG 11144 11152	Corriere
+T152	GPE 11319 11325	Italia
+T153	GPE 11341 11356	Italia neutrale
+T154	GPE 11359 11370	Inghilterra
+T155	GPE 11512 11523	Inghilterra
+T156	GPE 11636 11644	Germania
+T157	LOC 11663 11667	mare
+T158	PER 11792 11800	signor H
+T159	PER 11813 11821	signor H
+T160	PER 11876 11887	loro Kaiser
+T161	GPE 11920 11926	Serbia
+T162	PER 11949 11962	nostro Kaiser
+T163	PER 12002 12010	signor H
+T164	PER 12117 12125	signor H
+T165	LOC 12191 12195	mare
+T166	GPE 12279 12287	Mombello
+T167	PER 12303 12309	prof .
+T168	PER 12310 12318	Antonini
+T169	PER 12401 12411	signor mio

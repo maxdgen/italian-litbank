@@ -1,0 +1,226 @@
+T0	PER 27 39	Phileas Fogg
+T1	PER 42 52	Gambalesta
+T2	PER 85 88	uno
+T3	PER 94 101	padrone
+T4	PER 106 111	altro
+T5	PER 117 126	servitore
+T6	FAC 151 155	casa
+T7	LOC 167 212	numero 7 di Saville - row , Burlington Garden
+T8	FAC 217 221	casa
+T9	PER 234 242	Sheridan
+T10	PER 271 283	Phileas Fogg
+T11	PER 294 366	uno dei membri più singolari e più segnalati del Reform - Club di Londra
+T12	FAC 343 366	Reform - Club di Londra
+T13	GPE 360 366	Londra
+T14	PER 458 484	uno dei più grandi oratori
+T15	GPE 501 512	Inghilterra
+T16	FAC 535 546	quella casa
+T17	PER 547 592	codesto Phileas Fogg , personaggio enigmatico
+T18	PER 602 609	nessuno
+T19	PER 644 662	fior di galantuomo
+T20	PER 668 721	uno dei più bei gentlemen dell ' alta società inglese
+T21	ORG 701 721	alta società inglese
+T22	PER 755 760	Byron
+T23	PER 821 851	Byron con mustacchi e favoriti
+T24	PER 915 922	Inglese
+T25	PER 945 957	Phileas Fogg
+T26	PER 972 981	Londinese
+T27	FAC 1016 1021	Borsa
+T28	FAC 1030 1035	Banca
+T29	FAC 1044 1075	alcuno degli ufficii della City
+T30	GPE 1071 1075	City
+T31	LOC 1083 1089	bacini
+T32	GPE 1104 1110	Londra
+T33	VEH 1136 1173	nave avente per armatore Phileas Fogg
+T34	PER 1152 1173	armatore Phileas Fogg
+T35	PER 1176 1193	Codesto gentleman
+T36	ORG 1210 1244	alcun comitato d ' amministrazione
+T37	ORG 1287 1308	collegio d ' avvocati
+T38	PER 1300 1308	avvocati
+T39	FAC 1317 1323	tempio
+T40	FAC 1331 1346	Lincoln ' s inn
+T41	FAC 1354 1366	Gray ' s inn
+T42	FAC 1392 1413	Corte del Cancelliere
+T43	PER 1402 1413	Cancelliere
+T44	FAC 1422 1440	Banco della Regina
+T45	PER 1434 1440	Regina
+T46	FAC 1451 1461	Scacchiere
+T47	FAC 1470 1489	Corte ecclesiastica
+T48	PER 1500 1511	industriale
+T49	PER 1517 1527	negoziante
+T50	PER 1533 1541	mercante
+T51	PER 1547 1558	agricoltore
+T52	FAC 1588 1623	Istituto Reale della Gran Brettagna
+T53	GPE 1609 1623	Gran Brettagna
+T54	FAC 1636 1654	Istituto di Londra
+T55	GPE 1648 1654	Londra
+T56	FAC 1667 1691	Istituto degli Artigiani
+T57	PER 1682 1691	Artigiani
+T58	FAC 1704 1719	Istituto Russel
+T59	PER 1713 1719	Russel
+T60	FAC 1732 1764	Istituto letterario dell ' Ovest
+T61	LOC 1759 1764	Ovest
+T62	FAC 1777 1797	Istituto del Diritto
+T63	FAC 1806 1857	quell ' Istituto delle Arti e delle Scienze riunite
+T64	PER 1902 1921	Sua Graziosa Maestà
+T65	ORG 1951 1980	alcuna delle numerose società
+T66	GPE 2001 2028	capitale dell ' Inghilterra
+T67	ORG 2037 2060	Società dell ' Armonica
+T68	ORG 2071 2091	Società entomologica
+T69	PER 2164 2176	Phileas Fogg
+T70	FAC 2192 2205	Reform - Club
+T71	PER 2249 2258	gentleman
+T72	PER 2295 2334	membri di questa onorevole associazione
+T73	ORG 2305 2334	questa onorevole associazione
+T74	PER 2401 2424	signori Fratelli Baring
+T75	PER 2586 2595	creditore
+T76	PER 2638 2658	Codesto Phileas Fogg
+T77	PER 2749 2765	meglio informati
+T78	PER 2791 2802	signor Fogg
+T79	PER 2811 2817	ultimo
+T80	PER 2908 2913	avaro
+T81	PER 3100 3114	quel gentleman
+T82	PER 3361 3368	nessuno
+T83	LOC 3406 3411	mondo
+T84	LOC 3424 3436	luogo remoto
+T85	FAC 3593 3597	club
+T86	PER 3606 3636	viaggiatori perduti o smarriti
+T87	PER 3810 3814	uomo
+T88	PER 3921 3933	Phileas Fogg
+T89	GPE 3953 3959	Londra
+T90	PER 3965 3972	persone
+T91	PER 4041 4048	nessuno
+T92	FAC 4103 4124	quella strada diretta
+T93	FAC 4172 4180	casa sua
+T94	FAC 4184 4188	club
+T95	PER 4490 4501	signor Fogg
+T96	PER 4730 4737	Nessuno
+T97	PER 4755 4761	moglie
+T98	PER 4767 4772	figli
+T99	PER 4801 4818	più brave persone
+T100	PER 4826 4833	parenti
+T101	PER 4839 4844	amici
+T102	PER 4875 4887	Phileas Fogg
+T103	FAC 4906 4931	sua casa di Saville - row
+T104	LOC 4918 4931	Saville - row
+T105	PER 4939 4946	nessuno
+T106	PER 5003 5016	Un solo servo
+T107	FAC 5069 5073	club
+T108	FAC 5121 5134	medesima sala
+T109	PER 5180 5188	colleghi
+T110	PER 5212 5220	estraneo
+T111	FAC 5302 5329	quelle stanze ben addobbate
+T112	FAC 5337 5350	Reform - Club
+T113	PER 5376 5394	membri del Circolo
+T114	ORG 5387 5394	Circolo
+T115	FAC 5440 5453	suo domicilio
+T116	FAC 5587 5628	sala d ' accesso dal pavimento intarsiato
+T117	FAC 5639 5666	galleria circolare del club
+T118	FAC 5662 5666	club
+T119	FAC 5816 5822	cucine
+T120	FAC 5828 5836	dispensa
+T121	FAC 5842 5851	pescheria
+T122	FAC 5857 5874	latteria del club
+T123	FAC 5870 5874	club
+T124	PER 5942 5991	camerieri del club gravi personaggi in abito nero
+T125	FAC 5956 5960	club
+T126	GPE 6114 6122	Sassonia
+T127	FAC 6170 6174	club
+T128	FAC 6320 6324	club
+T129	LOC 6363 6380	laghi d ' America
+T130	GPE 6373 6380	America
+T131	FAC 6565 6586	casa di Saville - row
+T132	LOC 6573 6586	Saville - row
+T133	PER 6714 6727	suo abitatore
+T134	PER 6774 6786	Phileas Fogg
+T135	PER 6799 6814	suo unico servo
+T136	PER 6897 6909	Phileas Fogg
+T137	PER 6927 6940	James Forster
+T138	PER 6948 6965	codesto servitore
+T139	PER 6977 6986	colpevole
+T140	PER 7109 7123	suo successore
+T141	PER 7183 7195	Phileas Fogg
+T142	PER 7270 7289	soldato alla parata
+T143	PER 7543 7554	signor Fogg
+T144	FAC 7614 7618	casa
+T145	FAC 7632 7645	Reform - Club
+T146	FAC 7697 7704	salotto
+T147	PER 7724 7736	Phileas Fogg
+T148	PER 7739 7774	James Forster , il servo licenziato
+T149	PER 7792 7803	nuovo servo
+T150	PER 7825 7860	giovinotto di una trentina d ' anni
+T151	PER 7890 7898	francese
+T152	PER 7913 7917	John
+T153	PER 7931 7943	Phileas Fogg
+T154	PER 7948 7954	Gianni
+T155	PER 7974 7981	signore
+T156	PER 7995 8027	nuovo venuto , Gianni Gambalesta
+T157	PER 8132 8148	onesto figliuolo
+T158	PER 8151 8158	signore
+T159	PER 8228 8246	cantante ambulante
+T160	PER 8253 8265	cavallerizzo
+T161	ORG 8272 8277	circo
+T162	PER 8291 8298	Léotard
+T163	PER 8318 8325	Blondin
+T164	PER 8367 8391	professore di ginnastica
+T165	PER 8450 8471	sergente dei pompieri
+T166	PER 8463 8471	pompieri
+T167	GPE 8476 8482	Parigi
+T168	GPE 8592 8599	Francia
+T169	PER 8640 8648	famiglia
+T170	PER 8661 8670	cameriere
+T171	GPE 8674 8685	Inghilterra
+T172	PER 8729 8748	signor Phileas Fogg
+T173	PER 8755 8805	uomo più esatto e più sedentario del Regno - Unito
+T174	GPE 8792 8805	Regno - Unito
+T175	FAC 8823 8839	casa del signore
+T176	PER 8832 8839	signore
+T177	PER 8917 8927	Gambalesta
+T178	PER 8935 8945	Gambalesta
+T179	PER 8971 8980	gentleman
+T180	PER 9086 9093	signore
+T181	PER 9160 9170	Gambalesta
+T182	PER 9272 9285	signor Fogg .
+T183	PER 9306 9313	signore
+T184	PER 9566 9578	Phileas Fogg
+T185	PER 9723 9733	Gambalesta
+T186	FAC 9751 9757	strada
+T187	PER 9793 9810	suo nuovo padrone
+T188	PER 9856 9888	suo predecessore , James Forster
+T189	PER 9924 9934	Gambalesta
+T190	FAC 9953 9974	casa di Saville - row
+T191	LOC 9961 9974	Saville - row
+T192	PER 10001 10011	Gambalesta
+T193	PER 10094 10104	Gambalesta
+T194	PER 10166 10181	signora Tussaud
+T195	PER 10213 10230	mio nuovo padrone
+T196	PER 10298 10303	tutti
+T197	GPE 10323 10329	Londra
+T198	PER 10425 10437	Phileas Fogg
+T199	PER 10440 10450	Gambalesta
+T200	PER 10500 10518	suo futuro padrone
+T201	PER 10528 10594	uomo sulla quarantina , di faccia nobile e bella , alto di statura
+T202	PER 10838 10850	fisionomisti
+T203	PER 11024 11056	quegl ' Inglesi di sangue freddo
+T204	GPE 11093 11106	Regno - Unito
+T205	PER 11118 11136	Angelica Kauffmann
+T206	PER 11263 11277	quel gentleman
+T207	PER 11429 11441	Phileas Fogg
+T208	PER 11579 11583	uomo
+T209	PER 11669 11681	Phileas Fogg
+T210	PER 11689 11725	quegli uomini matematicamente esatti
+T211	PER 12031 12067	uomo meno frettoloso di questo mondo
+T212	LOC 12055 12067	questo mondo
+T213	PER 12227 12234	attriti
+T214	PER 12251 12258	attriti
+T215	PER 12315 12368	Gianni , detto Gambalesta , — vero parigino di Parigi
+T216	GPE 12362 12368	Parigi
+T217	GPE 12402 12413	Inghilterra
+T218	GPE 12428 12434	Londra
+T219	PER 12450 12459	cameriere
+T220	PER 12487 12494	padrone
+T221	PER 12516 12526	Gambalesta
+T222	PER 12700 12719	impudenti cialtroni
+T223	PER 12727 12737	Gambalesta
+T224	PER 12745 12758	bravo giovine
+T225	PER 12969 12974	amico

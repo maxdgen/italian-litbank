@@ -1,0 +1,209 @@
+T0	PER 36 40	eroe
+T1	PER 43 61	Lettori umanissimi
+T2	GPE 229 233	Roma
+T3	PER 259 375	protagonista del mio racconto , il chiarissimo Tizio Caio Sempronio , cittadino romano , dell ' ordine dei cavalieri
+T4	ORG 355 375	ordine dei cavalieri
+T5	PER 415 432	cavalieri moderni
+T6	GPE 462 466	Roma
+T7	PER 469 478	cavalieri
+T8	ORG 492 503	ordine solo
+T9	PER 547 553	popolo
+T10	PER 565 571	Romolo
+T11	PER 655 663	patrizio
+T12	PER 670 678	equestre
+T13	PER 684 690	plebeo
+T14	PER 693 710	tutta brava gente
+T15	LOC 811 836	tutto il mondo conosciuto
+T16	PER 881 888	storici
+T17	PER 916 927	quel popolo
+T18	PER 1106 1177	consoli Servio Sulpicio Rufo e Marco Claudio Marcello , egregie persone
+T19	PER 1114 1134	Servio Sulpicio Rufo
+T20	PER 1137 1159	Marco Claudio Marcello
+T21	PER 1297 1317	Tizio Caio Sempronio
+T22	PER 1325 1341	gentil cavaliere
+T23	PER 1375 1397	dio di fabbrica ellèna
+T24	PER 1414 1423	sua madre
+T25	PER 1506 1511	Scopa
+T26	PER 1677 1683	Apollo
+T27	LOC 1719 1727	via Lata
+T28	LOC 1739 1747	Flaminia
+T29	PER 1928 1935	matrone
+T30	PER 1976 1982	uomini
+T31	PER 2106 2112	uomini
+T32	PER 2291 2297	uomini
+T33	PER 2444 2464	Tizio Caio Sempronio
+T34	PER 2472 2491	leggiadro cavaliere
+T35	LOC 2548 2561	grossi poderi
+T36	GPE 2564 2570	Tivoli
+T37	GPE 2580 2592	agro Reatino
+T38	PER 2612 2625	suoi maggiori
+T39	PER 2646 2662	nostro cavaliere
+T40	PER 2763 2775	quella gente
+T41	PER 2778 2798	Tizio Caio Sempronio
+T42	PER 2897 2902	tutti
+T43	PER 2935 2940	amico
+T44	PER 2943 2959	Uomini di vaglia
+T45	PER 2964 2983	giovani promettenti
+T46	PER 2991 2997	Cesare
+T47	PER 3000 3008	Catilina
+T48	PER 3044 3069	quel caro matto di Clodio
+T49	PER 3122 3137	altro salvatore
+T50	GPE 3140 3144	Roma
+T51	PER 3150 3162	grand ' uomo
+T52	PER 3250 3270	Tizio Caio Sempronio
+T53	FAC 3334 3339	terme
+T54	FAC 3363 3369	teatro
+T55	PER 3408 3428	nostro bel cavaliere
+T56	ORG 3438 3448	Repubblica
+T57	PER 3482 3488	vecchi
+T58	PER 3608 3620	conservatore
+T59	FAC 3764 3778	suoi latifondi
+T60	FAC 3886 3913	dimora del gentil cavaliere
+T61	PER 3897 3913	gentil cavaliere
+T62	LOC 3933 3941	Viminale
+T63	FAC 3950 3977	bell ' edifizio a due piani
+T64	PER 4023 4035	senator Rosa
+T65	FAC 4088 4099	questa casa
+T66	FAC 4106 4125	Bagni d ' Agrippina
+T67	FAC 4131 4149	Terme di Olimpiade
+T68	PER 4173 4190	possessore antico
+T69	PER 4291 4307	dotto archeologo
+T70	FAC 4378 4412	abitazione di Tizio Caio Sempronio
+T71	PER 4392 4412	Tizio Caio Sempronio
+T72	FAC 4429 4477	edificio diviso in due scompartimenti principali
+T73	FAC 4484 4504	atrium , o cavaedium
+T74	FAC 4556 4567	peristilium
+T75	FAC 4598 4601	uno
+T76	FAC 4608 4613	altro
+T77	FAC 4629 4660	stanza intermedia , il tablinum
+T78	FAC 4668 4680	due corridoi
+T79	FAC 4905 4949	prothyrum , o vestibolo , androne di entrata
+T80	FAC 4966 4972	strada
+T81	PER 5126 5141	padrone di casa
+T82	FAC 5137 5141	casa
+T83	FAC 5155 5164	vestibolo
+T84	FAC 5184 5189	atrio
+T85	FAC 5514 5529	chiostro aperto
+T86	FAC 5598 5619	chiostro di monastero
+T87	FAC 5610 5619	monastero
+T88	FAC 5632 5645	quest ' atrio
+T89	FAC 5812 5859	atrio toscano , il più semplice e il più antico
+T90	GPE 5873 5877	Roma
+T91	PER 5899 5907	Etruschi
+T92	FAC 5990 6005	stanze laterali
+T93	FAC 6188 6210	questa forma d ' atrio
+T94	FAC 6264 6280	atrio tetràstilo
+T95	FAC 6409 6423	atrio corinzio
+T96	PER 6590 6597	matrona
+T97	FAC 6611 6615	casa
+T98	FAC 6753 6778	atrio della terza maniera
+T99	FAC 6803 6817	logge laterali
+T100	FAC 6839 6845	camere
+T101	PER 6894 6902	maggiori
+T102	FAC 7021 7030	vestibolo
+T103	FAC 7058 7063	atrio
+T104	FAC 7071 7123	tablino , archivio ad un tempo e sala di ricevimento
+T105	PER 7211 7219	famiglia
+T106	PER 7248 7258	visitatori
+T107	FAC 7261 7274	Questa camera
+T108	FAC 7465 7470	atrio
+T109	FAC 7474 7484	peristilio
+T110	FAC 7520 7524	casa
+T111	PER 7557 7564	persona
+T112	FAC 7579 7588	vestibolo
+T113	FAC 7681 7689	edifizio
+T114	FAC 7692 7697	atrio
+T115	FAC 7700 7710	peristilio
+T116	FAC 7713 7721	giardino
+T117	FAC 7747 7752	atrio
+T118	PER 7843 7851	antenati
+T119	PER 7939 7947	dei Lari
+T120	PER 8002 8009	estinti
+T121	PER 8041 8047	Romani
+T122	FAC 8059 8080	ufficio di protettori
+T123	PER 8070 8080	protettori
+T124	FAC 8104 8108	casa
+T125	PER 8150 8169	giovinetti succinti
+T126	PER 8507 8544	dei Penati , o patroni della famiglia
+T127	PER 8567 8572	Giove
+T128	PER 8575 8582	Giunone
+T129	PER 8585 8592	Minerva
+T130	PER 8595 8601	Apollo
+T131	PER 8604 8611	Nettuno
+T132	PER 8642 8665	abitatori dell ' Olimpo
+T133	LOC 8659 8665	Olimpo
+T134	PER 8708 8712	Lari
+T135	PER 8715 8721	Penati
+T136	FAC 8737 8747	peristilio
+T137	FAC 8781 8785	casa
+T138	FAC 8815 8829	atrio corinzio
+T139	FAC 8875 8883	corridoi
+T140	FAC 8887 8893	camere
+T141	PER 8908 8916	famiglia
+T142	FAC 8931 8938	cortile
+T143	FAC 8958 8966	giardino
+T144	PER 9006 9013	matrona
+T145	PER 9084 9091	massaia
+T146	PER 9148 9155	massaie
+T147	PER 9158 9178	Tizio Caio Sempronio
+T148	PER 9181 9188	scapolo
+T149	PER 9233 9236	Dei
+T150	GPE 9268 9291	tutta la Roma coniugale
+T151	PER 9324 9336	spose Sabine
+T152	FAC 9358 9366	giardino
+T153	PER 9414 9443	servi di Tizio Caio Sempronio
+T154	PER 9423 9443	Tizio Caio Sempronio
+T155	PER 9477 9483	ospiti
+T156	FAC 9512 9544	triclinio , vasta sala da pranzo
+T157	FAC 9603 9609	cucina
+T158	FAC 9654 9658	casa
+T159	FAC 9681 9695	piano di sopra
+T160	FAC 9708 9722	piccole camere
+T161	PER 9857 9864	Varrone
+T162	FAC 9904 9930	camere del piano superiore
+T163	FAC 9915 9930	piano superiore
+T164	PER 9947 9964	servi e i ragazzi
+T165	FAC 9978 10016	camere a tetto di tante case signorili
+T166	FAC 9996 10016	tante case signorili
+T167	FAC 10039 10043	casa
+T168	PER 10048 10078	mio amico Tizio Caio Sempronio
+T169	PER 10503 10513	Vittor Ugo
+T170	PER 10555 10579	molti impenitenti pagani
+T171	FAC 10603 10607	casa
+T172	PER 10620 10628	famiglia
+T173	FAC 10695 10702	osteria
+T174	PER 10741 10759	allegri commensali
+T175	PER 10773 10793	Tizio Caio Sempronio
+T176	GPE 10810 10815	città
+T177	PER 10833 10854	Lucio Licinio Lucullo
+T178	PER 10887 10896	convitati
+T179	PER 10954 10963	suo cuoco
+T180	PER 10986 11027	più belle e colte fanciulle dell ' Attica
+T181	GPE 11021 11027	Attica
+T182	LOC 11038 11054	rive della Jonia
+T183	PER 11196 11206	professori
+T184	PER 11212 11241	moglie d ' un grecista famoso
+T185	PER 11226 11241	grecista famoso
+T186	PER 11298 11318	quel degnissimo uomo
+T187	PER 11353 11371	due oneste persone
+T188	FAC 11480 11489	triclinio
+T189	PER 11542 11548	Venere
+T190	PER 11573 11585	donne romane
+T191	FAC 11606 11612	templi
+T192	FAC 11621 11638	sacrari domestici
+T193	PER 11699 11705	Ovidio
+T194	PER 11723 11742	dea madre d ' Amore
+T195	LOC 11791 11799	spiaggia
+T196	PER 11884 11900	stuolo di Satiri
+T197	PER 12035 12043	Afrodite
+T198	LOC 12137 12141	riva
+T199	PER 12261 12280	fanciulle da marito
+T200	PER 12274 12280	marito
+T201	FAC 12304 12331	tempio della Fortuna virile
+T202	PER 12317 12331	Fortuna virile
+T203	PER 12509 12512	Dea
+T204	PER 12563 12569	uomini
+T205	PER 12758 12764	marito
+T206	PER 12770 12784	Fortuna virile
+T207	PER 12809 12829	Tizio Caio Sempronio
+T208	PER 12949 12967	Venere Verticordia

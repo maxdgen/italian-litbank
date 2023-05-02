@@ -1,0 +1,119 @@
+T0	GPE 40 50	Valdigorgo
+T1	GPE 118 127	Molinella
+T2	FAC 135 158	casa dell ' amico Moser
+T3	PER 147 158	amico Moser
+T4	LOC 166 173	Prealpi
+T5	PER 301 315	gente di cuore
+T6	PER 540 553	Claudio Moser
+T7	PER 590 610	Eugenia , sua moglie
+T8	PER 676 685	mia madre
+T9	PER 691 699	figliole
+T10	PER 702 710	Marcella
+T11	PER 713 721	Ortensia
+T12	PER 743 770	piccolo Mino , instancabile
+T13	PER 1035 1040	altri
+T14	PER 1100 1114	famiglia Moser
+T15	PER 1139 1146	Claudio
+T16	PER 1209 1215	moglie
+T17	PER 1289 1297	Marcella
+T18	PER 1303 1330	brava massaia diciannovenne
+T19	FAC 1363 1367	casa
+T20	PER 1370 1378	Ortensia
+T21	PER 1394 1399	madre
+T22	PER 1407 1416	fanciullo
+T23	PER 1552 1559	padrone
+T24	PER 1580 1585	Moser
+T25	FAC 1763 1771	cancello
+T26	FAC 1791 1799	giardino
+T27	FAC 2005 2019	recenti aiuole
+T28	PER 2227 2234	inferma
+T29	PER 2686 2694	laureato
+T30	PER 2708 2737	Marcella di cinque o sei anni
+T31	PER 2740 2758	Ortensia piccolina
+T32	PER 2791 2803	fanciulletta
+T33	PER 2879 2886	Eugenia
+T34	PER 3007 3026	quel fiore di donna
+T35	PER 3055 3060	amico
+T36	FAC 3084 3094	mia camera
+T37	PER 3208 3221	buona signora
+T38	PER 3325 3332	Claudio
+T39	PER 3335 3342	Eugenia
+T40	PER 3690 3698	Marcella
+T41	LOC 3708 3711	via
+T42	PER 3759 3766	Eugenia
+T43	PER 3825 3830	Moser
+T44	PER 3999 4006	Claudio
+T45	PER 4048 4055	Eugenia
+T46	PER 4176 4183	Eugenia
+T47	PER 4420 4428	Marcella
+T48	PER 4480 4488	Ortensia
+T49	PER 4529 4534	madre
+T50	PER 4757 4765	Ortensia
+T51	FAC 4779 4785	stanza
+T52	PER 4871 4878	Eugenia
+T53	PER 4884 4899	vostre figliole
+T54	PER 4905 4910	madre
+T55	PER 4939 4944	buone
+T56	PER 4985 4990	madre
+T57	PER 5112 5120	Ortensia
+T58	FAC 5232 5243	mio rifugio
+T59	PER 5286 5291	Moser
+T60	PER 5321 5330	signorine
+T61	PER 5342 5349	bambine
+T62	PER 5365 5370	padre
+T63	PER 5480 5485	mamma
+T64	PER 5508 5514	Sivori
+T65	PER 5584 5592	Ortensia
+T66	PER 5729 5760	mia piccola amica d ' una volta
+T67	PER 6465 6471	Sivori
+T68	GPE 6624 6629	città
+T69	FAC 6659 6665	scuola
+T70	FAC 6672 6678	scuola
+T71	PER 6819 6840	maestra di matematica
+T72	GPE 6874 6880	Milano
+T73	PER 7087 7106	maestra , poveretta
+T74	PER 7233 7267	maestra di francese , madame Duret
+T75	PER 7281 7293	madame Duret
+T76	PER 7361 7382	uomo vestito da donna
+T77	PER 7377 7382	donna
+T78	PER 7626 7644	Madame Vous - vous
+T79	PER 7683 7701	Madame Vous - vous
+T80	PER 7734 7746	mademoiselle
+T81	PER 7766 7772	madame
+T82	PER 8040 8047	nessuno
+T83	PER 8064 8071	nessuno
+T84	FAC 8076 8082	teatro
+T85	PER 8235 8264	chiacchierina agile e fervida
+T86	PER 8693 8703	ragazzetta
+T87	PER 9466 9471	altri
+T88	PER 9566 9591	frati del vicino convento
+T89	FAC 9576 9591	vicino convento
+T90	FAC 9801 9809	paradiso
+T91	PER 10011 10021	miei amici
+T92	PER 10024 10041	ragazzi e ragazze
+T93	PER 10209 10216	nessuno
+T94	PER 10222 10231	signorine
+T95	PER 10232 10246	Marcella Moser
+T96	PER 10249 10259	Anna Melvi
+T97	PER 10335 10348	Guido Learchi
+T98	PER 10355 10375	studente di medicina
+T99	PER 10424 10433	direttore
+T100	PER 10525 10539	Ortensia Moser
+T101	PER 10542 10559	Pieruccio Fulgosi
+T102	FAC 10620 10625	siepe
+T103	PER 10700 10709	Pieruccio
+T104	PER 10724 10729	tutti
+T105	PER 10764 10772	Ortensia
+T106	PER 10794 10799	Guido
+T107	PER 10900 10906	uomini
+T108	PER 10956 10964	Ortensia
+T109	PER 10969 10976	Learchi
+T110	PER 11047 11056	Pieruccio
+T111	PER 11299 11308	Pieruccio
+T112	PER 11362 11369	signori
+T113	PER 11524 11532	Marcella
+T114	PER 11942 11955	tre signorine
+T115	PER 12036 12041	Guido
+T116	PER 12119 12128	Pieruccio
+T117	PER 12625 12633	Ortensia
+T118	PER 12669 12677	Ortensia

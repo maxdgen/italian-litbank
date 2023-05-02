@@ -1,0 +1,166 @@
+T0	PER 14 79	capitano di vascello Ruggero Carleoni , comandante della Siracusa
+T1	VEH 26 34	vascello
+T2	VEH 71 79	Siracusa
+T3	FAC 113 142	sala del Consiglio della nave
+T4	ORG 122 142	Consiglio della nave
+T5	VEH 138 142	nave
+T6	PER 166 187	ministro della Marina
+T7	ORG 181 187	Marina
+T8	PER 378 421	Catenuti , il sott ' ufficiale - segretario
+T9	PER 444 465	comandante in seconda
+T10	PER 538 561	parte dell ' equipaggio
+T11	PER 692 715	caporale - portalettere
+T12	PER 757 771	alcuni marinai
+T13	FAC 778 795	ponte di batteria
+T14	PER 845 854	loro cari
+T15	PER 857 879	Barbarini , il secondo
+T16	PER 900 915	capitano medico
+T17	FAC 920 925	poppa
+T18	PER 984 994	comandante
+T19	PER 1031 1051	Comandante Barbarini
+T20	PER 1067 1075	Carleoni
+T21	PER 1202 1219	signor comandante
+T22	PER 1500 1521	direttore di macchina
+T23	PER 1607 1618	molta gente
+T24	PER 1632 1654	Una ventina d ' uomini
+T25	PER 1684 1700	Nessun ufficiale
+T26	PER 1706 1723	Due guardiamarina
+T27	PER 1729 1753	sottotenente di vascello
+T28	VEH 1745 1753	vascello
+T29	PER 1773 1783	Suo figlio
+T30	PER 1786 1794	Carleoni
+T31	PER 2029 2041	quel ragazzo
+T32	PER 2228 2249	tutti i suoi compagni
+T33	PER 2289 2299	comandante
+T34	PER 2384 2392	Carleoni
+T35	PER 2485 2499	tutta la gente
+T36	PER 2519 2534	capitano medico
+T37	PER 2538 2560	quei due infermi gravi
+T38	ORG 2591 2596	mense
+T39	PER 2747 2754	secondo
+T40	VEH 2924 2932	macchina
+T41	GPE 2972 2979	Marocco
+T42	PER 2994 3028	feccia della popolazione tangerina
+T43	PER 3093 3100	Europei
+T44	ORG 3106 3124	Consolato italiano
+T45	PER 3290 3308	ufficiale di rotta
+T46	PER 3314 3325	commissario
+T47	VEH 3375 3383	macchina
+T48	PER 3500 3510	equipaggio
+T49	PER 3561 3581	ufficiale di guardia
+T50	FAC 3590 3597	plancia
+T51	PER 3623 3645	personale di timoneria
+T52	PER 3689 3704	capo cannoniere
+T53	LOC 3751 3755	riva
+T54	LOC 3925 3932	colline
+T55	PER 3990 3998	fochista
+T56	PER 4023 4053	gruppo di marinai confabulanti
+T57	PER 4107 4116	ufficiale
+T58	PER 4124 4132	voialtri
+T59	VEH 4247 4266	torpediniera nemica
+T60	PER 4292 4294	Re
+T61	PER 4561 4580	tenenti di vascello
+T62	VEH 4572 4580	vascello
+T63	PER 4607 4629	uno di essi , De Ricci
+T64	PER 4672 4726	piantone , un Tarantino famoso per la sua stupidaggine
+T65	PER 4767 4775	principe
+T66	FAC 4802 4820	sala del Consiglio
+T67	ORG 4811 4820	Consiglio
+T68	PER 4850 4869	commissario Barresi
+T69	PER 4874 4905	Mietti , l ' ufficiale di rotta
+T70	PER 4935 4939	capo
+T71	PER 5020 5028	Carleoni
+T72	PER 5051 5061	segretario
+T73	PER 5151 5158	Barresi
+T74	PER 5242 5252	comandante
+T75	FAC 5395 5411	Banca d ' Italia
+T76	GPE 5405 5411	Italia
+T77	PER 5484 5493	ufficiale
+T78	LOC 5515 5531	coste marocchine
+T79	PER 5559 5568	portolani
+T80	FAC 5602 5609	coperta
+T81	PER 5642 5659	gruppi di marinai
+T82	PER 5750 5760	cannonieri
+T83	PER 5788 5800	altri uomini
+T84	VEH 5858 5862	nave
+T85	LOC 6093 6109	mare di libeccio
+T86	PER 6204 6213	Barbarini
+T87	PER 6217 6229	primo medico
+T88	PER 6278 6288	comandante
+T89	PER 6312 6324	due ammalati
+T90	PER 6330 6357	Uno soltanto , il timoniere
+T91	PER 6364 6369	altro
+T92	PER 6393 6420	infermo , pallido , esangue
+T93	PER 6458 6485	primi gruppi degli sbarcati
+T94	PER 6537 6554	due guardiamarina
+T95	VEH 6561 6574	barca da nolo
+T96	PER 6584 6613	altro fattorino del telegrafo
+T97	ORG 6645 6667	ministero degli Esteri
+T98	PER 6670 6679	Barbarini
+T99	PER 6705 6715	comandante
+T100	PER 6733 6746	suo figliuolo
+T101	PER 6822 6863	sottotenente di vascello Marco Roccaforte
+T102	VEH 6838 6846	vascello
+T103	PER 6890 6904	Luigi Carleoni
+T104	PER 6965 6975	comandante
+T105	PER 7008 7015	giovane
+T106	PER 7149 7159	attendente
+T107	PER 7219 7229	Roccaforte
+T108	PER 7280 7289	amico suo
+T109	PER 7455 7465	suoi amici
+T110	PER 7468 7476	camerati
+T111	PER 7508 7518	confessore
+T112	PER 7521 7528	nessuno
+T113	PER 7563 7568	Luigi
+T114	PER 7639 7651	indifferente
+T115	PER 7739 7748	fanciullo
+T116	PER 7759 7764	pazzo
+T117	PER 7781 7786	Luigi
+T118	PER 7963 7974	donna amata
+T119	PER 8126 8133	giovane
+T120	PER 8156 8164	compagno
+T121	PER 8171 8188	fratello d ' armi
+T122	PER 8372 8377	altri
+T123	PER 8381 8391	prediletta
+T124	FAC 8530 8538	paradiso
+T125	FAC 8661 8668	inferno
+T126	PER 9174 9184	Roccaforte
+T127	PER 9199 9211	quella donna
+T128	PER 9250 9260	spasimante
+T129	PER 9627 9633	marito
+T130	PER 9650 9655	figli
+T131	PER 9851 9860	adoratore
+T132	PER 9905 9910	Luigi
+T133	PER 10271 10276	donna
+T134	PER 10386 10396	ogni donna
+T135	PER 10489 10499	innamorato
+T136	PER 10891 10901	Roccaforte
+T137	PER 10956 10961	amico
+T138	PER 11068 11080	quella donna
+T139	PER 11426 11435	due amici
+T140	FAC 11465 11490	piccolo alloggio in città
+T141	GPE 11485 11490	città
+T142	FAC 11517 11530	due camerette
+T143	PER 11582 11595	qualche amico
+T144	PER 11706 11716	Roccaforte
+T145	PER 11734 11762	Lisi , il proprio attendente
+T146	PER 11840 11849	portinaio
+T147	FAC 11870 11886	ponte di coperta
+T148	FAC 11893 11911	quello di batteria
+T149	PER 11930 11953	attendente del compagno
+T150	PER 11945 11953	compagno
+T151	PER 12005 12026	comandante in seconda
+T152	PER 12053 12061	marinaio
+T153	PER 12140 12148	Tringale
+T154	FAC 12185 12189	casa
+T155	PER 12209 12220	tuo padrone
+T156	PER 12303 12307	Lisi
+T157	PER 12459 12475	signora contessa
+T158	VEH 12593 12611	barca col marinaio
+T159	PER 12603 12611	marinaio
+T160	PER 12665 12676	commissario
+T161	PER 12710 12720	Roccaforte
+T162	PER 12862 12870	compagno
+T163	PER 12937 12942	Luigi
+T164	PER 13246 13251	amico
+T165	PER 13741 13753	Quel ragazzo

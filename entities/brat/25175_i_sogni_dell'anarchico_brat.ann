@@ -1,0 +1,132 @@
+T0	FAC 17 24	salotto
+T1	PER 246 256	due uomini
+T2	PER 263 266	uno
+T3	PER 349 365	tutta la persona
+T4	PER 372 377	altro
+T5	PER 463 478	Quei due uomini
+T6	PER 589 633	uomo di mezza età , alto , slanciato , magro
+T7	PER 977 990	collezionisti
+T8	FAC 1278 1284	camera
+T9	PER 1340 1358	certe figure umane
+T10	PER 1565 1590	qualche ricamatore cinese
+T11	FAC 1616 1632	camera singolare
+T12	GPE 1665 1681	regno della coda
+T13	PER 1688 1693	altro
+T14	PER 2261 2271	due uomini
+T15	PER 2322 2355	uomo dalla veste da camera cinese
+T16	FAC 2342 2348	camera
+T17	PER 2547 2551	uomo
+T18	PER 2699 2704	tutti
+T19	PER 2711 2716	altro
+T20	PER 3560 3565	altro
+T21	PER 3678 3683	Pazzo
+T22	PER 3690 3694	uomo
+T23	PER 3746 3768	uomo dagli occhi grigi
+T24	PER 3799 3804	altro
+T25	PER 3890 3895	frate
+T26	PER 3902 3907	altro
+T27	PER 3991 3995	ateo
+T28	PER 4003 4016	anticlericale
+T29	PER 4024 4034	libertario
+T30	PER 4067 4122	tutti coloro i quali metterebbero in ceppi il mio corpo
+T31	PER 4200 4218	Schiavo di nessuno
+T32	PER 4211 4218	nessuno
+T33	PER 4423 4428	altro
+T34	PER 4546 4554	ciarloni
+T35	PER 4566 4582	gente che lavori
+T36	PER 4621 4632	più giovane
+T37	PER 4719 4724	altro
+T38	PER 4882 4887	altro
+T39	PER 5132 5154	uomo dagli occhi grigi
+T40	PER 5167 5172	altro
+T41	PER 5441 5464	uomo dalla veste cinese
+T42	PER 5483 5488	altro
+T43	PER 5505 5512	persona
+T44	PER 5611 5615	vile
+T45	PER 5701 5713	ogni tiranno
+T46	ORG 5719 5726	governo
+T47	ORG 5732 5738	chiesa
+T48	ORG 5745 5757	aristocrazia
+T49	PER 5762 5768	ricchi
+T50	PER 5780 5815	tutti i papi del partito socialista
+T51	ORG 5797 5815	partito socialista
+T52	PER 5822 5826	vile
+T53	PER 5949 5954	altro
+T54	PER 6080 6085	altro
+T55	PER 6135 6139	vile
+T56	PER 6264 6269	altro
+T57	FAC 6503 6509	chiesa
+T58	PER 6540 6559	folla che passeggia
+T59	PER 6572 6577	folla
+T60	FAC 6596 6602	chiesa
+T61	PER 6648 6656	trattore
+T62	FAC 6694 6703	gabinetto
+T63	PER 6796 6813	altro imbarazzato
+T64	PER 6819 6830	più anziano
+T65	PER 6950 6961	mia sorella
+T66	PER 6968 6978	suoi figli
+T67	PER 7336 7340	Vile
+T68	PER 7437 7442	altro
+T69	PER 7704 7712	famiglia
+T70	LOC 7806 7811	mondo
+T71	PER 8054 8074	fanciullo di Nazaret
+T72	GPE 8067 8074	Nazaret
+T73	PER 8142 8149	giovane
+T74	PER 8197 8201	Vile
+T75	PER 8237 8245	famiglia
+T76	PER 8262 8267	altro
+T77	FAC 8476 8483	armadio
+T78	PER 8626 8633	giovane
+T79	PER 8758 8766	fanatico
+T80	PER 8793 8819	indifferente , l ' apatico
+T81	PER 8880 8885	altro
+T82	PER 8891 8898	giovane
+T83	PER 8936 8941	amico
+T84	PER 9047 9051	vile
+T85	PER 9828 9871	quell ' uomo , il cui sguardo era sì freddo
+T86	FAC 10043 10049	stanza
+T87	FAC 10058 10062	casa
+T88	LOC 10077 10087	via fredda
+T89	PER 10164 10168	Vile
+T90	PER 10179 10194	Giovanni Giunti
+T91	PER 10206 10211	amico
+T92	PER 10241 10279	tutti questi uomini dalle mezze misure
+T93	PER 10598 10632	molti , molti , anche indifferenti
+T94	PER 10641 10652	miscredenti
+T95	PER 10658 10666	famiglie
+T96	FAC 10779 10785	chiesa
+T97	PER 10837 10845	famiglia
+T98	FAC 10931 10940	fabbriche
+T99	PER 10959 10964	gente
+T100	LOC 10979 10982	vie
+T101	PER 11106 11111	Molti
+T102	PER 11146 11152	Cristo
+T103	PER 11302 11312	forestiero
+T104	GPE 11353 11358	città
+T105	PER 11441 11454	questo popolo
+T106	PER 11466 11471	tutti
+T107	PER 11576 11585	quel Gesù
+T108	PER 11708 11723	fanciullo ebreo
+T109	PER 11734 11739	ebreo
+T110	PER 11964 11970	popolo
+T111	ORG 12022 12030	anarchia
+T112	ORG 12237 12279	autoritarismo ieratico , civile e militare
+T113	ORG 12370 12376	Chiesa
+T114	ORG 12463 12470	società
+T115	PER 12485 12491	popolo
+T116	PER 12538 12546	autorità
+T117	PER 12597 12602	molti
+T118	PER 12841 12852	vendicatore
+T119	PER 12989 13005	grande pensatore
+T120	PER 13033 13049	ragazzo credente
+T121	PER 13055 13084	socio di un circolo cattolico
+T122	ORG 13067 13084	circolo cattolico
+T123	ORG 13091 13099	anarchia
+T124	ORG 13149 13162	cristianesimo
+T125	FAC 13170 13176	scuola
+T126	ORG 13233 13245	cattolicismo
+T127	ORG 13261 13279	tutte le religioni
+T128	PER 13332 13339	umanità
+T129	ORG 13404 13410	Chiesa
+T130	GPE 13434 13441	nazioni
+T131	LOC 13548 13553	mondo

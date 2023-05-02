@@ -1,0 +1,115 @@
+T0	PER 21 29	Quintino
+T1	PER 108 120	pover ' uomo
+T2	FAC 425 429	casa
+T3	FAC 436 441	mensa
+T4	PER 448 453	donna
+T5	PER 553 565	quella donna
+T6	PER 574 585	disgraziato
+T7	PER 700 716	pitocco seminudo
+T8	PER 831 839	Quintino
+T9	PER 866 903	ministro delle finanze Quintino Sella
+T10	ORG 881 888	finanze
+T11	PER 953 973	burlone ben pasciuto
+T12	PER 1013 1027	oscuro martire
+T13	PER 1082 1091	sua mamma
+T14	PER 1100 1110	povera pia
+T15	PER 1189 1197	Quintino
+T16	PER 1453 1481	altro ministro delle finanze
+T17	ORG 1474 1481	finanze
+T18	PER 1487 1502	Marco Minghetti
+T19	LOC 1546 1551	mondo
+T20	PER 1597 1605	Quintino
+T21	PER 1983 1990	soldati
+T22	PER 2001 2016	quel fantaccino
+T23	PER 2071 2073	un
+T24	PER 2078 2083	altro
+T25	PER 2206 2210	uomo
+T26	PER 2213 2221	Quintino
+T27	PER 2363 2367	uomo
+T28	PER 2413 2421	Quintino
+T29	PER 2464 2475	tutti e due
+T30	PER 2558 2570	due affamati
+T31	FAC 2627 2633	strada
+T32	PER 2642 2688	quell ' uomo vestito di rosso , magro ed agile
+T33	PER 2952 2960	Quintino
+T34	PER 2987 3017	bandito perduto in una macchia
+T35	PER 3328 3331	uno
+T36	PER 3460 3486	quelle due strane creature
+T37	GPE 3707 3712	città
+T38	FAC 3717 3723	borghi
+T39	GPE 3728 3736	villaggi
+T40	PER 3813 3821	Quintino
+T41	PER 3911 3915	uomo
+T42	FAC 3952 3972	strada lunga , arida
+T43	GPE 4025 4033	paesello
+T44	PER 4362 4374	quella gente
+T45	PER 4640 4651	Tutti e due
+T46	LOC 4687 4709	piazza più frequentata
+T47	PER 4717 4725	Quintino
+T48	PER 5037 5048	saltimbanco
+T49	PER 5081 5086	folla
+T50	PER 5378 5389	saltimbanco
+T51	PER 5427 5469	pagliaccio ben triste quel povero Quintino
+T52	PER 5728 5737	Meneghino
+T53	PER 5920 5928	Quintino
+T54	PER 6284 6290	uomini
+T55	PER 6585 6593	Quintino
+T56	PER 6904 6912	Quintino
+T57	PER 6989 6999	moscardino
+T58	PER 7401 7411	matematico
+T59	LOC 7483 7490	Niagara
+T60	PER 7644 7660	celebre Quintino
+T61	PER 7864 7872	Quintino
+T62	PER 8206 8217	suo padrone
+T63	LOC 8407 8414	Niagara
+T64	PER 8415 8423	Quintino
+T65	PER 8556 8573	pubblico numeroso
+T66	PER 8676 8684	Quintino
+T67	PER 8725 8737	quella gente
+T68	ORG 8938 8946	Questura
+T69	PER 8998 9003	altro
+T70	PER 9068 9079	saltimbanco
+T71	PER 9131 9153	tutti i suoi disertori
+T72	LOC 9257 9264	Niagara
+T73	PER 9487 9494	monelli
+T74	PER 9588 9596	Quintino
+T75	PER 9599 9607	Quintino
+T76	PER 9947 9959	quell ' uomo
+T77	PER 10160 10168	Quintino
+T78	PER 10212 10220	perverso
+T79	PER 10292 10303	saltimbanco
+T80	PER 10386 10410	quell ' uomo senza cuore
+T81	PER 10553 10559	tristo
+T82	PER 10703 10710	Nessuno
+T83	PER 10733 10741	Quintino
+T84	PER 10798 10803	tutti
+T85	PER 10815 10820	nonni
+T86	PER 10832 10842	più vecchi
+T87	PER 10854 10891	campanaro che aveva quasi cent ' anni
+T88	PER 11091 11095	uomo
+T89	PER 11248 11256	Quintino
+T90	LOC 11431 11459	campagna paludosa del Veneto
+T91	GPE 11453 11459	Veneto
+T92	LOC 11472 11476	mare
+T93	FAC 11489 11551	casone nero , ampio , umido , diroccato e abbandonato da tutti
+T94	PER 11546 11551	tutti
+T95	PER 11582 11591	contadini
+T96	FAC 11613 11627	Cà del diavolo
+T97	PER 11620 11627	diavolo
+T98	FAC 11736 11751	quella casaccia
+T99	PER 11850 11877	padrone impetuoso e villano
+T100	PER 11946 11954	Quintino
+T101	LOC 11971 11976	mondo
+T102	FAC 11989 12003	quella bicocca
+T103	FAC 12154 12161	fienile
+T104	FAC 12179 12193	qualche chiesa
+T105	PER 12258 12267	Suo padre
+T106	ORG 12309 12316	Polizia
+T107	PER 12421 12436	altro contadino
+T108	FAC 12464 12471	bettola
+T109	GPE 12490 12498	Sardegna
+T110	GPE 12507 12524	Lombardo - Veneto
+T111	PER 12550 12559	Sua madre
+T112	PER 12574 12594	faticona tutta cuore
+T113	LOC 12633 12638	mondo
+T114	PER 12653 12664	disgraziato

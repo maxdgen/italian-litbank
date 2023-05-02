@@ -1,0 +1,126 @@
+T0	PER 7 23	contessa Ginevra
+T1	PER 68 82	vecchio medico
+T2	FAC 217 243	casa del marchese Roderigi
+T3	PER 226 243	marchese Roderigi
+T4	PER 299 322	Qualcuno degli invitati
+T5	PER 433 447	dottor Ambrosi
+T6	PER 515 531	contessa Ginevra
+T7	PER 597 602	amico
+T8	PER 661 691	bel vecchio alto , quasi calvo
+T9	PER 931 935	Bice
+T10	FAC 990 1000	sua camera
+T11	PER 1003 1008	Tutti
+T12	PER 1032 1039	dottore
+T13	PER 1096 1104	contessa
+T14	PER 1231 1235	Bice
+T15	PER 1590 1606	contessa Ginevra
+T16	PER 1629 1634	altri
+T17	PER 1647 1652	molti
+T18	PER 1658 1722	contessa Ghigi , una dama di cinquant ' anni , ossuta , nerastra
+T19	PER 2086 2143	ometto vestito di un largo soprabito bigio , tutto rasato
+T20	PER 2242 2284	altro vecchio , calvo sino quasi alla nuca
+T21	PER 2517 2533	contessa Ginevra
+T22	PER 2534 2539	tutti
+T23	PER 2554 2561	dottore
+T24	PER 2610 2615	tutti
+T25	PER 2935 2951	tenente Lamberto
+T26	PER 3019 3026	nessuno
+T27	PER 3048 3062	contessa Ghigi
+T28	PER 3161 3175	contessa Maria
+T29	PER 3422 3427	amico
+T30	PER 3430 3442	Contessa mia
+T31	PER 3459 3466	Ginevra
+T32	PER 3488 3504	tenente Lamberto
+T33	PER 3548 3552	Bice
+T34	PER 3572 3595	vecchietto tutto rasato
+T35	PER 3654 3661	ragazza
+T36	PER 3687 3693	Giorgi
+T37	PER 3758 3776	mio grande maestro
+T38	PER 3835 3843	Lamberto
+T39	PER 3930 3946	contessa Ginevra
+T40	PER 4051 4059	Lamberto
+T41	PER 4164 4173	contadino
+T42	PER 4334 4343	individuo
+T43	PER 4415 4430	grasso Prinetti
+T44	PER 4490 4497	dottore
+T45	PER 4721 4730	voi altri
+T46	PER 4789 4793	uomo
+T47	PER 5067 5075	Lamberto
+T48	GPE 5096 5100	Roma
+T49	ORG 5110 5117	società
+T50	PER 5270 5281	nostra Bice
+T51	PER 5405 5409	Bice
+T52	PER 5521 5526	gente
+T53	PER 5584 5589	Tutti
+T54	FAC 5674 5681	salotto
+T55	PER 5759 5775	contessa Ginevra
+T56	PER 5845 5852	dottore
+T57	FAC 5878 5885	salotto
+T58	PER 5999 6012	gl ' invitati
+T59	PER 6038 6045	padrona
+T60	PER 6089 6101	vecchi amici
+T61	PER 6190 6204	stesse persone
+T62	PER 6296 6303	dottore
+T63	PER 6491 6507	contessa Ginevra
+T64	PER 6565 6571	Giorgi
+T65	PER 6617 6631	contessa Ghigi
+T66	PER 6682 6690	Prinetti
+T67	PER 6859 6866	dottore
+T68	PER 7671 7687	contessa Ginevra
+T69	PER 7707 7714	dottore
+T70	PER 7805 7812	badessa
+T71	PER 8461 8466	donna
+T72	PER 8672 8677	gente
+T73	PER 9077 9091	contessa Maria
+T74	FAC 9121 9127	camera
+T75	PER 9163 9167	Bice
+T76	PER 9208 9215	dottore
+T77	PER 9288 9295	Signore
+T78	PER 9600 9608	contessa
+T79	PER 9614 9621	bigotte
+T80	PER 9731 9739	Prinetti
+T81	PER 9801 9805	Bice
+T82	PER 9854 9868	nessuno di noi
+T83	PER 9932 9943	Tchaikowski
+T84	ORG 9981 9986	Liceo
+T85	PER 9998 10004	Giorgi
+T86	PER 10010 10038	Gasperini , il bibliotecario
+T87	PER 10115 10122	dottore
+T88	PER 10129 10137	Prinetti
+T89	PER 10176 10184	Prinetti
+T90	PER 10198 10204	Giorgi
+T91	PER 10317 10324	dottore
+T92	PER 10329 10333	Bice
+T93	PER 10380 10394	contessa Maria
+T94	PER 10400 10416	contessa Ginevra
+T95	PER 10443 10452	De Nittis
+T96	PER 10479 10483	Bice
+T97	PER 10495 10502	dottore
+T98	PER 10604 10618	contessa Maria
+T99	PER 10782 10789	Ginevra
+T100	PER 10967 10973	Giorgi
+T101	PER 10983 10999	Prinetti , miope
+T102	FAC 11099 11106	salotto
+T103	PER 11267 11281	contessa Maria
+T104	PER 11307 11314	dottore
+T105	PER 11627 11631	Bice
+T106	PER 11651 11692	ragazza , delicata come un fiore di serra
+T107	PER 11771 11779	Lamberto
+T108	PER 11911 11919	Lamberto
+T109	PER 11950 11954	Bice
+T110	PER 12260 12267	dottore
+T111	PER 12281 12297	contessa Ginevra
+T112	FAC 12323 12335	quel salotto
+T113	PER 12400 12406	medico
+T114	PER 12460 12479	medico materialista
+T115	PER 12600 12606	Giorgi
+T116	PER 12609 12617	Prinetti
+T117	PER 12660 12666	Giorgi
+T118	PER 12689 12697	Prinetti
+T119	PER 12716 12719	uno
+T120	PER 12875 12878	Dio
+T121	PER 12885 12890	altro
+T122	GPE 12949 12955	Africa
+T123	PER 13002 13030	viaggiatore e soldato eroico
+T124	PER 13167 13193	nessun osservatore volgare
+T125	PER 13419 13430	due signore

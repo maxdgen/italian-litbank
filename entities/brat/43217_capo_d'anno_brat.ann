@@ -1,0 +1,126 @@
+T0	PER 330 335	tutti
+T1	ORG 582 588	Chiesa
+T2	PER 633 645	commercianti
+T3	PER 670 677	privati
+T4	PER 777 791	gl ' impiegati
+T5	PER 794 845	chiunque ha l ' incarico d ' una gestione qualsiasi
+T6	ORG 872 880	giornali
+T7	PER 893 906	collaboratori
+T8	PER 926 931	nuovi
+T9	PER 953 958	nuovi
+T10	PER 964 968	genî
+T11	PER 971 985	quelli perduti
+T12	PER 1341 1349	ciascuno
+T13	LOC 1421 1426	mondo
+T14	PER 1779 1786	piccina
+T15	PER 1925 1940	serie di cugini
+T16	PER 1958 1971	tutti insieme
+T17	PER 2142 2155	zia Catterina
+T18	PER 2350 2355	tutti
+T19	PER 2619 2624	altri
+T20	PER 2836 2841	Mamma
+T21	PER 2844 2849	babbo
+T22	PER 2852 2875	nonni materni e paterni
+T23	PER 2878 2881	zii
+T24	PER 2884 2890	prozii
+T25	PER 2918 2950	tutti i parenti , noti ed ignoti
+T26	PER 3039 3044	tutti
+T27	PER 3155 3216	gran dama che arriva tra le nevi di gennaio in abito scollato
+T28	PER 3288 3375	contadinetta di legno col vestitino corto di tela color di rosa incollato sulla persona
+T29	PER 3438 3551	reggimenti di soldatini di piombo e di legno , ulani , croati , bersaglieri , chasseurs d ' Afrique , horseguards
+T30	GPE 3572 3588	tutte le nazioni
+T31	PER 3593 3598	tutti
+T32	PER 3813 3817	Fabi
+T33	PER 3823 3831	Maccabei
+T34	PER 4054 4063	soldatini
+T35	PER 4073 4092	noi altre fanciulle
+T36	PER 4137 4143	maschi
+T37	PER 4608 4617	tutte noi
+T38	PER 4663 4668	sarto
+T39	PER 4704 4716	ogni ragazza
+T40	PER 4828 4837	signorina
+T41	FAC 5050 5054	casa
+T42	PER 5101 5114	prima persona
+T43	PER 5148 5153	prete
+T44	PER 5191 5201	giovinotto
+T45	PER 5214 5220	marito
+T46	PER 5234 5243	fanciulla
+T47	PER 5260 5267	zitella
+T48	PER 5280 5287	soldato
+T49	PER 5296 5304	famiglia
+T50	PER 5318 5325	vecchia
+T51	PER 5499 5506	bambini
+T52	PER 5531 5543	Ogni parente
+T53	FAC 5602 5618	nostre camerette
+T54	PER 5732 5737	tutti
+T55	PER 5748 5772	Angela Maria del Carcano
+T56	GPE 5765 5772	Carcano
+T57	PER 5782 5801	Corinne della Staël
+T58	GPE 5796 5801	Staël
+T59	FAC 5864 5893	Bibliothèque Rose della Ségur
+T60	GPE 5888 5893	Ségur
+T61	PER 6011 6016	tutti
+T62	PER 6097 6114	figli di famiglia
+T63	PER 6145 6157	capi di casa
+T64	FAC 6153 6157	casa
+T65	PER 6163 6168	nonni
+T66	PER 6174 6182	bisnonni
+T67	PER 6188 6196	antenati
+T68	PER 6508 6521	poeta moderno
+T69	FAC 6552 6563	suo salotto
+T70	PER 6650 6655	poeti
+T71	PER 6973 6996	miei nipoti e pronipoti
+T72	PER 7102 7109	bambini
+T73	PER 7148 7158	giovinette
+T74	PER 7319 7324	tutti
+T75	PER 7379 7387	famiglia
+T76	PER 7436 7458	Grandi e piccini tutti
+T77	PER 7554 7562	bisnonna
+T78	PER 7703 7710	editore
+T79	PER 7722 7729	editore
+T80	PER 7782 7787	tutti
+T81	PER 7802 7807	tutti
+T82	PER 7848 7856	famiglie
+T83	PER 7958 7987	ogni individuo della famiglia
+T84	PER 8139 8153	vecchi parenti
+T85	FAC 8382 8386	casa
+T86	PER 8541 8556	signori lettori
+T87	PER 8610 8626	vecchia bisnonna
+T88	PER 9060 9081	bimba di quattro anni
+T89	VEH 9096 9125	carrozzella con un asino vivo
+T90	FAC 9144 9151	salotto
+T91	PER 9157 9170	sua sorellina
+T92	PER 9283 9290	bambino
+T93	PER 9688 9700	loro editore
+T94	PER 9987 9996	scrittori
+T95	PER 10159 10164	tutti
+T96	PER 10211 10218	editore
+T97	PER 10227 10234	editori
+T98	PER 10363 10370	editore
+T99	PER 10426 10450	mie nipotine capricciose
+T100	PER 10484 10493	più buone
+T101	PER 10511 10518	bambini
+T102	FAC 10602 10609	balcone
+T103	FAC 10679 10690	casa triste
+T104	PER 10951 10958	editore
+T105	PER 11003 11010	editore
+T106	PER 11113 11120	bambini
+T107	PER 11132 11156	signor Gargano di Cesena
+T108	GPE 11150 11156	Cesena
+T109	VEH 11363 11374	carrozzelle
+T110	PER 11456 11466	miei bimbi
+T111	FAC 11495 11501	casine
+T112	FAC 11507 11516	cucinette
+T113	PER 11556 11563	bambine
+T114	PER 11680 11690	giovinette
+T115	PER 11706 11723	mio nuovo editore
+T116	PER 11765 11781	parenti ed amici
+T117	PER 11822 11849	giovani delle loro famiglie
+T118	PER 11938 11957	LA MARCHESA COLOMBI
+T119	PER 12043 12055	giovinettina
+T120	PER 12100 12138	famiglia numerosa e ristretta di mezzi
+T121	PER 12181 12193	telegrafista
+T122	PER 12222 12236	quella ragazza
+T123	PER 12378 12396	artista drammatica
+T124	PER 12556 12568	telegrafista
+T125	ORG 12661 12667	teatro

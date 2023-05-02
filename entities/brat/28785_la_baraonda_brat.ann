@@ -1,0 +1,172 @@
+T0	PER 12 23	CANTASIRENA
+T1	PER 30 34	Nora
+T2	FAC 48 55	saletta
+T3	FAC 157 163	cucina
+T4	PER 169 177	Gioconda
+T5	PER 210 218	Gioconda
+T6	PER 232 239	Evelina
+T7	PER 282 290	Gioconda
+T8	FAC 318 323	posta
+T9	PER 434 438	Nora
+T10	FAC 618 625	saletta
+T11	PER 642 650	Gioconda
+T12	PER 680 684	Nora
+T13	PER 901 926	persona alta e rigogliosa
+T14	PER 1128 1133	altra
+T15	PER 1246 1253	Evelina
+T16	PER 1380 1392	quella gente
+T17	FAC 1543 1547	casa
+T18	PER 1634 1641	Evelina
+T19	PER 1867 1871	Nora
+T20	PER 1879 1887	Gioconda
+T21	PER 1961 1968	nessuno
+T22	FAC 2008 2012	casa
+T23	PER 2084 2092	Gioconda
+T24	PER 2249 2256	Evelina
+T25	PER 2406 2414	Gioconda
+T26	PER 2500 2505	altra
+T27	PER 3169 3177	cantante
+T28	PER 3183 3187	mima
+T29	PER 3195 3207	Pietro Laner
+T30	PER 3210 3214	Nora
+T31	PER 3279 3328	suo giovane fidanzato , il giovane povero , umile
+T32	PER 3559 3564	negro
+T33	PER 3633 3641	tedeschi
+T34	PER 3815 3822	giovane
+T35	PER 3913 3921	Duchessa
+T36	PER 4088 4098	sua moglie
+T37	PER 4102 4110	duchessa
+T38	PER 4156 4166	sua amante
+T39	PER 4180 4187	signora
+T40	PER 4341 4345	Nora
+T41	PER 4414 4421	Evelina
+T42	PER 4639 4644	altri
+T43	PER 4649 4656	Evelina
+T44	PER 4713 4720	Evelina
+T45	PER 4904 4911	Evelina
+T46	FAC 5019 5030	quella casa
+T47	FAC 5282 5292	anticamera
+T48	PER 5298 5306	Gioconda
+T49	PER 5346 5360	signorina Nora
+T50	PER 5389 5406	signora Schönfeld
+T51	PER 5423 5431	Gioconda
+T52	PER 5462 5480	donna ben pasciuta
+T53	PER 5588 5604	questa Schönfeld
+T54	FAC 5644 5648	casa
+T55	PER 5673 5681	Gioconda
+T56	FAC 5771 5775	casa
+T57	PER 5900 5916	signor Direttore
+T58	PER 5970 5975	tutti
+T59	ORG 6064 6072	giornale
+T60	PER 6077 6085	bottegai
+T61	PER 6091 6107	tutti diffidenti
+T62	PER 6163 6172	signorina
+T63	PER 6236 6240	Nora
+T64	PER 6332 6342	zio Matteo
+T65	PER 6356 6366	milionaria
+T66	PER 6391 6402	bel servone
+T67	PER 6548 6559	mia sorella
+T68	PER 6659 6666	nessuno
+T69	PER 6710 6715	serva
+T70	PER 6747 6756	signorina
+T71	PER 6800 6808	Gioconda
+T72	PER 6898 6908	zio Matteo
+T73	PER 6936 6943	Evelina
+T74	PER 6976 6980	Nora
+T75	PER 7009 7017	Gioconda
+T76	FAC 7053 7063	anticamera
+T77	PER 7134 7145	due ragazze
+T78	PER 7173 7181	tirolese
+T79	PER 7184 7192	Tirolese
+T80	FAC 7228 7239	quella casa
+T81	PER 7243 7252	creditori
+T82	PER 7294 7301	Nessuno
+T83	PER 7336 7353	tutti i creditori
+T84	PER 7386 7394	tirolesi
+T85	PER 7419 7426	Evelina
+T86	PER 7462 7526	fattorino della Faré , quel gran negozio di guanti e di cravatte
+T87	FAC 7478 7526	Faré , quel gran negozio di guanti e di cravatte
+T88	PER 7543 7551	Gioconda
+T89	PER 7617 7646	contadinotta della bergamasca
+T90	GPE 7664 7670	Milano
+T91	PER 7701 7704	zio
+T92	PER 7837 7841	Nora
+T93	PER 7870 7878	tirolesi
+T94	PER 7942 7946	papa
+T95	PER 8000 8024	persona grassa e rotonda
+T96	FAC 8048 8054	cucina
+T97	PER 8066 8070	Nora
+T98	PER 8253 8280	Matteo Cantasirena , lo zio
+T99	PER 8302 8306	Nora
+T100	PER 8310 8317	Evelina
+T101	PER 8323 8339	signor direttore
+T102	PER 8362 8370	Gioconda
+T103	ORG 8407 8437	sua gazzetta -- Il Rinnovatore
+T104	PER 8500 8511	Cantasirena
+T105	ORG 8551 8559	giornale
+T106	ORG 8714 8734	giornali degli altri
+T107	PER 8729 8734	altri
+T108	PER 8895 8913	Matteo Cantasirena
+T109	PER 8980 9033	Professore , avvocato , cavaliere ed anche colonnello
+T110	PER 9080 9089	Garibaldi
+T111	GPE 9122 9128	Italia
+T112	PER 9387 9392	amici
+T113	PER 9570 9573	uni
+T114	PER 9592 9597	altri
+T115	PER 9619 9626	nessuno
+T116	PER 9707 9719	tutti quanti
+T117	PER 9811 9819	tirolesi
+T118	PER 9894 9899	altri
+T119	PER 10035 10052	grande architetto
+T120	PER 10062 10087	uno dei grandi architetti
+T121	PER 10133 10138	folla
+T122	PER 10273 10291	Matteo Cantasirena
+T123	PER 10524 10539	uomo di spirito
+T124	PER 10600 10653	Bell ' uomo , alto , col cranio pelato , lucentissimo
+T125	PER 10679 10697	persone importanti
+T126	PER 10714 10718	Mosè
+T127	PER 10756 10761	tutti
+T128	PER 10773 10778	tutti
+T129	FAC 10787 10793	teatro
+T130	PER 10828 10833	folla
+T131	PER 10961 10972	Cantasirena
+T132	PER 11147 11158	provinciali
+T133	PER 11180 11182	un
+T134	PER 11187 11192	altro
+T135	GPE 11218 11224	Milano
+T136	PER 11287 11291	Nora
+T137	PER 11295 11302	Evelina
+T138	PER 11363 11381	sue care figliuole
+T139	PER 11422 11432	sue figlie
+T140	PER 11466 11476	sue nipoti
+T141	PER 11507 11510	zio
+T142	FAC 11618 11629	quella casa
+T143	FAC 11776 11782	teatri
+T144	PER 12138 12146	famiglia
+T145	PER 12220 12231	Cantasirena
+T146	PER 12240 12244	Nora
+T147	PER 12251 12258	Evelina
+T148	ORG 12278 12286	giornale
+T149	ORG 12292 12298	banche
+T150	ORG 12304 12312	ferrovie
+T151	ORG 12438 12447	ministero
+T152	PER 12467 12477	impresario
+T153	PER 12511 12520	onorevole
+T154	FAC 12575 12579	casa
+T155	FAC 12653 12657	casa
+T156	PER 12664 12682	Matteo Cantasirena
+T157	FAC 12697 12707	abitazione
+T158	PER 12951 12959	Gioconda
+T159	FAC 12984 12989	caffè
+T160	PER 13005 13010	cuoca
+T161	PER 13096 13103	nessuno
+T162	FAC 13177 13196	casa piena di gente
+T163	PER 13191 13196	gente
+T164	PER 13199 13210	commilitoni
+T165	PER 13213 13218	genii
+T166	PER 13221 13230	patriotti
+T167	PER 13233 13239	tenori
+T168	PER 13242 13250	deputati
+T169	PER 13269 13276	parenti
+T170	PER 13317 13324	parenti
+T171	PER 13353 13364	Cantasirena

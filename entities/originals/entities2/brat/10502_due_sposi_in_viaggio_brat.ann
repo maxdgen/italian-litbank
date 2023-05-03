@@ -1,0 +1,160 @@
+T0	PER 40 49	gli sposi
+T1	GPE 87 91	Como
+T2	GPE 132 142	Tremezzina
+T3	LOC 248 265	le cime dei monti
+T4	LOC 289 293	Alpi
+T5	LOC 448 459	altre vette
+T6	PER 508 524	una fanciulletta
+T7	LOC 610 630	la schiena dei monti
+T8	LOC 658 670	pascoli rasi
+T9	FAC 736 761	campi seminati a saraceno
+T10	LOC 795 803	giardini
+T11	FAC 822 830	villette
+T12	VEH 859 867	battello
+T13	PER 929 948	Bastiano , lo sposo
+T14	PER 1058 1066	qualcuno
+T15	LOC 1281 1289	campagna
+T16	PER 1603 1614	d ' inglese
+T17	PER 1618 1652	signor Bastiano Malignoni di Monza
+T18	GPE 1647 1652	Monza
+T19	VEH 1671 1679	battello
+T20	PER 1701 1713	un uomo alto
+T21	GPE 1948 1953	Torno
+T22	PER 1979 2001	revisore dei biglietti
+T23	PER 2011 2020	gli sposi
+T24	PER 2106 2121	signor Bastiano
+T25	PER 2142 2157	tutti i signori
+T26	PER 2162 2186	tutte le signore inglesi
+T27	PER 2295 2301	Cesare
+T28	PER 2317 2323	Cesare
+T29	PER 2352 2359	Paolina
+T30	LOC 2538 2554	valle di Josafat
+T31	PER 2593 2611	Paolina , la sposa
+T32	PER 2798 2804	marito
+T33	PER 2872 2893	la sposa di provincia
+T34	GPE 2884 2893	provincia
+T35	PER 3222 3230	Bastiano
+T36	FAC 3240 3248	il ponte
+T37	LOC 3446 3459	monte Bisbino
+T38	PER 3546 3553	Paolina
+T39	PER 3558 3566	la prima
+T40	PER 3773 3789	signor Malignoni
+T41	PER 3804 3828	nessuno de ' suoi vicini
+T42	PER 3839 3866	quell ' inglese o americano
+T43	FAC 4139 4152	sala di sotto
+T44	LOC 4328 4347	Quelle rive strette
+T45	LOC 4377 4382	monti
+T46	LOC 4631 4648	un pratello largo
+T47	LOC 4699 4758	nuovi immensi bacini d ' acqua , pieni di azzurro e di luce
+T48	PER 4826 4831	gente
+T49	FAC 4840 4848	stazione
+T50	VEH 4853 4864	il battello
+T51	LOC 4867 4874	la riva
+T52	LOC 4989 4996	pascoli
+T53	PER 5122 5129	Paolina
+T54	PER 5298 5306	la gente
+T55	LOC 5390 5397	le Alpi
+T56	LOC 5427 5451	un altro lago sterminato
+T57	LOC 5454 5474	Il bacino di Argegno
+T58	GPE 5467 5474	Argegno
+T59	LOC 5585 5593	montagne
+T60	LOC 5630 5647	creste disabitate
+T61	LOC 5673 5688	luoghi dirupati
+T62	LOC 5822 5833	una nicchia
+T63	FAC 5894 5917	muricciuolo di cimitero
+T64	PER 6078 6088	Sebastiano
+T65	GPE 6182 6190	Bellagio
+T66	VEH 6191 6202	il battello
+T67	PER 6236 6241	tutti
+T68	FAC 6266 6274	Le ville
+T69	PER 6325 6334	signorine
+T70	LOC 6533 6560	il largo bacino di Menaggio
+T71	GPE 6552 6560	Menaggio
+T72	PER 6718 6750	bande che passavano nelle barche
+T73	PER 6769 6775	Scipio
+T74	FAC 6807 6812	serre
+T75	PER 6852 6857	tutti
+T76	PER 6869 6883	povera Paolina
+T77	PER 6907 6922	le dame inglesi
+T78	PER 6931 6945	le più vecchie
+T79	GPE 7031 7039	Belaccio
+T80	GPE 7042 7050	Belaccio
+T81	PER 7076 7088	nostri sposi
+T82	PER 7091 7099	La gente
+T83	PER 7137 7145	Bastiano
+T84	FAC 7171 7180	gli Hôtel
+T85	PER 7193 7200	Paolina
+T86	ORG 7224 7246	la Trattoria Americana
+T87	PER 7280 7288	ciascuno
+T88	PER 7361 7411	un signore , un vero gentiluomo , pulito e cortese
+T89	ORG 7479 7488	Americana
+T90	ORG 7491 7500	Americana
+T91	PER 7514 7522	Bastiano
+T92	PER 7555 7570	Il buon signore
+T93	PER 7590 7626	un altro signore coi favoriti biondi
+T94	VEH 7649 7672	imperiale di un omnibus
+T95	ORG 7710 7719	Americana
+T96	PER 7743 7751	Bastiano
+T97	PER 7900 7917	due bravi signori
+T98	VEH 7979 7986	omnibus
+T99	PER 8031 8038	Paolina
+T100	VEH 8097 8104	omnibus
+T101	ORG 8125 8145	grand Hôtel Bellagio
+T102	GPE 8137 8145	Bellagio
+T103	ORG 8148 8159	L ' albergo
+T104	FAC 8182 8217	una gran cancellata a punte d ' oro
+T105	LOC 8232 8262	un gran giardino all ' inglese
+T106	PER 8378 8461	Un giovinetto biondo come il lino , in falda nera , colle scarpettine alla francese
+T107	PER 8489 8500	uno sposino
+T108	FAC 8678 8726	una camera che riusciva sopra un cortile stretto
+T109	FAC 8708 8726	un cortile stretto
+T110	FAC 8751 8759	un pozzo
+T111	PER 8884 8892	Bastiano
+T112	LOC 8935 8951	mondo della luna
+T113	PER 8992 8999	Paolina
+T114	PER 9020 9039	I coniugi Malignoni
+T115	ORG 9146 9155	Americana
+T116	ORG 9190 9201	l ' albergo
+T117	PER 9379 9389	la sposina
+T118	FAC 9426 9433	cortile
+T119	PER 9485 9493	lo sposo
+T120	FAC 9597 9606	la stanza
+T121	GPE 9642 9662	il paese dei tartari
+T122	ORG 9766 9775	Americana
+T123	ORG 10027 10036	Americana
+T124	PER 10263 10270	ragazzo
+T125	PER 10285 10293	Bastiano
+T126	PER 10301 10308	Paolina
+T127	PER 10573 10581	Bastiano
+T128	PER 10706 10714	qualcuno
+T129	ORG 10768 10777	Americana
+T130	FAC 10784 10793	i portici
+T131	ORG 10856 10863	albergo
+T132	PER 10873 10900	la sua povera alma consorte
+T133	FAC 11051 11057	stanza
+T134	FAC 11130 11156	qualche corridoio a destra
+T135	FAC 11159 11184	qualche andito a sinistra
+T136	FAC 11384 11405	atrio del pianterreno
+T137	FAC 11425 11432	ufficio
+T138	PER 11456 11473	un signore grasso
+T139	FAC 11553 11566	la mia camera
+T140	PER 11668 11677	cameriere
+T141	PER 11701 11709	Bastiano
+T142	PER 11770 11783	quel biondino
+T143	PER 11812 11849	Due altri servitori o sopraintendenti
+T144	PER 11947 11955	Bastiano
+T145	PER 11971 11990	il suo bel biondino
+T146	PER 12055 12072	tutti gli scolari
+T147	LOC 12219 12227	montagna
+T148	PER 12239 12260	i due sopraintendenti
+T149	PER 12398 12441	uno di quei bravi signori , il più canonico
+T150	GPE 12469 12477	Bellagio
+T151	GPE 12502 12507	Monza
+T152	FAC 12538 12547	ringhiera
+T153	PER 12609 12627	quei bravi signori
+T154	PER 12642 12676	il mio cameriere , un bel biondino
+T155	PER 12696 12718	il tedesco di Bellagio
+T156	GPE 12710 12718	Bellagio
+T157	PER 12802 12823	Un giovinotto magrino
+T158	PER 12870 12881	il canonico
+T159	PER 12891 12905	il suo compare

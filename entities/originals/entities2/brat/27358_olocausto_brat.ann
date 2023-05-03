@@ -1,0 +1,126 @@
+T0	FAC 205 224	ampia sala bislunga
+T1	PER 239 252	gli avventori
+T2	PER 272 283	i camerieri
+T3	PER 450 489	Parecchie donne della piccola borghesia
+T4	ORG 472 489	piccola borghesia
+T5	FAC 599 605	pareti
+T6	PER 664 671	nessuna
+T7	PER 848 856	studenti
+T8	PER 1093 1103	il Chianti
+T9	PER 1284 1297	grande barone
+T10	ORG 1342 1362	aristocrazia toscana
+T11	FAC 1365 1372	La sala
+T12	PER 1764 1774	due gruppi
+T13	PER 1807 1871	sei o sette studenti ineleganti ed affamati , villani ed allegri
+T14	PER 2328 2366	un vecchio cameriere , lento , bonario
+T15	PER 2480 2498	due o tre studenti
+T16	PER 2670 2704	una intera famiglia di provinciali
+T17	PER 2774 2785	gente ricca
+T18	PER 2871 2908	madre , una donna secca e giallognola
+T19	PER 2957 2989	cameriere , un giovanotto biondo
+T20	PER 3052 3092	il marito , più vecchio , grasso e rosso
+T21	PER 3114 3135	due figli più piccoli
+T22	PER 3170 3181	Tre ragazze
+T23	FAC 3289 3293	sala
+T24	PER 3341 3356	tutte tre brune
+T25	PER 3475 3487	Gli studenti
+T26	PER 3504 3515	quel gruppo
+T27	PER 3659 3669	le ragazze
+T28	PER 4458 4479	gente non troppo fina
+T29	PER 4530 4540	le persone
+T30	PER 4666 4683	studenti eccitati
+T31	PER 4703 4714	tre ragazze
+T32	PER 4754 4759	mamma
+T33	PER 4825 4848	un uomo meglio abituato
+T34	PER 4923 4938	Quegli studenti
+T35	PER 4955 4982	famiglie più alte della sua
+T36	ORG 5027 5033	scuole
+T37	GPE 5317 5333	tutta l ' Italia
+T38	GPE 5344 5366	la frontiera austriaca
+T39	PER 5428 5443	molti milionari
+T40	PER 5530 5538	la gente
+T41	PER 5960 5968	Qualcuno
+T42	PER 5983 5997	le tre ragazze
+T43	VEH 6155 6163	il treno
+T44	GPE 6168 6175	Bologna
+T45	GPE 6257 6264	Firenze
+T46	GPE 6287 6292	Forlì
+T47	GPE 6423 6429	Faenza
+T48	PER 6556 6584	un grosso mugnaio di Marradi
+T49	GPE 6577 6584	Marradi
+T50	PER 6860 6874	queste ragazze
+T51	PER 6915 6929	le provinciali
+T52	PER 6966 6988	molte donnine eleganti
+T53	LOC 7014 7027	via Calzaioli
+T54	PER 7098 7104	marito
+T55	PER 7123 7134	uno sciocco
+T56	FAC 7241 7279	tutta la sala luminosa e rumoreggiante
+T57	PER 7291 7306	nessuna persona
+T58	PER 7357 7372	il più elegante
+T59	PER 7458 7463	altri
+T60	VEH 7658 7663	treno
+T61	PER 7729 7756	il cameriere troppo piccolo
+T62	FAC 7822 7826	sala
+T63	PER 7951 7959	qualcuno
+T64	LOC 8043 8056	Via Calzaioli
+T65	PER 8073 8078	gente
+T66	PER 8224 8234	Gli uomini
+T67	PER 8256 8264	le donne
+T68	PER 8428 8455	alcune cacciatrici notturne
+T69	FAC 8474 8480	strade
+T70	PER 8601 8607	uomini
+T71	PER 8647 8654	nessuna
+T72	FAC 8669 8682	quella strada
+T73	PER 8689 8701	quella gente
+T74	PER 8792 8800	qualcuno
+T75	PER 8911 8934	qualche amico di affari
+T76	FAC 8980 8985	caffè
+T77	PER 9012 9017	folla
+T78	FAC 9080 9110	quella vecchia strada illustre
+T79	FAC 9142 9156	tutte le ditte
+T80	LOC 9163 9174	cielo scuro
+T81	LOC 9175 9184	le stelle
+T82	PER 9425 9430	donne
+T83	PER 9462 9470	la folla
+T84	PER 9889 9897	i vecchi
+T85	PER 9920 9931	i fanciulli
+T86	PER 9961 9968	parenti
+T87	PER 10006 10026	quasi tutta la folla
+T88	PER 10183 10191	La gente
+T89	FAC 10276 10283	i clubs
+T90	FAC 10290 10297	i caffè
+T91	FAC 10304 10312	i teatri
+T92	FAC 10315 10328	altri ritrovi
+T93	PER 10451 10470	le piccole famiglie
+T94	FAC 10533 10539	strada
+T95	FAC 10570 10574	case
+T96	VEH 10752 10771	una grande carrozza
+T97	PER 10868 10910	una figurina di donna , svelta ed elegante
+T98	PER 10925 10933	la folla
+T99	PER 10964 10974	un signore
+T100	PER 11113 11124	Altre donne
+T101	PER 11151 11166	tutti i giovani
+T102	PER 11178 11184	poveri
+T103	ORG 11304 11323	le classi superiori
+T104	PER 11441 11452	una signora
+T105	PER 11472 11489	qualunque di esse
+T106	LOC 11623 11636	via Calzaioli
+T107	FAC 11646 11658	altre strade
+T108	LOC 11686 11694	Lungarno
+T109	LOC 11697 11705	Il fiume
+T110	FAC 11817 11829	vecchi ponti
+T111	LOC 11848 11856	il fiume
+T112	LOC 11890 11905	i colli lontani
+T113	GPE 11990 11995	città
+T114	LOC 12064 12097	le vie moderne , larghe e bianche
+T115	LOC 12136 12144	Lungarno
+T116	FAC 12172 12181	parapetto
+T117	LOC 12220 12229	le stelle
+T118	LOC 12247 12266	l ' acqua del fiume
+T119	FAC 12313 12323	una chiesa
+T120	ORG 12561 12574	club di Forlì
+T121	GPE 12569 12574	Forlì
+T122	PER 12887 12896	una donna
+T123	PER 12948 12979	Un gruppo di signori forestieri
+T124	FAC 12998 13015	un grande albergo
+T125	FAC 13087 13107	strade più affollate

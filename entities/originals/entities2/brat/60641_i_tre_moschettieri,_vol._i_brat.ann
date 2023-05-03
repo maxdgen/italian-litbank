@@ -1,0 +1,154 @@
+T0	PER 30 55	SIGNOR D ' ARTAGNAN PADRE
+T1	LOC 97 114	il borgo di Méung
+T2	GPE 109 114	Méung
+T3	PER 126 159	l ' autore del Romanzo della Rosa
+T4	PER 220 232	gli ugonotti
+T5	PER 281 298	Molti borghigiani
+T6	PER 315 323	le donne
+T7	FAC 330 347	la strada maestra
+T8	PER 359 370	i fanciulli
+T9	FAC 566 597	l ' osteria del Franc - Meunier
+T10	PER 669 687	un gruppo compatto
+T11	GPE 821 830	una città
+T12	GPE 833 842	l ' altra
+T13	PER 924 933	i signori
+T14	PER 975 980	il re
+T15	PER 1005 1017	suo ministro
+T16	ORG 1027 1036	la Spagna
+T17	PER 1061 1063	re
+T18	PER 1151 1158	i ladri
+T19	PER 1161 1173	i mendicanti
+T20	PER 1176 1188	gli ugonotti
+T21	PER 1257 1266	i signori
+T22	PER 1269 1281	gli ugonotti
+T23	PER 1305 1310	il re
+T24	PER 1327 1338	il ministro
+T25	PER 1341 1353	lo spagnuolo
+T26	PER 1453 1466	i borghigiani
+T27	PER 1553 1570	duca di Richelieu
+T28	FAC 1607 1634	albergo del Franc - Meunier
+T29	PER 1649 1657	ciascuno
+T30	PER 1712 1722	Un giovane
+T31	PER 1788 1802	Don Chisciotte
+T32	PER 1822 1836	Don Chisciotte
+T33	PER 1884 1898	Don Chisciotte
+T34	PER 2221 2232	il Guascone
+T35	PER 2262 2279	il nostro giovane
+T36	PER 2441 2453	un fanciullo
+T37	PER 2482 2489	un uomo
+T38	PER 2545 2584	il figlio di un affittajuolo in viaggio
+T39	PER 2558 2573	un affittajuolo
+T40	PER 2685 2701	suo proprietario
+T41	PER 2803 2820	il nostro giovane
+T42	PER 3432 3442	gli uomini
+T43	GPE 3513 3518	Méung
+T44	GPE 3581 3590	Beaugency
+T45	PER 3652 3665	suo cavaliere
+T46	PER 3721 3741	giovane d ' Artagnan
+T47	PER 3760 3777	il don Chisciotte
+T48	PER 3781 3803	questo altro Rosinante
+T49	PER 3911 3925	buon cavaliere
+T50	PER 4014 4022	il sig .
+T51	PER 4023 4041	d ' Artagnan padre
+T52	PER 4186 4196	Figlio mio
+T53	PER 4211 4233	il gentiluomo guascone
+T54	GPE 4261 4266	Béarn
+T55	PER 4274 4283	Enrico IV
+T56	PER 4319 4329	figlio mio
+T57	FAC 4360 4380	casa di vostro padre
+T58	PER 4368 4380	vostro padre
+T59	PER 4607 4627	un vecchio servitore
+T60	FAC 4635 4640	corte
+T61	PER 4652 4660	il sig .
+T62	PER 4661 4679	d ' Artagnan padre
+T63	PER 4837 4847	gentiluomo
+T64	PER 4913 4928	vostri antenati
+T65	PER 4955 4973	la vostra famiglia
+T66	PER 4980 4994	i vostri amici
+T67	PER 5048 5056	ministro
+T68	PER 5065 5067	re
+T69	PER 5147 5160	un gentiluomo
+T70	PER 5344 5351	giovane
+T71	PER 5421 5429	guascone
+T72	PER 5462 5472	mio figlio
+T73	PER 5780 5790	Figlio mio
+T74	PER 5883 5895	Vostra madre
+T75	PER 5962 5973	una zingara
+T76	ORG 6264 6269	corte
+T77	PER 6359 6377	signor de Tréville
+T78	PER 6403 6413	mio vicino
+T79	PER 6457 6469	re Luigi XII
+T80	PER 6476 6481	Iddio
+T81	PER 6511 6520	fanciullo
+T82	PER 6600 6605	il re
+T83	PER 6707 6725	signor de Tréville
+T84	PER 6739 6760	il signor de Tréville
+T85	GPE 6813 6819	Parigi
+T86	PER 6856 6858	re
+T87	PER 6886 6893	giovine
+T88	PER 7087 7112	Capitano dei moschettieri
+T89	PER 7127 7183	capo di una legione di Cesari di cui il re fa gran conto
+T90	ORG 7135 7156	una legione di Cesari
+T91	PER 7164 7169	il re
+T92	PER 7205 7213	ministro
+T93	PER 7225 7230	ognun
+T94	PER 7265 7286	il signor de Tréville
+T95	PER 7338 7353	un gran signore
+T96	PER 7526 7554	il signor d ' Artagnan padre
+T97	PER 7563 7573	suo figlio
+T98	FAC 7693 7707	camera paterna
+T99	PER 7710 7720	il giovane
+T100	PER 7727 7736	sua madre
+T101	PER 8013 8035	il signor d ' Artagnan
+T102	PER 8047 8057	suo figlio
+T103	PER 8068 8091	la sola sua progenitura
+T104	PER 8097 8105	il sig .
+T105	PER 8106 8118	d ' Artagnan
+T106	PER 8123 8130	un uomo
+T107	PER 8171 8178	un uomo
+T108	PER 8240 8263	la signora d ' Artagnan
+T109	PER 8268 8273	donna
+T110	PER 8289 8294	madre
+T111	PER 8352 8378	signor d ' Artagnan figlio
+T112	PER 8445 8467	un futuro moschettiere
+T113	PER 8606 8616	il giovine
+T114	PER 8756 8764	il sig .
+T115	PER 8765 8776	de Tréville
+T116	FAC 8857 8864	mercato
+T117	PER 8896 8908	d ' Artagnan
+T118	PER 8983 9000	eroe di Cervantes
+T119	PER 9149 9163	Don Chisciotte
+T120	PER 9241 9253	d ' Artagnan
+T121	GPE 9382 9388	Tarbes
+T122	GPE 9396 9401	Méung
+T123	PER 9545 9551	alcuno
+T124	PER 9880 9900	quelli che passavano
+T125	PER 10063 10075	D ' Artagnan
+T126	GPE 10143 10176	quella malaugurata città di Méung
+T127	PER 10256 10266	alcun oste
+T128	PER 10269 10278	cameriere
+T129	PER 10281 10293	palafreniere
+T130	PER 10326 10335	montatore
+T131	PER 10338 10350	d ' Artagnan
+T132	FAC 10388 10400	pian terreno
+T133	PER 10401 10451	un gentiluomo di alta statura e di belle sembianze
+T134	PER 10517 10528	due persone
+T135	PER 10574 10586	D ' Artagnan
+T136	PER 10705 10717	d ' Artagnan
+T137	PER 10800 10813	Il gentiluomo
+T138	PER 10836 10848	suoi uditori
+T139	PER 10899 10910	gli uditori
+T140	PER 10953 10962	narratore
+T141	PER 11074 11081	giovane
+T142	PER 11192 11204	d ' Artagnan
+T143	PER 11336 11345	straniero
+T144	PER 11360 11367	un uomo
+T145	PER 11865 11877	D ' Artagnan
+T146	PER 11931 11942	osservatore
+T147	PER 11943 11960	il più scrupoloso
+T148	PER 12027 12045	questo sconosciuto
+T149	PER 12138 12150	d ' Artagnan
+T150	PER 12174 12184	gentiluomo
+T151	PER 12205 12218	il gentiluomo
+T152	PER 12301 12315	i suoi uditori
+T153	PER 12518 12530	d ' Artagnan

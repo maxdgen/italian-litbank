@@ -1,0 +1,168 @@
+T0	PER 3 19	Domenico Ghegola
+T1	PER 27 34	un eroe
+T2	PER 263 271	i timidi
+T3	PER 335 351	Domenico Ghegola
+T4	PER 488 494	Menico
+T5	PER 562 577	un ammazzasette
+T6	PER 631 638	un eroe
+T7	PER 652 667	un di quei buli
+T8	PER 684 692	la gente
+T9	FAC 968 983	cortile di casa
+T10	FAC 979 983	casa
+T11	FAC 1054 1067	Le sue stanze
+T12	FAC 1339 1349	sua camera
+T13	FAC 1373 1377	muro
+T14	ORG 1796 1806	cavalleria
+T15	PER 1906 1914	Tancredi
+T16	PER 1919 1926	Argante
+T17	GPE 2081 2090	Lombardia
+T18	GPE 2104 2112	Piemonte
+T19	ORG 2130 2138	esercito
+T20	PER 2156 2165	Garibaldi
+T21	LOC 2215 2220	Garda
+T22	LOC 2256 2264	Rubicone
+T23	PER 2283 2296	le sue amiche
+T24	ORG 2304 2323	il Comitato segreto
+T25	PER 2446 2458	i suoi amici
+T26	PER 2536 2546	le signore
+T27	FAC 2563 2567	casa
+T28	PER 2638 2647	i monelli
+T29	FAC 2678 2684	i muri
+T30	PER 2750 2766	Domenico Ghegola
+T31	GPE 2914 2925	Villafranca
+T32	GPE 2934 2944	il confine
+T33	VEH 2949 2956	diretto
+T34	GPE 3034 3041	Brescia
+T35	FAC 3055 3069	un quartierino
+T36	GPE 3106 3113	Brescia
+T37	PER 3186 3195	ufficiali
+T38	FAC 3217 3222	caffè
+T39	FAC 3228 3234	teatro
+T40	LOC 3256 3276	corso di Torre Lunga
+T41	PER 3438 3456	i suoi nuovi amici
+T42	PER 3612 3619	Ghegola
+T43	ORG 3732 3745	la cavalleria
+T44	PER 3748 3761	i bersaglieri
+T45	PER 3914 3923	ufficiali
+T46	ORG 3998 4006	esercito
+T47	PER 4049 4056	Ghegola
+T48	PER 4076 4082	Cavour
+T49	PER 4088 4105	Vittorio Emanuele
+T50	PER 4111 4120	Napoleone
+T51	PER 4126 4136	il piccolo
+T52	PER 4265 4272	Ghegola
+T53	PER 4307 4317	il soldato
+T54	PER 4321 4326	un re
+T55	PER 4347 4356	avventori
+T56	ORG 4361 4376	Caffè del Duomo
+T57	PER 4501 4503	re
+T58	PER 4559 4561	re
+T59	GPE 4681 4686	paese
+T60	PER 4791 4800	Garibaldi
+T61	ORG 4853 4867	la sua legione
+T62	PER 4900 4909	Garibaldi
+T63	PER 4919 4939	la gioventù italiana
+T64	GPE 5015 5022	Brescia
+T65	PER 5066 5075	Garibaldi
+T66	PER 5097 5104	Ghegola
+T67	ORG 5108 5123	Caffè del Duomo
+T68	PER 5164 5181	Il Duce dei Mille
+T69	GPE 5220 5226	Italia
+T70	PER 5229 5246	Vittorio Emanuele
+T71	PER 5339 5346	Ghegola
+T72	FAC 5377 5388	Casa Savoia
+T73	PER 5481 5510	un repubblicano intransigente
+T74	PER 5672 5677	tutti
+T75	PER 5696 5706	monarchici
+T76	PER 5709 5721	repubblicani
+T77	PER 5744 5749	altri
+T78	PER 5775 5810	i suoi stessi compaesani , i veneti
+T79	PER 5878 5901	i tanti giovani animosi
+T80	ORG 5947 5955	esercito
+T81	PER 5962 5971	volontari
+T82	PER 6015 6066	quel tanghero unto e bisunto di pomate e di profumi
+T83	PER 6268 6275	Ghegola
+T84	PER 6298 6333	l ' incompreso , l ' uomo superiore
+T85	PER 6337 6354	pubblico flagello
+T86	FAC 6446 6453	il muro
+T87	PER 6527 6537	smargiasso
+T88	PER 6555 6567	ammazzasette
+T89	ORG 6685 6700	Caffè del Duomo
+T90	PER 6772 6791	una sartorella sana
+T91	GPE 6896 6912	terra d ' esilio
+T92	PER 6915 6920	Ghita
+T93	PER 6940 6953	la sartorella
+T94	PER 6960 6977	una buona ragazza
+T95	PER 7014 7020	Menico
+T96	PER 7047 7072	un cospiratore travestito
+T97	PER 7184 7196	la poveretta
+T98	PER 7266 7283	il suo innamorato
+T99	PER 7303 7313	un martire
+T100	PER 7328 7348	un eroe dell ' ombra
+T101	PER 7382 7406	Ghegola , il birbaccione
+T102	PER 7445 7450	Ghita
+T103	PER 7458 7472	lo spaccamonti
+T104	PER 7502 7507	altri
+T105	PER 7556 7563	tiranno
+T106	PER 7687 7695	la Ghita
+T107	PER 7764 7774	suo Menico
+T108	PER 7781 7790	avventori
+T109	ORG 7795 7810	Caffè del Duomo
+T110	FAC 8033 8038	caffè
+T111	FAC 8147 8153	Fenice
+T112	PER 8304 8311	Ghegola
+T113	PER 8594 8604	piemontesi
+T114	PER 8610 8620	monarchici
+T115	PER 8627 8637	fedifraghi
+T116	PER 8650 8663	un giovinetto
+T117	PER 8827 8837	il signore
+T118	PER 8842 8854	un vigliacco
+T119	PER 8861 8868	Ghegola
+T120	PER 8950 8966	l ' impertinente
+T121	PER 9000 9013	quell ' altro
+T122	PER 9082 9089	Ghegola
+T123	PER 9219 9262	un giovinetto bresciano , tarchiato , bruno
+T124	PER 9287 9301	un garibaldino
+T125	PER 9309 9322	un mazziniano
+T126	PER 9439 9447	compagni
+T127	PER 9538 9543	tutti
+T128	PER 9550 9564	Menico Ghegola
+T129	PER 9631 9644	Marino Aimoni
+T130	PER 9664 9678	il provocatore
+T131	PER 9704 9718	due suoi amici
+T132	PER 9765 9782	il Don Chisciotte
+T133	PER 9872 9879	Ghegola
+T134	PER 9937 9947	l ' Aimoni
+T135	PER 9980 9985	tutti
+T136	PER 10005 10012	Ghegola
+T137	PER 10419 10428	offensore
+T138	PER 10501 10528	quell ' eroe della retorica
+T139	PER 10585 10595	l ' Aimoni
+T140	PER 10635 10641	Menico
+T141	PER 10718 10728	la vittima
+T142	PER 10771 10784	quell ' altro
+T143	PER 10837 10842	matto
+T144	PER 10845 10853	ubbriaco
+T145	PER 10914 10924	i tedeschi
+T146	PER 10938 10944	ognuno
+T147	PER 11024 11031	Ghegola
+T148	PER 11318 11328	brigatella
+T149	PER 11380 11386	l ' un
+T150	PER 11387 11396	l ' altro
+T151	PER 11472 11477	tutti
+T152	PER 11626 11633	Ghegola
+T153	FAC 11676 11684	casa sua
+T154	PER 11763 11768	tutti
+T155	PER 11805 11814	vigliacco
+T156	PER 11826 11833	Animale
+T157	PER 11905 11908	Dio
+T158	PER 12015 12022	Ghegola
+T159	FAC 12064 12071	il muro
+T160	PER 12115 12125	l ' Aimoni
+T161	FAC 12220 12224	casa
+T162	FAC 12248 12263	suo quartierino
+T163	PER 12288 12298	la padrona
+T164	FAC 12320 12335	camera da letto
+T165	PER 12480 12494	povero Ghegola
+T166	PER 12764 12774	l ' Aimoni
+T167	PER 12820 12833	quell ' altro

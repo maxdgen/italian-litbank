@@ -1,0 +1,132 @@
+T0	PER 12 17	Daria
+T1	LOC 24 33	Le stelle
+T2	LOC 41 49	il cielo
+T3	LOC 460 465	bosco
+T4	LOC 565 572	i campi
+T5	FAC 582 607	isolata casa del mulinaio
+T6	PER 599 607	mulinaio
+T7	PER 858 867	un orfano
+T8	PER 955 993	una comitiva di gente allegra e felice
+T9	LOC 1125 1130	mondo
+T10	LOC 1502 1510	il bosco
+T11	LOC 1530 1538	il fiume
+T12	LOC 1562 1566	rupi
+T13	LOC 1596 1603	il sole
+T14	FAC 1886 1891	tomba
+T15	LOC 1946 1964	correnti d ' acqua
+T16	LOC 1979 1997	notturne boscaglie
+T17	PER 2126 2133	un uomo
+T18	PER 2372 2399	Quest ' uomo , Carlo Clauss
+T19	FAC 2430 2441	casa nostra
+T20	PER 2560 2579	gli uomini timorati
+T21	PER 2725 2751	un parente morto o lontano
+T22	PER 2756 2765	mia madre
+T23	PER 2894 2904	un giovane
+T24	PER 3122 3133	un ammalato
+T25	PER 3139 3155	un convalescente
+T26	PER 3170 3186	un uomo bruciato
+T27	PER 3321 3333	Carlo Clauss
+T28	PER 3504 3511	nessuno
+T29	LOC 3605 3626	un paesaggio montuoso
+T30	PER 3717 3726	mio padre
+T31	GPE 3730 3739	una città
+T32	PER 3766 3775	tutti noi
+T33	GPE 3816 3822	patria
+T34	GPE 3850 3858	il paese
+T35	LOC 3951 3955	mare
+T36	PER 4000 4009	mia madre
+T37	PER 4062 4070	la Minni
+T38	PER 4133 4138	tutti
+T39	PER 4157 4166	Mia madre
+T40	PER 4271 4283	Carlo Clauss
+T41	PER 4288 4302	nostro parente
+T42	FAC 4349 4361	propria casa
+T43	FAC 4493 4504	la ferrovia
+T44	LOC 4528 4540	queste valli
+T45	LOC 4549 4556	il mare
+T46	PER 4696 4728	un servo creolo , bruno e canuto
+T47	PER 5284 5290	uomini
+T48	PER 5400 5409	mio padre
+T49	PER 5412 5421	mia madre
+T50	PER 5424 5436	Carlo Clauss
+T51	LOC 5483 5504	il paesaggio montuoso
+T52	FAC 5673 5682	un teatro
+T53	ORG 5759 5786	eserciti di bruni guerrieri
+T54	PER 6251 6260	Mia madre
+T55	PER 6460 6466	Clauss
+T56	PER 6522 6531	mio padre
+T57	PER 6607 6616	mio padre
+T58	PER 6758 6774	un figlio grande
+T59	PER 6825 6831	Clauss
+T60	PER 6924 6933	mia madre
+T61	PER 7084 7103	mia sorella Silvina
+T62	PER 7182 7187	tutti
+T63	PER 7251 7260	noi altri
+T64	LOC 7409 7413	sole
+T65	FAC 7426 7432	stanza
+T66	PER 7520 7526	Clauss
+T67	PER 7586 7595	mia madre
+T68	FAC 7618 7626	terrazza
+T69	FAC 7678 7686	terrazza
+T70	LOC 7724 7731	Il sole
+T71	LOC 7760 7768	il monte
+T72	LOC 7789 7796	pianura
+T73	PER 7822 7828	Clauss
+T74	LOC 7904 7912	montagne
+T75	PER 7999 8006	ragazzo
+T76	PER 8082 8093	mia persona
+T77	PER 8641 8649	La gente
+T78	PER 8660 8674	Questo ragazzo
+T79	PER 8704 8714	Un ragazzo
+T80	PER 8727 8737	un ragazzo
+T81	PER 8748 8758	un ragazzo
+T82	PER 8823 8836	quasi vecchio
+T83	PER 8977 8986	una donna
+T84	PER 9196 9202	Clauss
+T85	LOC 9217 9224	il sole
+T86	LOC 9275 9286	le montagne
+T87	LOC 9289 9316	le prime stelle , due o tre
+T88	LOC 9334 9339	cielo
+T89	PER 9441 9447	Clauss
+T90	PER 9630 9638	qualcuno
+T91	FAC 9716 9725	ringhiera
+T92	GPE 10013 10019	Karsan
+T93	PER 10022 10038	un servo giovane
+T94	PER 10045 10056	un meticcio
+T95	PER 10059 10084	un essere semplice e sano
+T96	PER 10087 10117	una creatura riccamente dotata
+T97	PER 10138 10147	fanciullo
+T98	FAC 10151 10161	una strada
+T99	FAC 10247 10254	cortile
+T100	PER 10326 10333	schiavi
+T101	PER 10339 10345	Sarkis
+T102	PER 10394 10399	pazzo
+T103	PER 10475 10481	Behela
+T104	PER 10486 10492	Behela
+T105	PER 10497 10532	una fanciulla della fattoria vicina
+T106	FAC 10517 10532	fattoria vicina
+T107	PER 10629 10635	Sarkis
+T108	PER 10866 10880	Un altro servo
+T109	PER 10971 10977	Sarkis
+T110	FAC 11056 11079	loro capanna di giunchi
+T111	PER 11093 11099	Behela
+T112	LOC 11143 11151	sorgente
+T113	LOC 11201 11212	il sentiero
+T114	PER 11269 11275	Behela
+T115	PER 11367 11373	Behela
+T116	PER 11386 11394	lo sposo
+T117	PER 11533 11542	l ' altro
+T118	PER 11682 11692	il padrone
+T119	PER 11713 11726	un forsennato
+T120	PER 11732 11738	Sarkis
+T121	PER 11810 11822	la tua sposa
+T122	PER 11987 11993	Clauss
+T123	PER 12277 12285	qualcuno
+T124	PER 12427 12439	quell ' uomo
+T125	FAC 12532 12537	corte
+T126	PER 12995 13000	tutti
+T127	PER 13036 13042	Clauss
+T128	PER 13073 13078	tutti
+T129	PER 13105 13111	Clauss
+T130	FAC 13141 13152	casa nostra
+T131	PER 13252 13264	soli insieme

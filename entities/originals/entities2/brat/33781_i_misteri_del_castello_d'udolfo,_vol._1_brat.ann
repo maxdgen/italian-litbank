@@ -1,0 +1,137 @@
+T0	LOC 17 37	sponde della Garonna
+T1	GPE 46 66	provincia di Guienna
+T2	FAC 95 123	il castello di Sant ' Aubert
+T3	GPE 157 195	i ricchi e fertili paesi della Guienna
+T4	LOC 223 231	il fiume
+T5	LOC 246 252	boschi
+T6	LOC 255 260	vigne
+T7	LOC 264 271	oliveti
+T8	LOC 344 351	Pirenei
+T9	LOC 361 365	cime
+T10	LOC 512 521	orizzonte
+T11	LOC 544 559	le loro pendici
+T12	LOC 629 649	Spaventosi precipizi
+T13	LOC 691 696	prati
+T14	LOC 705 710	selve
+T15	LOC 767 782	quelle voragini
+T16	FAC 830 849	capanne dei pastori
+T17	PER 842 849	pastori
+T18	LOC 852 879	Le pianure della Linguadoca
+T19	GPE 869 879	Linguadoca
+T20	LOC 942 955	l ' orizzonte
+T21	LOC 971 978	ponente
+T22	LOC 985 1013	acque del golfo di Guascogna
+T23	GPE 1004 1013	Guascogna
+T24	PER 1016 1029	Sant ' Aubert
+T25	PER 1051 1056	sposa
+T26	PER 1065 1071	figlia
+T27	LOC 1108 1128	sponde della Garonna
+T28	LOC 1191 1200	sue acque
+T29	ORG 1630 1640	la società
+T30	PER 1844 1876	un cadetto d ' illustre famiglia
+T31	PER 1882 1897	i suoi genitori
+T32	PER 1990 2011	qualche ricco partito
+T33	PER 2096 2109	Sant ' Aubert
+T34	PER 2302 2307	padre
+T35	PER 2314 2335	una fanciulla amabile
+T36	PER 2428 2437	suo padre
+T37	PER 2590 2622	Quesnel , fratello di sua moglie
+T38	PER 2612 2622	sua moglie
+T39	LOC 2640 2670	una piccola terra di Guascogna
+T40	GPE 2661 2670	Guascogna
+T41	LOC 2808 2820	questo luogo
+T42	PER 2960 2980	il vecchio contadino
+T43	LOC 3089 3106	Que ' verdi prati
+T44	LOC 3200 3208	i boschi
+T45	LOC 3401 3406	monti
+T46	LOC 3409 3416	i fiumi
+T47	LOC 3440 3466	le pianure vaste e immense
+T48	PER 3507 3520	Sant ' Aubert
+T49	LOC 3582 3595	questi luoghi
+T50	FAC 3747 3758	Il castello
+T51	PER 3808 3821	un forestiero
+T52	FAC 3956 3987	l ' abitazione d ' una famiglia
+T53	PER 3975 3987	una famiglia
+T54	PER 3990 4003	Sant ' Aubert
+T55	FAC 4055 4063	edificio
+T56	PER 4317 4338	signora Sant ' Aubert
+T57	FAC 4505 4518	La biblioteca
+T58	FAC 4553 4561	castello
+T59	FAC 4618 4637	Questo appartamento
+T60	LOC 4653 4665	un boschetto
+T61	LOC 4687 4701	un dolce clivo
+T62	LOC 4717 4722	fiume
+T63	GPE 4853 4867	il ricco paese
+T64	LOC 4929 4963	gli orribili precipizi dei Pirenei
+T65	FAC 4978 4988	biblioteca
+T66	FAC 4995 5006	un terrazzo
+T67	PER 5095 5108	Sant ' Aubert
+T68	LOC 5114 5128	i monti vicini
+T69	PER 5159 5170	naturalisti
+T70	PER 5269 5279	sua moglie
+T71	PER 5299 5305	figlia
+T72	FAC 5432 5451	capanne dei pastori
+T73	PER 5444 5451	pastori
+T74	LOC 5624 5649	menome opere della natura
+T75	LOC 5754 5758	rupi
+T76	LOC 5980 5988	montagne
+T77	LOC 6080 6112	l ' acque di una sorgente vicina
+T78	LOC 6182 6190	la terra
+T79	LOC 6235 6239	rupi
+T80	FAC 6257 6265	terrazzo
+T81	LOC 6276 6303	le pianure della Linguadoca
+T82	GPE 6293 6303	Linguadoca
+T83	FAC 6312 6334	il gabinetto di Emilia
+T84	PER 6328 6334	Emilia
+T85	PER 6667 6675	genitori
+T86	FAC 6738 6751	questa stanza
+T87	LOC 6782 6790	giardino
+T88	FAC 6806 6813	la casa
+T89	LOC 6948 6955	Garonna
+T90	PER 6958 6969	I contadini
+T91	LOC 7053 7069	sponde del fiume
+T92	FAC 7290 7298	castello
+T93	LOC 7357 7365	montagne
+T94	FAC 7390 7403	una gran sala
+T95	FAC 7406 7424	due comodi salotti
+T96	FAC 7427 7444	Il pian superiore
+T97	FAC 7488 7503	camere da letto
+T98	FAC 7511 7526	una sola stanza
+T99	FAC 7540 7555	un largo verone
+T100	PER 7650 7663	Sant ' Aubert
+T101	FAC 7668 7696	il teatro della sua infanzia
+T102	FAC 7783 7794	il castello
+T103	PER 7836 7849	Sant ' Aubert
+T104	LOC 7973 8025	un boschetto di faggi , di pini e di frassini alpini
+T105	FAC 8034 8050	un alto terrazzo
+T106	LOC 8068 8073	fiume
+T107	LOC 8317 8322	fiume
+T108	PER 8366 8377	la consorte
+T109	PER 8381 8392	i figliuoli
+T110	LOC 8423 8430	il sole
+T111	LOC 8445 8462	lontano orizzonte
+T112	PER 8648 8654	moglie
+T113	PER 8672 8686	i figliuoletti
+T114	LOC 8928 8933	mondo
+T115	LOC 9320 9329	le stelle
+T116	LOC 9352 9359	l ' una
+T117	LOC 9365 9374	l ' altra
+T118	LOC 9381 9387	spazio
+T119	LOC 9427 9432	acque
+T120	LOC 9566 9573	la luna
+T121	PER 9633 9646	Sant ' Aubert
+T122	PER 10039 10049	due maschi
+T123	PER 10177 10185	la sposa
+T124	PER 10364 10374	Una figlia
+T125	PER 10385 10403	la sua unica prole
+T126	PER 10964 10971	persone
+T127	PER 10998 11011	Sant ' Aubert
+T128	PER 11822 11828	Emilia
+T129	PER 11831 11860	Questa interessante fanciulla
+T130	PER 11877 11882	madre
+T131	PER 12203 12216	Sant ' Aubert
+T132	PER 12616 12629	Sant ' Aubert
+T133	LOC 13100 13108	campagna
+T134	GPE 13119 13124	città
+T135	LOC 13130 13138	campagna
+T136	GPE 13277 13282	città

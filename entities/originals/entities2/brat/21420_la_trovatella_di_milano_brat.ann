@@ -1,0 +1,135 @@
+T0	GPE 96 101	città
+T1	PER 111 154	Maria , la bella guantaia di Porta Vittoria
+T2	LOC 140 154	Porta Vittoria
+T3	FAC 176 190	il suo negozio
+T4	PER 262 275	gli avventori
+T5	PER 296 301	Maria
+T6	PER 899 904	Maria
+T7	PER 934 957	un individuo mascherato
+T8	LOC 980 1004	dalla parte del bastioni
+T9	FAC 1022 1029	negozio
+T10	PER 1065 1075	la giovine
+T11	PER 1179 1184	Maria
+T12	PER 1213 1226	l ' individuo
+T13	PER 1368 1378	la giovine
+T14	PER 1647 1652	Maria
+T15	PER 1697 1711	lo sconosciuto
+T16	PER 1973 1985	un fanciullo
+T17	PER 2028 2038	la giovine
+T18	PER 2100 2165	un ladro o qualche malfattore travestito , sorpreso dalle guardie
+T19	PER 2158 2165	guardie
+T20	PER 2185 2198	un mio nemico
+T21	FAC 2477 2489	retrobottega
+T22	FAC 2508 2512	casa
+T23	PER 2544 2552	la mamma
+T24	PER 2565 2579	povera vecchia
+T25	PER 2621 2636	giovane e bella
+T26	PER 2663 2669	alcuno
+T27	FAC 2686 2693	negozio
+T28	PER 2696 2701	Maria
+T29	PER 2779 2786	giovane
+T30	PER 2904 2911	I ladri
+T31	PER 2961 2969	qualcuno
+T32	PER 3080 3094	lo sconosciuto
+T33	PER 3250 3261	la guantaia
+T34	PER 3492 3497	Maria
+T35	PER 3550 3556	alcuno
+T36	PER 3631 3636	Maria
+T37	PER 3726 3735	mia madre
+T38	PER 3816 3823	signore
+T39	PER 3841 3851	la persona
+T40	FAC 4006 4015	la strada
+T41	PER 4174 4179	donna
+T42	FAC 4317 4329	retrobottega
+T43	PER 4347 4361	lo sconosciuto
+T44	PER 4455 4465	un vecchio
+T45	PER 4712 4719	Adriana
+T46	PER 4762 4767	Maria
+T47	PER 4783 4790	Signore
+T48	PER 5075 5080	Maria
+T49	PER 5103 5139	avventori giovani , belli , eleganti
+T50	PER 5142 5147	molti
+T51	PER 5282 5293	La guantaia
+T52	PER 5367 5373	alcuno
+T53	PER 5539 5550	sconosciuto
+T54	PER 6067 6088	una leggiadra ragazza
+T55	PER 6288 6295	nessuno
+T56	PER 6455 6460	Maria
+T57	PER 6565 6579	lo sconosciuto
+T58	PER 6706 6711	Maria
+T59	PER 6851 6861	il giovane
+T60	PER 6911 6918	signore
+T61	PER 6921 6935	Lo sconosciuto
+T62	PER 7023 7031	guantaia
+T63	FAC 7102 7109	istrada
+T64	PER 7126 7131	Maria
+T65	FAC 7493 7505	retrobottega
+T66	PER 7547 7554	giovane
+T67	FAC 7626 7678	camera da letto , l ' unica stanza di quel magazzino
+T68	FAC 7664 7678	quel magazzino
+T69	FAC 7781 7790	le pareti
+T70	FAC 7884 7902	un armadio di noce
+T71	FAC 8065 8071	camera
+T72	PER 8074 8079	Maria
+T73	PER 8265 8274	una donna
+T74	PER 8398 8403	Maria
+T75	PER 8568 8585	la bella guantaia
+T76	PER 8588 8597	Sua madre
+T77	PER 8796 8804	popolana
+T78	PER 8872 8890	il popolo milanese
+T79	PER 8982 8990	le donne
+T80	PER 9160 9181	la Luigia Battistotti
+T81	PER 9191 9196	Sassi
+T82	PER 9258 9267	fuciliere
+T83	LOC 9282 9285	vie
+T84	PER 9355 9368	i combattenti
+T85	PER 9371 9417	la Giuseppina Lazzeroni , una bella giovinetta
+T86	LOC 9430 9442	Ponte Vetero
+T87	PER 9443 9454	il fratello
+T88	PER 9528 9533	altri
+T89	PER 9571 9585	Annetta Durini
+T90	PER 9595 9603	compagna
+T91	PER 9607 9613	marito
+T92	LOC 9633 9658	porta Tosa , ora Vittoria
+T93	PER 9666 9688	il coraggioso popolano
+T94	PER 9706 9715	La moglie
+T95	PER 9897 9902	morto
+T96	PER 10030 10040	quel prode
+T97	PER 10120 10132	trasfigurata
+T98	PER 10135 10149	Annetta Durini
+T99	LOC 10608 10618	Porta Tosa
+T100	PER 10688 10700	una famiglia
+T101	PER 10735 10741	Croati
+T102	PER 10774 10786	un moribondo
+T103	PER 10960 10967	Annetta
+T104	PER 11006 11019	gli Austriaci
+T105	GPE 11070 11087	la città protetta
+T106	PER 11204 11218	prodi milanesi
+T107	PER 11269 11291	la coraggiosa popolana
+T108	FAC 11364 11378	sua abitazione
+T109	FAC 11384 11422	una di quelle poche case di Porta Tosa
+T110	LOC 11412 11422	Porta Tosa
+T111	PER 11564 11571	Annetta
+T112	FAC 11590 11601	quella casa
+T113	FAC 11704 11714	sue stanze
+T114	PER 11736 11742	marito
+T115	PER 11870 11879	un figlio
+T116	PER 11922 11931	un figlio
+T117	PER 11991 12005	eroico defunto
+T118	LOC 12025 12030	mondo
+T119	PER 12153 12163	sbalordita
+T120	FAC 12229 12233	vano
+T121	PER 12242 12282	una bambina di forse due anni o poco più
+T122	PER 12502 12509	Annetta
+T123	PER 12518 12532	la fanciullina
+T124	PER 12700 12711	la popolana
+T125	PER 12834 12841	Annetta
+T126	PER 12848 12862	la fanciullina
+T127	PER 13240 13251	La popolana
+T128	PER 13422 13432	la bambina
+T129	PER 13513 13526	Mamma , mamma
+T130	PER 13529 13536	Annetta
+T131	PER 13637 13647	la bambina
+T132	PER 13677 13682	Mamma
+T133	PER 13700 13712	la tua mamma
+T134	PER 13715 13719	cara

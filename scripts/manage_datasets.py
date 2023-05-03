@@ -217,17 +217,11 @@ def print_ann_number(dataset: dict, to_print: str):
         print(labels_type + ' = ' + str(sorted_occurrences[labels_type]) + '\t', end = '')
     print()
 
-# Print the number of all the annotations from both input datasets for each text
-def print_ann_number_for_texts(dataset1: dict, dataset2: dict = None):
+# Print the number of annotations of the dataset for each text
+def print_ann_number_for_texts(dataset: dict):
     cont = {}
-    for text in dataset1:
-        cont[text] = len(dataset1[text])
-    if dataset2:
-        for text in dataset2:
-            if text in cont:
-                cont[text] += len(dataset2[text])
-            else:
-                cont[text] = len(dataset2[text])
+    for text in dataset:
+        cont[text] = len(dataset[text])
     
     print('Below are the number of annotations for each text:')
     average = 0
@@ -273,26 +267,56 @@ def print_ann_number_for_levels(dataset: dict):
         print(':\t' + str(levels[level]) + '\t', end = '')
         if levels[level] < 1000:
             print('\t', end = '')
-        print(str('{:.3f}'.format((levels[level] / total) * 100)))
+        print(str('{:.3f}'.format((levels[level] / total) * 100)) + '%')
 
 # Analyse the two input datasets by printing the number of annotations they have in common and
 # the number of different annotations between them
 def analyse_datasets(dataset1: dict, name_dataset1: str, dataset2: dict, name_dataset2: str):
-    print_ann_number(get_occurrences(dataset1, dataset2), 'both datasets')
+    commons_dataset = get_occurrences(dataset1, dataset2)
+    print_ann_number(commons_dataset, 'both datasets')
+    print_ann_number_for_texts(commons_dataset)
     print()
     
     differents_dataset1 = get_occurrences(dataset1, dataset2, False)
     print_ann_number(differents_dataset1, (name_dataset1 + ' and absent in ' + name_dataset2))
     differents_dataset2 = get_occurrences(dataset2, dataset1, False)
     print_ann_number(differents_dataset2, (name_dataset2 + ' and absent in ' + name_dataset1))
-    print_ann_number_for_texts(differents_dataset1, differents_dataset2)
-    print()
+    for text in differents_dataset2:
+        for annotation in differents_dataset2[text]:
+            differents_dataset1[text].append(annotation)
+    sort_dataset(differents_dataset1)
+    print_ann_number_for_texts(differents_dataset1)
 
 # Analyse the input dataset by printing the number of annotations
 def analyse_dataset(dataset: dict):
     print_ann_number(dataset, 'the fused dataset')
     print_ann_number_for_texts(dataset)
     print_ann_number_for_levels(dataset)
+
+# Make the jsonl file for the dataset
+def make_jsonl(input_folders_name: str, dataset: dict):
+    texts = {}
+    for filename in os.listdir(input_folders_name):
+        if filename[-3 :] == 'txt':
+            with open(input_folders_name + '\\' + filename, 'rt', encoding = 'utf-8') as file:
+                texts[filename[0 : -3] + 'ann'] = file.read()
+    
+    with open(input_folders_name[0 : -4] + 'annotations.jsonl', 'wt', encoding = 'utf-8') as file:
+        i = 0
+        for text in dataset:
+            i += 1
+            file.write('{"id":' + str(i) + ',')
+            file.write('"text":"' + texts[text].replace('\n', '\\n') + '",')
+            file.write('"label":[')
+            j = 0
+            for annotation in dataset[text]:
+                file.write('[' + str(annotation['label']['first']) + ',')
+                file.write(str(annotation['label']['last']) + ',')
+                file.write('"' + annotation['label']['name'] + '"]')
+                if j < len(dataset[text]) - 1:
+                    file.write(',')
+                j += 1
+            file.write('],"Comments":[]}\n')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -306,6 +330,7 @@ if __name__ == '__main__':
     annotated_dataset2 = read_ann_from_files(args.dir_dataset2)
     
     analyse_datasets(annotated_dataset1, args.dir_dataset1.split('/')[-2], annotated_dataset2, args.dir_dataset2.split('/')[-2])
+    print()
     
     definite_articles = ['Il ', 'il ', 'Lo ', 'lo ', 'La ', 'la ', 'I ', 'i ', 'Gli ', 'gli ',
                          'Le ', 'le ', "L ' ", "l ' "]
@@ -337,3 +362,5 @@ if __name__ == '__main__':
     fused_dataset = read_ann_from_files(args.dir_dataset)
     
     analyse_dataset(fused_dataset)
+    
+    #make_jsonl(args.dir_dataset, fused_dataset)

@@ -1,0 +1,199 @@
+T0	PER 16 23	Carmela
+T1	PER 36 44	la madre
+T2	LOC 129 149	una viuzza di Napoli
+T3	GPE 143 149	Napoli
+T4	LOC 181 185	sole
+T5	PER 195 214	il padre , Giovanni
+T6	GPE 224 232	la città
+T7	FAC 356 360	casa
+T8	GPE 484 492	la città
+T9	PER 495 502	Carmela
+T10	LOC 527 549	sua buia stradicciuola
+T11	PER 575 601	qualche bimbo del vicinato
+T12	LOC 682 686	sole
+T13	FAC 978 982	casa
+T14	PER 1046 1054	il padre
+T15	FAC 1063 1067	casa
+T16	PER 1107 1148	una bella donna , bianca , rossa e grassa
+T17	PER 1189 1201	Questa donna
+T18	PER 1213 1218	mamma
+T19	PER 1294 1301	Carmela
+T20	PER 1326 1334	la donna
+T21	PER 1371 1378	nessuno
+T22	PER 1410 1432	un vero mostriciattolo
+T23	PER 1444 1452	la donna
+T24	PER 1480 1487	bambina
+T25	PER 1629 1637	Giovanni
+T26	PER 1656 1662	moglie
+T27	PER 1671 1675	Anna
+T28	PER 1688 1700	quella bimba
+T29	PER 1719 1724	mamma
+T30	PER 1770 1778	Giovanni
+T31	PER 1913 1920	Carmela
+T32	PER 1987 2018	Anna , amante dei propri comodi
+T33	PER 2202 2208	marito
+T34	PER 2217 2223	vicine
+T35	FAC 2352 2361	le stanze
+T36	PER 2403 2411	la bimba
+T37	PER 2492 2499	Carmela
+T38	FAC 2577 2581	casa
+T39	PER 2582 2598	un ' altra bimba
+T40	PER 2603 2610	Carmela
+T41	PER 2640 2649	bambinaia
+T42	PER 2674 2690	la sua sorellina
+T43	PER 2718 2726	la bimba
+T44	PER 2774 2781	Carmela
+T45	PER 2992 2997	padre
+T46	PER 3021 3029	matrigna
+T47	PER 3116 3179	Giovanni , innamorato della moglie al punto d ' esserne schiavo
+T48	PER 3144 3150	moglie
+T49	PER 3242 3251	Graziella
+T50	FAC 3336 3340	casa
+T51	PER 3368 3428	Carmela buona , dolce , ma sempre triste , muta e rassegnata
+T52	PER 3445 3454	Graziella
+T53	FAC 3574 3578	casa
+T54	PER 3579 3589	i genitori
+T55	PER 3607 3617	una regina
+T56	PER 3730 3738	la mamma
+T57	LOC 3801 3813	riva al mare
+T58	PER 3832 3845	altri ragazzi
+T59	PER 3859 3866	Carmela
+T60	FAC 3876 3880	casa
+T61	PER 3915 3926	Cenerentola
+T62	FAC 4026 4039	stradicciuola
+T63	PER 4086 4094	la madre
+T64	LOC 4227 4231	sole
+T65	PER 4271 4279	famiglia
+T66	PER 4282 4289	Carmela
+T67	PER 4315 4355	un solo amico : il figlio d ' una vicina
+T68	PER 4345 4355	una vicina
+T69	LOC 4374 4387	stessa viuzza
+T70	PER 4399 4406	bambino
+T71	PER 4477 4484	Gennaro
+T72	PER 4507 4522	la signora Anna
+T73	PER 4549 4556	Carmela
+T74	FAC 4599 4609	sua scuola
+T75	PER 4627 4635	compagni
+T76	LOC 4668 4676	campagna
+T77	LOC 4683 4687	mare
+T78	PER 4716 4726	Pulcinella
+T79	PER 4897 4904	Gennaro
+T80	PER 4958 4966	il mozzo
+T81	VEH 4973 4986	un bastimento
+T82	LOC 5029 5037	il mondo
+T83	PER 5063 5071	marinaio
+T84	PER 5113 5120	Carmela
+T85	GPE 5200 5205	paesi
+T86	PER 5240 5253	altre bambine
+T87	PER 5292 5298	brutta
+T88	PER 5417 5424	Carmela
+T89	PER 5454 5465	sua persona
+T90	PER 5520 5529	suo amico
+T91	PER 5748 5759	la matrigna
+T92	PER 5778 5795	un mostriciattolo
+T93	PER 5826 5833	Gennaro
+T94	PER 5853 5862	Graziella
+T95	PER 6013 6023	la sorella
+T96	PER 6234 6242	il babbo
+T97	PER 6355 6364	Graziella
+T98	PER 6402 6410	Giovanni
+T99	PER 6416 6422	moglie
+T100	PER 6461 6470	una bimba
+T101	PER 6487 6491	Anna
+T102	PER 6536 6545	una sarta
+T103	FAC 6657 6661	casa
+T104	PER 6684 6693	vanerella
+T105	PER 6696 6703	Carmela
+T106	PER 6744 6753	Graziella
+T107	PER 6759 6781	un essere privilegiato
+T108	PER 6849 6860	una bambola
+T109	PER 6988 6997	Graziella
+T110	PER 7062 7069	Carmela
+T111	PER 7107 7115	la mamma
+T112	PER 7157 7165	il babbo
+T113	FAC 7297 7301	casa
+T114	PER 7317 7322	madre
+T115	PER 7345 7353	Giovanni
+T116	PER 7390 7397	Carmela
+T117	FAC 7469 7476	la casa
+T118	PER 7489 7493	Anna
+T119	PER 7496 7505	Graziella
+T120	PER 7539 7554	una loro vicina
+T121	GPE 7610 7615	città
+T122	PER 7667 7675	Giovanni
+T123	FAC 7846 7850	casa
+T124	LOC 7885 7888	via
+T125	FAC 7905 7912	il muro
+T126	PER 7937 7943	vicini
+T127	PER 8010 8018	Giovanni
+T128	PER 8062 8074	le due donne
+T129	PER 8113 8123	il dottore
+T130	PER 8182 8186	Anna
+T131	PER 8201 8210	il marito
+T132	FAC 8217 8225	ospedale
+T133	PER 8338 8350	padronissima
+T134	PER 8414 8427	qualche santo
+T135	PER 8473 8482	Graziella
+T136	PER 8494 8498	Anna
+T137	PER 8638 8645	Carmela
+T138	PER 8671 8677	brutta
+T139	PER 8680 8684	Anna
+T140	PER 8785 8790	tutti
+T141	PER 8826 8835	tuo padre
+T142	PER 8954 8958	Anna
+T143	PER 9006 9015	il marito
+T144	PER 9030 9039	Graziella
+T145	FAC 9108 9112	casa
+T146	GPE 9122 9129	Portici
+T147	PER 9139 9158	una vecchia parente
+T148	PER 9161 9168	Carmela
+T149	PER 9205 9213	ammalato
+T150	PER 9274 9284	il dottore
+T151	PER 9364 9376	vostro padre
+T152	PER 9557 9566	mio padre
+T153	PER 9735 9749	povero infermo
+T154	PER 9773 9781	il padre
+T155	PER 9953 9959	alcuno
+T156	PER 9969 9974	tutti
+T157	FAC 9985 9997	la loro casa
+T158	PER 10069 10084	padre delirante
+T159	PER 10306 10324	il povero Giovanni
+T160	PER 10377 10384	Carmela
+T161	PER 10405 10410	santa
+T162	PER 10556 10575	la povera figliuola
+T163	PER 10632 10640	la madre
+T164	PER 10644 10653	Graziella
+T165	PER 10684 10696	l ' ammalato
+T166	PER 10750 10758	Giovanni
+T167	PER 10829 10839	sua figlia
+T168	PER 10862 10868	moglie
+T169	PER 10874 10883	Graziella
+T170	PER 10896 10903	Carmela
+T171	PER 11114 11122	le altre
+T172	PER 11183 11190	Carmela
+T173	PER 11238 11247	Graziella
+T174	PER 11355 11363	Giovanni
+T175	PER 11396 11402	moglie
+T176	PER 11415 11430	altra figliuola
+T177	PER 11455 11462	Carmela
+T178	GPE 11581 11589	la città
+T179	FAC 11676 11683	la casa
+T180	PER 11704 11712	Giovanni
+T181	PER 11731 11735	Anna
+T182	PER 11768 11772	Anna
+T183	PER 11789 11796	Carmela
+T184	PER 11829 11838	il marito
+T185	FAC 11862 11866	casa
+T186	PER 11874 11883	Graziella
+T187	PER 11937 11949	la figliuola
+T188	PER 11971 11979	Giovanni
+T189	PER 12003 12009	moglie
+T190	PER 12077 12091	quest ' angelo
+T191	PER 12170 12177	Carmela
+T192	FAC 12210 12221	questa casa
+T193	PER 12282 12291	la figlia
+T194	PER 12315 12323	matrigna
+T195	PER 12351 12359	Giovanni
+T196	LOC 12401 12405	mare
+T197	ORG 12419 12445	una compagnia di pescatori
+T198	PER 12506 12513	Carmela

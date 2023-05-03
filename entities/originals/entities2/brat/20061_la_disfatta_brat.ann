@@ -1,0 +1,131 @@
+T0	PER 4 23	La contessa Ginevra
+T1	PER 68 82	vecchio medico
+T2	FAC 217 243	casa del marchese Roderigi
+T3	PER 226 243	marchese Roderigi
+T4	PER 299 322	Qualcuno degli invitati
+T5	PER 430 447	Il dottor Ambrosi
+T6	PER 512 531	la contessa Ginevra
+T7	PER 594 602	un amico
+T8	PER 658 691	un bel vecchio alto , quasi calvo
+T9	PER 931 935	Bice
+T10	FAC 990 1000	sua camera
+T11	PER 1003 1008	Tutti
+T12	PER 1029 1039	il dottore
+T13	PER 1096 1104	contessa
+T14	PER 1231 1235	Bice
+T15	PER 1587 1606	La contessa Ginevra
+T16	PER 1647 1652	molti
+T17	PER 1655 1722	la contessa Ghigi , una dama di cinquant ' anni , ossuta , nerastra
+T18	PER 2083 2092	un ometto
+T19	PER 2239 2284	un altro vecchio , calvo sino quasi alla nuca
+T20	PER 2517 2533	contessa Ginevra
+T21	PER 2534 2539	tutti
+T22	PER 2551 2561	il dottore
+T23	PER 2610 2615	tutti
+T24	PER 2932 2951	il tenente Lamberto
+T25	PER 3019 3026	nessuno
+T26	PER 3045 3062	la contessa Ghigi
+T27	PER 3161 3175	contessa Maria
+T28	PER 3419 3427	un amico
+T29	PER 3430 3442	Contessa mia
+T30	PER 3459 3466	Ginevra
+T31	PER 3485 3504	il tenente Lamberto
+T32	PER 3538 3552	la povera Bice
+T33	PER 3569 3595	il vecchietto tutto rasato
+T34	PER 3650 3661	una ragazza
+T35	PER 3687 3693	Giorgi
+T36	PER 3758 3776	mio grande maestro
+T37	PER 3835 3843	Lamberto
+T38	PER 3927 3946	la contessa Ginevra
+T39	PER 4051 4059	Lamberto
+T40	PER 4164 4173	contadino
+T41	PER 4331 4343	un individuo
+T42	PER 4412 4430	il grasso Prinetti
+T43	PER 4490 4497	dottore
+T44	PER 4785 4793	l ' uomo
+T45	PER 5067 5075	Lamberto
+T46	GPE 5096 5100	Roma
+T47	ORG 5106 5117	una società
+T48	PER 5267 5281	la nostra Bice
+T49	PER 5405 5409	Bice
+T50	PER 5518 5526	la gente
+T51	PER 5584 5589	Tutti
+T52	FAC 5674 5681	salotto
+T53	PER 5756 5775	la contessa Ginevra
+T54	PER 5842 5852	il dottore
+T55	FAC 5875 5885	Il salotto
+T56	PER 5999 6012	gl ' invitati
+T57	PER 6035 6045	la padrona
+T58	PER 6087 6101	i vecchi amici
+T59	PER 6190 6204	stesse persone
+T60	PER 6296 6303	dottore
+T61	PER 6488 6507	la contessa Ginevra
+T62	PER 6565 6571	Giorgi
+T63	PER 6614 6631	la contessa Ghigi
+T64	PER 6682 6690	Prinetti
+T65	PER 6856 6866	il dottore
+T66	FAC 7054 7063	le pareti
+T67	FAC 7148 7159	il soffitto
+T68	FAC 7203 7233	un cornicione a stucchi dorati
+T69	FAC 7258 7274	i tavoli da muro
+T70	FAC 7330 7336	pareti
+T71	PER 7668 7687	La contessa Ginevra
+T72	PER 7704 7714	il dottore
+T73	PER 7805 7812	badessa
+T74	PER 8461 8466	donna
+T75	PER 9074 9091	La contessa Maria
+T76	FAC 9121 9127	camera
+T77	PER 9163 9167	Bice
+T78	PER 9205 9215	il dottore
+T79	PER 9285 9295	il Signore
+T80	PER 9580 9589	La bestia
+T81	PER 9600 9608	contessa
+T82	PER 9611 9621	le bigotte
+T83	PER 9731 9739	Prinetti
+T84	PER 9801 9805	Bice
+T85	PER 9854 9868	nessuno di noi
+T86	PER 9932 9943	Tchaikowski
+T87	ORG 9981 9986	Liceo
+T88	PER 9998 10004	Giorgi
+T89	PER 10010 10038	Gasperini , il bibliotecario
+T90	PER 10115 10122	dottore
+T91	PER 10129 10137	Prinetti
+T92	PER 10176 10184	Prinetti
+T93	PER 10198 10204	Giorgi
+T94	PER 10317 10324	dottore
+T95	PER 10329 10333	Bice
+T96	PER 10377 10394	la contessa Maria
+T97	PER 10400 10416	contessa Ginevra
+T98	PER 10443 10452	De Nittis
+T99	PER 10479 10483	Bice
+T100	PER 10495 10502	dottore
+T101	PER 10601 10618	La contessa Maria
+T102	PER 10782 10789	Ginevra
+T103	PER 10967 10973	Giorgi
+T104	PER 10983 10999	Prinetti , miope
+T105	FAC 11099 11106	salotto
+T106	PER 11267 11281	contessa Maria
+T107	PER 11304 11314	il dottore
+T108	PER 11627 11631	Bice
+T109	PER 11648 11669	La ragazza , delicata
+T110	PER 11771 11779	Lamberto
+T111	PER 11911 11919	Lamberto
+T112	PER 11950 11954	Bice
+T113	PER 12257 12267	il dottore
+T114	PER 12281 12297	contessa Ginevra
+T115	FAC 12323 12335	quel salotto
+T116	PER 12358 12378	contatti inevitabili
+T117	PER 12400 12406	medico
+T118	PER 12460 12479	medico materialista
+T119	PER 12600 12606	Giorgi
+T120	PER 12609 12617	Prinetti
+T121	PER 12660 12666	Giorgi
+T122	PER 12689 12697	Prinetti
+T123	PER 12712 12719	l ' uno
+T124	PER 12875 12878	Dio
+T125	PER 12881 12890	l ' altro
+T126	GPE 12949 12955	Africa
+T127	PER 13002 13030	viaggiatore e soldato eroico
+T128	PER 13167 13193	nessun osservatore volgare
+T129	PER 13273 13311	due anime aristocraticamente superiori
+T130	PER 13419 13430	due signore

@@ -1,0 +1,2222 @@
+10502_due_sposi_in_viaggio_brat.ann:
+T3	LOC 251 265	cime dei monti
+T6	PER 512 524	fanciulletta
+T7	LOC 613 630	schiena dei monti
+T8	LOC 658 670	pascoli rasi
+T10	FAC 795 803	giardini
+T16	PER 1607 1614	inglese
+T30	PER 2547 2554	Josafat
+T34	GPE 2884 2893	provincia
+T44	LOC 4328 4347	Quelle rive strette
+T44	LOC 4634 4667	pratello largo come un fazzoletto
+T52	LOC 4989 4996	pascoli
+T60	LOC 5630 5647	creste disabitate
+T70	VEH 6744 6750	barche
+T74	PER 6876 6883	Paolina
+T84	FAC 7227 7246	Trattoria Americana
+T86	PER 7364 7442	signore , un vero gentiluomo , pulito e cortese come un buon padre di famiglia
+T87	FAC 7479 7488	Americana
+T88	FAC 7491 7500	Americana
+T94	VEH 7649 7672	imperiale di un omnibus
+T93	FAC 7710 7719	Americana
+T99	FAC 8125 8145	grand Hôtel Bellagio
+T101	FAC 8152 8159	albergo
+T103	FAC 8235 8262	gran giardino all ' inglese
+T113	FAC 9146 9155	Americana
+T114	FAC 9194 9201	albergo
+T120	FAC 9766 9775	Americana
+T121	FAC 10027 10036	Americana
+T127	FAC 10768 10777	Americana
+T129	FAC 10856 10863	albergo
+
+11492_il_tenente_dei_lancieri_-_romanzo_brat.ann:
+T3	FAC 100 107	negozio
+T4	PER 131 202	unica figlia del Monghisoni : la signora Maddalena , maritata Trebeschi
+T5	PER 148 158	Monghisoni
+T7	VEH 372 376	nave
+T11	FAC 707 714	fondaco
+T17	PER 1082 1090	facchini
+T20	FAC 1329 1336	fondaco
+T24	FAC 1678 1686	Ricovero
+T29	PER 1913 1927	unico al mondo
+T25	PER 1973 1992	fiore di galantuomo
+T33	PER 2216 2236	bel pezzo di donnone
+T39	PER 2836 2870	marito il signor Daniele Trebeschi
+T40	PER 2980 3008	più brutto dei suoi commessi
+T44	PER 3235 3281	più attivo , il più diligente , il più pratico
+T48	PER 3722 3728	marito
+T52	FAC 4079 4151	scrittoio , un bugigattolo , in un angolo del primo camerone del fondaco
+T46	FAC 4125 4151	primo camerone del fondaco
+T55	PER 4605 4636	tanti babbei , tanti mangiapane
+T50	ORG 4827 4832	ditta
+T58	PER 4994 5024	suo banchiere o corrispondente
+T61	PER 5289 5295	marito
+T64	FAC 5505 5514	scrittoio
+T69	PER 6033 6063	quel pover ' uomo di suo padre
+T60	FAC 6093 6097	casa
+T76	PER 6839 6863	quel bonomo di mio padre
+T69	ORG 6900 6905	ditta
+T73	FAC 7416 7420	casa
+T74	PER 7426 7462	vecchio portinaio di via San Barnaba
+T88	FAC 8269 8278	scrittoio
+T108	PER 9565 9568	uno
+T109	PER 9580 9593	quest ' altro
+T115	PER 9866 9905	altro perticone dinoccolato , arruffato
+T127	PER 10879 10882	due
+T134	PER 11398 11449	nipote del signor Trebeschi : la signorina Cammilla
+T124	PER 11509 11527	giovane personcina
+T136	PER 11711 11786	Uno solo , l ' ultimo dei Trebeschi , Giacomino , alto , sottile , elegante
+T140	PER 11933 11938	mamma
+T132	PER 12223 12232	Giacomino
+T136	PER 12679 12691	Tutti quanti
+T138	PER 12831 12836	altri
+
+11724_roberta_brat.ann:
+T10	PER 879 886	ambedue
+T20	PER 1686 1692	medici
+T30	PER 3269 3286	cameriera accorsa
+T29	FAC 4352 4362	sua camera
+T47	PER 6385 6397	Walter Scott
+T48	PER 6403 6422	ultimi autori russi
+T50	PER 6523 6609	fanciulla tipica , angariata e deliziata dai sogni un po ' umoristici del romanticismo
+T53	ORG 6794 6802	collegio
+T54	PER 7630 7635	altri
+T63	PER 7673 7680	benigni
+T66	FAC 8022 8039	fianco della casa
+T68	LOC 8167 8186	collana d ' uliveti
+T75	PER 8948 8952	cara
+T82	FAC 10007 10020	case tragiche
+T94	PER 11778 11782	cara
+T105	PER 13168 13189	vecchia razza esausta
+T107	PER 13310 13362	due creature incatenate da vincoli legali e fittizii
+T94	PER 13365 13372	Roberta
+
+17035_il_principe_della_marsiliana_-_romanzo_romano_brat.ann:
+T1	LOC 48 58	Trastevere
+T6	LOC 479 510	piazzetta davanti all ' osteria
+T8	PER 519 555	molti uomini aggruppati a capannelli
+T10	PER 608 627	classe dei bottegai
+T11	PER 766 814	altri invece appartenevano al ceto dei cittadini
+T13	PER 839 852	popolo minuto
+T15	PER 1041 1101	giovinotto sbarbato e vestito correttamente di saia turchina
+T24	PER 1475 1488	tre o quattro
+T29	LOC 1674 1691	piazza Rusticucci
+T30	PER 1727 1749	liberali di quel rione
+T34	FAC 1849 1869	San Francesco a Ripa
+T35	PER 1884 1897	sor Fabio mio
+T40	PER 2172 2180	liberale
+T40	LOC 2184 2195	Campidoglio
+T43	ORG 2307 2339	fratelloni dell ' Angelo Custode
+T48	PER 2547 2623	uomo alto con una lunga barba e due occhi mansueti come quelli di un agnello
+T50	PER 2768 2777	Garibaldi
+T54	PER 2897 2909	questa gente
+T62	PER 3181 3198	liberale schietto
+T72	PER 3563 3585	tutti in casa Grimaldi
+T75	PER 3577 3585	Grimaldi
+T78	LOC 3690 3700	Trastevere
+T82	GPE 3982 3992	Marsiliana
+T84	FAC 4176 4180	casa
+T93	GPE 4559 4569	Marsiliana
+T96	PER 4657 4675	guardaportone alto
+T101	VEH 4891 4898	phaéton
+T109	FAC 5428 5442	ampia galleria
+T114	FAC 5864 5871	palazzo
+T118	FAC 5938 5973	due stanze che guardavano sul Corso
+T120	PER 6008 6066	tutte le persone che non erano presentate alla principessa
+T123	ORG 6114 6122	comitati
+T125	GPE 6171 6181	Marsiliana
+T124	PER 6237 6247	presidente
+T132	FAC 6635 6643	galleria
+T133	PER 6726 6782	cameriere di fiducia del principe , un francese sbarbato
+T134	PER 6751 6759	principe
+T137	FAC 6939 6982	salottino precedente la camera del principe
+T149	ORG 7916 7929	Muzio Scevola
+T151	LOC 8006 8016	Trastevere
+T171	GPE 8783 8795	Santa Rufina
+T170	PER 9271 9291	uno si chiama Urbani
+T175	ORG 10158 10165	osteria
+T183	PER 10286 10292	marito
+T178	ORG 10327 10340	Muzio Scevola
+T181	PER 10568 10576	deputato
+T183	PER 10670 10677	padrone
+T184	PER 10782 10789	custode
+T196	VEH 11344 11351	phaéton
+T194	FAC 11399 11406	palazzo
+T197	VEH 11435 11442	phaéton
+T195	LOC 11458 11489	piazzetta dinanzi all ' osteria
+T224	PER 12961 12988	signor Caruso , giornalista
+T227	GPE 13168 13178	Marsiliana
+T224	PER 13201 13232	due rappresentanti della stampa
+T225	ORG 13226 13232	stampa
+
+19060_l'imperfetto_amante_brat.ann:
+T2	PER 151 179	donna assolutamente infelice
+T5	PER 577 584	villano
+T4	PER 826 862	persona al mondo che egli più odiava
+T9	PER 1129 1134	donna
+T15	PER 1870 1902	uomo violento e perverso insieme
+T21	PER 2776 2794	due uomini insieme
+T29	PER 5955 5982	qualcuno che mi voleva bene
+T41	PER 6790 6798	sua Anna
+T36	PER 7617 7674	persone che molto soffrono , che molto temono di soffrire
+T41	PER 9125 9142	uomo che mi amava
+T51	PER 9647 9651	cara
+T53	PER 10341 10345	cara
+T62	PER 11486 11490	cara
+T64	PER 12730 12740	mio amante
+T65	PER 12766 12772	amante
+
+19427_galatea_brat.ann:
+T6	LOC 1082 1099	mondo circostante
+T10	PER 1623 1633	principale
+T12	PER 1817 1852	quattro o cinque vicini nella calca
+T13	PER 1847 1891	calca dove ci ha ficcati il nostro mal genio
+T14	LOC 1943 1948	mondo
+T10	PER 2160 2167	usciere
+T20	GPE 2821 2838	bello italo regno
+T22	PER 3097 3144	tutta una cittadinanza " dipinta di cordoglio "
+T23	PER 3163 3169	cortèo
+T29	FAC 3528 3557	mio ripostiglio di nottetempo
+T27	PER 4022 4037	donna anche lei
+T38	LOC 4757 4762	mondo
+T39	PER 4777 4786	sensitivi
+T47	LOC 5161 5165	lawn
+T51	LOC 5366 5371	balze
+T45	LOC 5458 5473	Questa campagna
+T55	LOC 5647 5664	dirupi minacciosi
+T49	PER 6052 6068	mio Don Giovanni
+T50	LOC 6455 6460	campo
+T59	FAC 6472 6486	strada maestra
+T65	PER 7264 7304	inglesina dei miei sogni d ' adolescente
+T68	VEH 7491 7571	grossa berlina a tre cavalli , coi bauli dietro e il postiglione alto a cassetta
+T66	PER 7987 8001	Cara inglesina
+T78	PER 8321 8324	Sir
+T84	PER 8804 8830	più fastidiosa tra le dame
+T80	GPE 9209 9225	Questo villaggio
+T82	PER 9533 9561	popolo saggio , i Corsennati
+T94	FAC 9907 9912	ponte
+T96	PER 10166 10202	passeggeri che soffrono di vertigini
+T85	LOC 10379 10398	Pozze e pozzanghere
+T100	LOC 10458 10464	sponda
+T101	LOC 10488 10550	fosserello addormentato sotto la frasca sporgente dei frassini
+T102	LOC 10555 10570	qualche tonfano
+T103	LOC 10721 10750	tutti quei Nianza e Tanganica
+T104	LOC 10811 10816	greto
+T105	PER 11014 11020	Venere
+T106	PER 11114 11133	proprietarii di qui
+T89	PER 11216 11223	diavolo
+T95	LOC 11481 11486	vette
+T99	PER 11688 11693	poeta
+T109	LOC 12202 12217	Quel gran viale
+T111	LOC 12274 12279	conca
+
+19430_la_principessa_brat.ann:
+T1	FAC 109 126	parco di Montrone
+T2	GPE 118 126	Montrone
+T21	GPE 808 816	Montrone
+T24	LOC 914 921	Oriente
+T22	PER 1009 1017	generale
+T28	GPE 1097 1105	Montrone
+T31	PER 1332 1339	Falcone
+T34	PER 1535 1540	tutti
+T41	PER 1778 1793	uni e gli altri
+T43	FAC 1893 1900	granaio
+T45	PER 2012 2017	altri
+T48	PER 2364 2375	personaggio
+T52	PER 2411 2437	alcuni non privi d ' acume
+T58	PER 2921 2949	tutte e due rigide e pallide
+T63	PER 2969 2979	sagrestano
+T64	FAC 3366 3401	cappella entro il parco di Montrone
+T70	FAC 3384 3401	parco di Montrone
+T71	GPE 3393 3401	Montrone
+T74	FAC 3516 3521	parco
+T73	PER 3696 3702	vedovo
+T91	FAC 4355 4360	parco
+T94	FAC 4512 4517	parco
+T95	PER 4570 4580	indiscreti
+T100	PER 4843 4889	parecchie diecine di ragazze vestite di bianco
+T102	PER 4977 4982	altri
+T119	PER 6004 6044	molti signori , amici e parenti del duca
+T121	PER 6065 6070	altri
+T126	PER 6153 6220	avvocato del duca , fra i più reputati di Napoli , Maurizio Cotella
+T131	PER 6464 6469	messo
+T139	PER 6747 6763	tutta la persona
+T143	FAC 7033 7053	camera di sua figlia
+T149	FAC 7322 7343	ufficio molto lucroso
+T163	FAC 7908 7941	più grandi alberghi di New - York
+T162	ORG 8007 8038	giornale , l ' Evening Standard
+T174	PER 8288 8326	principi che si trovavano di passaggio
+T177	PER 8423 8465	famosa avventuriera italiana : la Barrucci
+T179	PER 8555 8599	principessa di Morella , cugina dei Montrone
+T184	PER 8765 8774	sua nonna
+T214	PER 10749 10764	nonna di Parigi
+T216	PER 10773 10786	zia di Genova
+T228	GPE 11727 11735	Montrone
+T236	PER 12078 12115	primi a stringere la mano al valoroso
+T237	PER 12107 12164	valoroso , all ' antico compagno di eleganti dissipazioni
+T248	PER 12589 12593	duca
+T251	PER 12971 12978	bambino
+T258	PER 13522 13539	creatura malefica
+
+19442_il_fallo_d'una_donna_onesta_brat.ann:
+T3	PER 189 204	Cara Teresa mia
+T4	PER 447 450	una
+T5	PER 458 463	altra
+T4	PER 510 526	Mio figlio Guido
+T5	PER 532 545	piccolo Guido
+T7	PER 554 611	quello che quasi ventidue anni or sono hai visto in fasce
+T7	FAC 703 730	Accademia navale di Livorno
+T10	VEH 756 764	vascello
+T13	FAC 920 939	arsenale di Venezia
+T18	PER 1147 1174	bel giovinotto alto , agile
+T27	PER 2082 2093	qualcheduno
+T30	PER 2301 2306	altri
+T31	PER 2316 2344	parenti , amici , conoscenti
+T32	PER 2351 2377	tutti o morti , o dispersi
+T43	PER 3018 3056	codeste vostre signore , dame e pedine
+T50	FAC 3271 3284	caffè Florian
+T52	PER 3522 3543	brava persona , ricco
+T55	PER 3769 3777	famiglia
+T57	FAC 3852 3865	medesima casa
+T59	PER 3938 3944	malato
+T63	PER 4238 4246	famiglia
+T64	PER 4292 4322	seconda cugina , una Del Monte
+T70	PER 4802 4811	tua MARIA
+T72	FAC 4885 4893	arsenale
+T83	GPE 6466 6471	Reana
+T82	PER 6519 6579	dottor Pozzi , il vecchio medico che la conosceva da bambina
+T88	ORG 6641 6648	società
+T92	GPE 6851 6859	Mogliano
+T95	PER 7120 7125	altri
+T100	GPE 7494 7499	Reana
+T114	PER 8839 8848	sua amica
+T117	PER 9398 9404	infame
+T110	PER 9890 9899	fanciullo
+T111	PER 10097 10111	povero ragazzo
+T112	PER 10245 10254	colpevole
+T122	PER 11892 11916	Angelo , angelo , angelo
+T133	GPE 12380 12385	Reana
+T137	GPE 12624 12629	Reana
+T129	PER 12976 12983	brutale
+
+19887_il_trionfo_di_lulù_brat.ann:
+T12	PER 969 976	bambina
+T15	FAC 1578 1585	tribuna
+T23	PER 2784 2802	signor Montefranco
+T32	PER 3333 3342	uomo così
+T34	PER 3890 3894	cara
+T43	PER 4785 4801	cattiva creatura
+T44	PER 4820 4830	galantuomo
+T50	PER 5027 5031	cara
+T69	PER 6739 6746	lettore
+T75	FAC 7135 7140	caffè
+T75	PER 7756 7771	persone che amo
+T82	PER 8270 8282	quella Sofia
+T84	PER 9442 9447	Sofia
+T95	PER 10206 10230	carina , carina , carina
+T100	PER 10890 10902	Quella Sofia
+T101	PER 10905 10917	quella Sofia
+T103	GPE 11399 11405	Toledo
+T113	PER 12207 12212	Selim
+T121	PER 12654 12662	sgarbata
+T122	PER 12742 12757	cattiva , Sofia
+T124	PER 12829 12836	cattiva
+
+19887_silvia_brat.ann:
+T4	FAC 167 175	sue case
+T14	PER 1804 1838	bambina , adolescente , giovinetta
+T14	PER 2016 2023	Piccina
+T16	PER 2046 2083	figure severe ed accigliate dei nonni
+T24	FAC 2693 2699	scuola
+T30	FAC 3438 3444	scuola
+T44	PER 4545 4556	provinciale
+T41	FAC 5152 5158	armadi
+T44	PER 5697 5731	quelli che non si erano presentati
+T49	GPE 6320 6328	capitale
+T90	FAC 10618 10626	stazione
+T95	FAC 11017 11033	stazione deserta
+T104	PER 11527 11536	zitellona
+T105	PER 11778 11800	alcun marito probabile
+T107	PER 11913 11928	vecchia zitella
+T110	PER 12062 12070	famiglia
+T113	ORG 12106 12115	tribunale
+T104	PER 12210 12229	qualche pinzocchera
+T105	PER 12302 12331	galantuomo sui quarantacinque
+T118	ORG 12346 12355	tribunale
+
+20061_la_disfatta_brat.ann:
+T16	PER 1629 1634	altri
+T17	PER 1658 1722	contessa Ghigi , una dama di cinquant ' anni , ossuta , nerastra
+T19	PER 2086 2143	ometto vestito di un largo soprabito bigio , tutto rasato
+T29	PER 3430 3442	Contessa mia
+T33	PER 3548 3552	Bice
+T34	PER 3654 3661	ragazza
+T40	PER 4164 4173	contadino
+T43	PER 4721 4730	voi altri
+T48	PER 5270 5281	nostra Bice
+T59	PER 6190 6204	stesse persone
+T70	PER 8672 8677	gente
+T82	PER 9614 9621	bigotte
+T104	PER 10983 10999	Prinetti , miope
+T103	PER 11651 11692	ragazza , delicata come un fiore di serra
+T115	FAC 12323 12335	quel salotto
+
+21420_la_trovatella_di_milano_brat.ann:
+T8	FAC 996 1004	bastioni
+T18	PER 2103 2165	ladro o qualche malfattore travestito , sorpreso dalle guardie
+T37	PER 3844 3883	persona , dalla quale eravate inseguito
+T41	PER 4174 4179	donna
+T67	FAC 7626 7678	camera da letto , l ' unica stanza di quel magazzino
+T77	PER 9086 9096	più deboli
+T78	PER 9123 9151	quelle che più si distinsero
+T79	PER 9163 9196	Luigia Battistotti maritata Sassi
+T84	PER 9357 9368	combattenti
+T90	PER 9595 9603	compagna
+T97	PER 10120 10132	trasfigurata
+T105	GPE 11073 11087	città protetta
+T119	PER 12153 12163	sbalordita
+T120	FAC 12229 12233	vano
+T121	PER 12246 12282	bambina di forse due anni o poco più
+T129	PER 13513 13526	Mamma , mamma
+T134	PER 13715 13719	cara
+
+22503_carmela_brat.ann:
+T9	FAC 527 549	sua buia stradicciuola
+T17	PER 1189 1201	Questa donna
+T32	PER 1987 2018	Anna , amante dei propri comodi
+T41	PER 2640 2649	bambinaia
+T47	PER 3116 3179	Giovanni , innamorato della moglie al punto d ' esserne schiavo
+T51	PER 3368 3428	Carmela buona , dolce , ma sempre triste , muta e rassegnata
+T69	LOC 4374 4387	stessa viuzza
+T69	ORG 4599 4609	sua scuola
+T80	PER 4961 4966	mozzo
+T87	PER 5292 5298	brutta
+T89	PER 5454 5465	sua persona
+T103	FAC 6657 6661	casa
+T107	PER 6762 6781	essere privilegiato
+T114	FAC 8027 8031	casa
+T138	PER 8671 8677	brutta
+T151	PER 9364 9376	vostro padre
+T153	PER 9735 9749	povero infermo
+T161	PER 10405 10410	santa
+T190	PER 12077 12091	quest ' angelo
+T180	PER 12436 12445	pescatori
+
+22503_la_figlia_del_cantoniere_brat.ann:
+T16	PER 1459 1478	mia piccola paurosa
+T28	FAC 2572 2577	corte
+T33	LOC 2802 2825	sentiero della montagna
+T39	VEH 3174 3179	treno
+T66	PER 4883 4891	biondina
+T67	PER 5113 5121	biondina
+T70	VEH 5324 5329	treno
+T84	PER 5945 5953	ammalato
+T88	FAC 6320 6334	nostra casetta
+T91	VEH 6885 6893	ferrovia
+T105	PER 7351 7362	mia Pierina
+T115	VEH 8375 8380	treno
+T117	LOC 8591 8596	terra
+T121	VEH 9063 9093	tutto quell ' ammasso di carri
+T135	LOC 10147 10161	gole dei monti
+T144	PER 10661 10668	Mio Dio
+T141	VEH 10896 10914	treno delle cinque
+T149	PER 12097 12113	quelli del treno
+
+22642_l'innocente_brat.ann:
+T5	FAC 201 253	grande e vecchia casa di campagna , detta La Badiola
+T8	FAC 422 470	quella villa bianca e solinga come un monasterio
+T10	PER 536 549	mie figliuole
+T12	PER 813 822	Mia madre
+T15	PER 1396 1424	due tra le sue amiche intime
+T25	PER 2590 2595	altri
+T27	PER 3552 3557	altri
+T26	PER 3710 3745	mia sorella , la mia migliore amica
+T32	PER 4802 4816	donna medesima
+T33	PER 5449 5456	Ambedue
+T34	PER 5551 5558	Ambedue
+T38	FAC 6441 6452	stessa casa
+T55	PER 8671 8686	quella creatura
+T58	PER 9795 9810	Tullio , Tullio
+T59	PER 10712 10727	Tullio , Tullio
+
+25175_i_sogni_dell'anarchico_brat.ann:
+T3	PER 349 365	tutta la persona
+T4	PER 463 478	Quei due uomini
+T7	PER 977 990	collezionisti
+T8	PER 1340 1358	certe figure umane
+T10	FAC 1616 1632	camera singolare
+T14	PER 2322 2355	uomo dalla veste da camera cinese
+T15	FAC 2342 2348	camera
+T22	PER 3746 3768	uomo dagli occhi grigi
+T27	PER 3991 3995	ateo
+T28	PER 4003 4016	anticlericale
+T29	PER 4024 4034	libertario
+T26	PER 4067 4122	tutti coloro i quali metterebbero in ceppi il mio corpo
+T31	PER 4566 4582	gente che lavori
+T36	PER 4719 4724	altro
+T42	PER 5505 5512	persona
+T54	PER 6135 6139	vile
+T55	PER 6264 6269	altro
+T50	PER 6540 6559	folla che passeggia
+T63	PER 6796 6813	altro imbarazzato
+T67	PER 7336 7340	Vile
+T69	PER 7704 7712	famiglia
+T74	PER 8197 8201	Vile
+T75	PER 8237 8245	famiglia
+T80	PER 8793 8819	indifferente , l ' apatico
+T75	PER 9828 9871	quell ' uomo , il cui sguardo era sì freddo
+T88	LOC 10077 10087	via fredda
+T89	PER 10164 10168	Vile
+T80	PER 10241 10279	tutti questi uomini dalle mezze misure
+T93	PER 10598 10632	molti , molti , anche indifferenti
+T84	PER 10641 10652	miscredenti
+T96	PER 10837 10845	famiglia
+T106	PER 11576 11585	quel Gesù
+T99	PER 11964 11970	popolo
+T100	ORG 12022 12030	anarchia
+T101	ORG 12237 12279	autoritarismo ieratico , civile e militare
+T110	PER 13055 13084	socio di un circolo cattolico
+T111	ORG 13067 13084	circolo cattolico
+T112	ORG 13091 13099	anarchia
+T113	ORG 13149 13162	cristianesimo
+T115	ORG 13233 13245	cattolicismo
+T116	ORG 13261 13279	tutte le religioni
+
+26171_la_volpe_di_sparta_brat.ann:
+T2	FAC 56 103	grande negozio di maglieria Adolfo Scotti e C .
+T9	PER 543 574	cliente di sì grande importanza
+T19	PER 992 1006	quel Baganella
+T34	PER 1934 1963	donna che entra in un negozio
+T49	PER 2932 2961	molto singolare quel commesso
+T68	PER 4694 4710	quel Filippeschi
+T80	FAC 5382 5401	Adolfo Scotti e C .
+T94	PER 6179 6184	nuovo
+T111	PER 7287 7311	conte che vende le calze
+T116	PER 7501 7526	conte quel nuovo commesso
+T122	PER 7822 7831	Vittorina
+T125	PER 8074 8082	croupier
+T128	PER 8194 8202	famiglia
+T138	ORG 8688 8696	fabbrica
+T143	PER 9069 9092	radi uomini malcontenti
+T143	LOC 9185 9188	via
+T151	FAC 9654 9659	caffè
+T165	PER 10276 10324	tutti quelli dei quali citava la vita e le gesta
+T177	PER 10985 10992	Mio Dio
+T182	PER 11223 11230	signora
+T187	PER 11587 11603	commessi di oggi
+T193	PER 11725 11730	tutti
+T195	ORG 11860 11867	bottega
+T204	PER 12667 12689	quel conte Filippeschi
+T207	PER 12950 12979	conte impiegato come commesso
+T208	PER 13004 13016	Arrigo Beyle
+T218	PER 13607 13646	viandante che percorre una strada nuova
+
+26452_la_testa_della_vipera_brat.ann:
+T1	PER 134 165	servitori sonnacchiosi del club
+T2	FAC 161 165	club
+T3	PER 168 181	Uno di questi
+T3	FAC 200 234	quel salotto dall ' afa soffocante
+T5	PER 322 350	uomo di circa quarant ' anni
+T22	PER 1936 1959	serva che fa da padrona
+T37	PER 3812 3827	padrone di casa
+T47	PER 4130 4141	vossignoria
+T57	FAC 4756 4764	biscazza
+T70	PER 5492 5499	persona
+T67	FAC 5627 5644	stanza del giuoco
+T111	PER 9171 9181	cara Luisa
+T115	PER 9261 9266	balia
+T116	PER 9280 9289	moribonda
+T117	PER 9319 9324	balia
+T125	PER 10464 10489	fantolino di pochi giorni
+T127	PER 10576 10590	quest ' ultima
+T164	PER 12499 12509	cara suora
+T167	PER 12744 12760	quel sor Lorenzo
+T169	PER 12987 12997	Cara suora
+
+27156_la_donna_dall'abito_nero_brat.ann:
+T1	PER 856 861	pazza
+T3	PER 1118 1123	pazza
+T2	FAC 1163 1194	camerotto foderato di materassi
+T5	PER 1283 1288	pazza
+T10	PER 1669 1674	pazza
+T12	PER 1727 1732	pazza
+T14	PER 1967 1977	mia nemica
+T18	PER 2288 2309	qualcuno che mi amava
+T19	PER 2563 2617	donna di mezza statura , col volto pallido e allungato
+T27	PER 3824 3829	folla
+T39	PER 6361 6373	quell ' uomo
+T43	PER 6657 6672	uomo trionfante
+T50	PER 8450 8473	donna dall ' abito nero
+T52	PER 8870 8888	donna che ghignava
+T54	PER 9431 9443	maga pallida
+T56	PER 9983 10025	donna pallida , sfinita , cogli occhi neri
+T58	PER 10184 10190	quella
+T59	PER 10499 10504	pazza
+
+27156_un_inventore_brat.ann:
+T42	FAC 3429 3452	fabbriche di giocattoli
+T57	FAC 5053 5061	fabbrica
+T60	LOC 5561 5567	piazza
+T65	FAC 6328 6336	fabbrica
+T79	LOC 8198 8204	piazza
+
+27358_olocausto_brat.ann:
+T2	PER 274 320	camerieri in giacchetta nera e cravatta bianca
+T6	PER 686 691	tutte
+T11	PER 1764 1793	due gruppi abbastanza diversi
+T15	PER 2674 2737	intera famiglia di provinciali dalle vesti e le mosse sgraziate
+T17	PER 2871 2930	madre , una donna secca e giallognola dentro un abito scuro
+T21	PER 3170 3232	Tre ragazze vestite allo stesso modo , di una stoffa sanguigna
+T24	PER 3428 3442	stessa persona
+T28	GPE 4008 4015	Firenze
+T30	PER 4666 4683	studenti eccitati
+T33	PER 4828 4848	uomo meglio abituato
+T35	PER 4955 4982	famiglie più alte della sua
+T37	GPE 5317 5333	tutta l ' Italia
+T40	PER 5533 5560	gente estranea al commercio
+T43	VEH 6158 6175	treno per Bologna
+T68	VEH 8378 8392	qualche fiacre
+T80	ORG 9142 9156	tutte le ditte
+T97	PER 10872 10910	figurina di donna , svelta ed elegante
+T100	PER 11145 11166	quasi tutti i giovani
+T102	PER 11178 11184	poveri
+T106	FAC 11686 11694	Lungarno
+T114	FAC 12136 12144	Lungarno
+T116	LOC 12261 12266	fiume
+T118	FAC 12561 12574	club di Forlì
+T124	FAC 13001 13015	grande albergo
+
+27359_rassegnazione_-_romanzo_brat.ann:
+T22	PER 3632 3642	milionario
+T22	PER 4441 4455	buono a niente
+T23	PER 4583 4592	mio padre
+T32	PER 5413 5424	delinquente
+T38	PER 5837 5851	uomo materiale
+T40	PER 6016 6021	altri
+T42	PER 6227 6248	galantuomini , onesti
+T43	PER 6294 6299	altri
+T47	PER 7635 7671	gigante , una creatura diversa da me
+T65	PER 11512 11528	mamma , poverina
+T67	PER 11742 11745	uno
+T68	PER 11822 11866	quasi persona morta , imbalsamata , fasciata
+T74	LOC 12593 12598	campi
+T74	PER 12707 12727	bambini del mezzadro
+T75	PER 12719 12727	mezzadro
+
+27719_tiranni_minimi_brat.ann:
+T8	FAC 971 987	Caffè d ' Europa
+T9	GPE 981 987	Europa
+T35	PER 3366 3377	indemoniata
+T46	PER 4137 4189	conte e cavaliere Venceslao Portomanero , professore
+T58	PER 4952 4975	Agnese , o la bambinaia
+T65	FAC 5298 5334	quartierino privo d ' aria e di luce
+T72	PER 5704 5723	Agnese dal Trentino
+T75	FAC 5772 5780	stazione
+T86	PER 6400 6411	sua persona
+T93	LOC 6689 6695	piazza
+T93	PER 6772 6778	Agnese
+T94	PER 6857 6865	Contessa
+T103	PER 7930 7957	due persone sole da servire
+T118	PER 8491 8508	due donne insieme
+T123	LOC 8792 8802	Piazza Brà
+T122	GPE 8847 8853	Europa
+T124	ORG 8983 8988	banda
+T129	LOC 8995 9001	piazza
+T132	LOC 9283 9289	piazza
+T133	GPE 9527 9545	paesello di Agnese
+T141	LOC 9656 9681	quella piazza così grande
+T149	PER 10145 10161	fitta di persone
+T149	FAC 10635 10663	ampia tettoia della stazione
+T156	VEH 11079 11087	macchina
+
+27979_la_freccia_nel_fianco_brat.ann:
+T0	GPE 137 170	piccolo paese sulle rive del lago
+T5	GPE 268 278	San Pietro
+T6	PER 375 405	Fabiano suo padre , giuocatore
+T22	PER 1330 1375	famiglia del conte Fabiano , madre e fratelli
+T24	PER 1359 1364	madre
+T25	PER 1367 1375	fratelli
+T24	PER 1395 1416	due coniugi in guerra
+T25	FAC 1431 1439	collegio
+T31	PER 1825 1851	avvocati delle varie parti
+T41	VEH 2093 2100	muletto
+T45	PER 2308 2317	contadini
+T59	FAC 3205 3251	qualche albergo pieno di poesia e d ' incomodi
+T71	PER 3724 3729	amici
+T75	PER 3963 3979	barbone del papà
+T90	PER 5015 5025	personaggi
+T106	LOC 6142 6145	via
+T109	FAC 6373 6384	pasticcerie
+T115	LOC 6795 6811	fiumi mormoranti
+T122	PER 7009 7044	gente che galoppava tutto il giorno
+T125	LOC 7184 7201	rive d ' un fiume
+T126	LOC 7218 7224	piazze
+T128	PER 7377 7433	ufficiali che vestivano chiassosamente coi calzoni rossi
+T129	PER 7509 7537	damine gentili molto odorose
+T151	PER 9310 9316	uomini
+T158	PER 9921 9945	maestri e le istitutrici
+T160	PER 10050 10057	piccolo
+T167	FAC 10385 10398	immenso parco
+T168	LOC 10408 10414	andàne
+T174	PER 10442 10499	amazzoni belle , quelle stesse che giuocavano col bambino
+T176	PER 10504 10554	cavalieri , quegli stessi che giuocavano col babbo
+T178	FAC 10564 10594	grande trattoria elegantissima
+T186	PER 10982 11002	fanciullo , il babbo
+
+28231_quintino_e_marco_brat.ann:
+T6	PER 574 585	disgraziato
+T7	PER 700 716	pitocco seminudo
+T10	ORG 881 888	finanze
+T17	ORG 1474 1481	finanze
+T19	LOC 1546 1551	mondo
+T22	PER 2001 2016	quel fantaccino
+T31	FAC 2627 2633	strada
+T32	PER 2642 2688	quell ' uomo vestito di rosso , magro ed agile
+T28	PER 2987 3017	bandito perduto in una macchia
+T39	FAC 3717 3723	borghi
+T47	LOC 4687 4709	piazza più frequentata
+T49	PER 5037 5048	saltimbanco
+T51	PER 5378 5389	saltimbanco
+T44	PER 5427 5469	pagliaccio ben triste quel povero Quintino
+T59	PER 6989 6999	moscardino
+T50	PER 7401 7411	matematico
+T60	LOC 7483 7490	Niagara
+T64	LOC 8407 8414	Niagara
+T73	LOC 9257 9264	Niagara
+T88	PER 10854 10891	campanaro che aveva quasi cent ' anni
+T94	FAC 11489 11551	casone nero , ampio , umido , diroccato e abbandonato da tutti
+T103	FAC 11989 12003	quella bicocca
+T109	FAC 12464 12471	bettola
+T115	PER 12653 12664	disgraziato
+
+28231_storiella_vecchia_brat.ann:
+T7	PER 652 706	un di quei buli capaci di tener la gente in soggezione
+T9	FAC 946 959	sala d ' armi
+T14	PER 1614 1649	zuavi col muso nero come il carbone
+T15	FAC 1708 1722	sua biblioteca
+T17	PER 1869 1874	Tasso
+T24	GPE 2215 2220	Garda
+T35	VEH 2987 3008	coupé di prima classe
+T54	ORG 4202 4211	monarchie
+T56	PER 4310 4326	soldato di un re
+T59	FAC 4361 4376	Caffè del Duomo
+T67	GPE 4976 4987	Due Sicilie
+T68	PER 4993 5005	nostro esule
+T72	FAC 5108 5123	Caffè del Duomo
+T72	FAC 5377 5388	Casa Savoia
+T78	ORG 5445 5455	repubblica
+T80	ORG 5555 5564	monarchia
+T82	PER 5696 5721	monarchici e repubblicani
+T78	PER 5777 5810	suoi stessi compaesani , i veneti
+T84	PER 6302 6354	incompreso , l ' uomo superiore al pubblico flagello
+T96	FAC 6685 6700	Caffè del Duomo
+T98	LOC 6896 6912	terra d ' esilio
+T106	PER 7306 7325	martire dell ' idea
+T107	PER 7764 7774	suo Menico
+T115	PER 7781 7810	avventori del Caffè del Duomo
+T116	FAC 7795 7810	Caffè del Duomo
+T119	GPE 8183 8190	Gussago
+T131	PER 9222 9284	giovinetto bresciano , tarchiato , bruno , dalla faccia ardita
+T149	PER 10721 10762	vittima di un ' aggressione bella e buona
+T151	PER 10837 10853	matto o ubbriaco
+T155	PER 11046 11054	tedeschi
+T156	ORG 11159 11169	plebisciti
+T167	PER 12820 12833	quell ' altro
+
+28785_la_baraonda_brat.ann:
+T0	PER 12 23	CANTASIRENA
+T31	PER 3279 3328	suo giovane fidanzato , il giovane povero , umile
+T43	PER 4639 4644	altri
+T52	PER 5588 5604	questa Schönfeld
+T60	PER 6091 6107	tutti diffidenti
+T77	PER 7173 7181	tirolese
+T85	PER 7462 7526	fattorino della Faré , quel gran negozio di guanti e di cravatte
+T108	PER 8729 8734	altri
+T108	PER 8980 9033	Professore , avvocato , cavaliere ed anche colonnello
+T124	PER 10524 10539	uomo di spirito
+T127	PER 10600 10653	Bell ' uomo , alto , col cranio pelato , lucentissimo
+T163	PER 13005 13010	cuoca
+T165	FAC 13177 13196	casa piena di gente
+T170	PER 13233 13239	tenori
+
+28786_il_processo_bartelloni_brat.ann:
+T2	ORG 112 151	Turno Giudicante sugli affari criminali
+T6	PER 382 405	suo bambino di tre anni
+T7	PER 436 443	secondo
+T8	PER 478 483	terzo
+T12	PER 912 1000	auditore Lechini , un omettino di bassa statura , magrolino , sempre ligio , cerimonioso
+T19	PER 1220 1232	caro Lechini
+T28	ORG 1698 1717	Gazzetta di Firenze
+T29	GPE 1710 1717	Firenze
+T29	PER 2007 2031	nostra adorabile Sovrana
+T36	PER 2205 2221	auditori , tutti
+T44	LOC 2619 2630	San Firenze
+T51	ORG 2964 2998	orchestra del Teatro della Pergola
+T46	FAC 2978 2998	Teatro della Pergola
+T48	ORG 3042 3046	Rota
+T58	FAC 3424 3434	Mercadante
+T59	PER 3857 3886	autore di un lavoro che piace
+T60	PER 3993 4021	autore della Monaca di Monza
+T61	GPE 4016 4021	Monza
+T82	PER 5305 5339	nuovo arrivato con fisonomia ilare
+T108	FAC 6472 6488	sala d ' udienza
+T124	PER 7241 7255	birro graduato
+T129	PER 7538 7554	Nello Bartelloni
+T143	LOC 8094 8112	piazza San Firenze
+T144	FAC 8486 8508	stanza del Soprastante
+T145	FAC 8514 8532	carceri della Rota
+T146	ORG 8528 8532	Rota
+T151	FAC 8732 8739	palazzo
+T154	FAC 8804 8815	sotterranei
+T163	FAC 9347 9358	Cancelleria
+T164	ORG 9397 9409	magistratura
+T167	FAC 9473 9490	cancello di legno
+T173	PER 9702 9720	presunto assassino
+T186	ORG 10481 10486	Stato
+T208	PER 11503 11520	ritti e vigilanti
+T215	LOC 11732 11749	Vicolo della Luna
+T219	PER 11923 11932	mercatìno
+T219	PER 12069 12084	folla accalcata
+T223	FAC 12095 12103	cancello
+T227	LOC 12567 12584	Piazza della Luna
+T240	PER 13671 13709	lettore , l ' auditore Francesco Nolmi
+T239	PER 13767 13776	colpevole
+
+29035_l'alcòva_d'acciaio_-_romanzo_vissuto_brat.ann:
+T5	PER 385 426	colonnello Squilloni giocondo e pettoruto
+T15	PER 1705 1717	caro dottore
+T20	PER 2194 2206	caro dottore
+T23	PER 2479 2485	corteo
+T29	PER 2988 2996	sbandati
+T39	PER 3961 3965	Muti
+T39	GPE 4108 4143	città dell ' immensa pianura veneta
+T44	LOC 4365 4371	Fronte
+T55	VEH 5492 5519	automitragliatrici blindate
+T56	VEH 5534 5560	bella velocissima blindata
+T60	PER 5836 5856	ricco signore romano
+T62	ORG 5872 5882	cavalleria
+T62	LOC 6250 6265	Piazza d ' armi
+T68	PER 6281 6294	suo squadrone
+T64	VEH 6312 6322	carrozzino
+T71	PER 6578 6597	principe del sangue
+T78	LOC 6988 6994	fronte
+T82	PER 7213 7230	sentinelle feroci
+T78	PER 7347 7355	piantoni
+T79	PER 7399 7405	Alpino
+T80	PER 7547 7555	piantoni
+T90	VEH 8021 8070	Questo sgangheratissimo e trascinato da due rozze
+T94	LOC 8913 8917	cime
+T95	PER 8946 8977	nostro bel colonnello Squilloni
+T100	PER 9015 9072	simpaticissimo quarantenne , fiorentino pieno d ' ingegno
+T101	FAC 9347 9386	caffè di Vicenza , di Thiene , di Schio
+T108	FAC 9432 9471	suo giardino multicolore di decorazioni
+T112	PER 9673 9682	disilluso
+T118	PER 9903 9946	goliardico e carnascialesco re dei bordelli
+T119	FAC 9938 9946	bordelli
+T126	PER 10168 10173	tutti
+T127	PER 10176 10185	figliuoli
+T129	PER 10245 10279	tutti nell ' autocarro della spesa
+T131	FAC 10286 10295	Campiello
+T132	FAC 10298 10304	Mosson
+T135	FAC 10589 10598	Campiello
+T136	FAC 10609 10616	trincee
+T137	PER 10626 10666	cadaveri della prima offensiva austriaca
+T142	PER 11169 11188	soldati grigioverdi
+T146	PER 11297 11321	capitani in grigio verde
+T142	PER 11465 11481	tutte bellissime
+T150	PER 11555 11615	voluminosi rullanti e beccheggianti maschi di guerra in foia
+T150	PER 11868 11882	caro Squilloni
+T159	PER 12165 12187	popoli e sessi alleati
+T172	ORG 12714 12722	fanteria
+T174	PER 12805 12846	donna scelta pecora fronzoluta mezzo nuda
+T177	PER 13109 13118	ufficiali
+T182	PER 13402 13420	Instancabili donne
+T183	PER 13570 13578	biondino
+T174	PER 13623 13650	nostro colonnello Squilloni
+
+29874_delitto_ideale_brat.ann:
+T5	PER 1321 1333	pazzo costui
+T12	PER 1903 1910	Nessuna
+T14	PER 2422 2443	padroni di noi stessi
+T16	PER 2519 2540	padroni di noi stessi
+T27	PER 3383 3391	parecchi
+T28	PER 3848 3867	orfano giovanissimo
+T38	PER 5261 5287	Bionda , piccola , gracile
+T51	PER 7919 7928	assassino
+T52	PER 9192 9214	Mia moglie , innocente
+T55	PER 10007 10019	suo complice
+T56	PER 10429 10438	seduttore
+T59	PER 11817 11823	odiato
+
+29961_tre_donne_brat.ann:
+T0	LOC 16 29	Val Mis ' cia
+T4	LOC 177 182	campi
+T6	PER 400 459	Maria Scaramelli -- moglie di Sandro Rampoldi il cavallante
+T20	PER 1328 1351	anziana dal viso scarno
+T22	FAC 1597 1613	casa del diavolo
+T23	PER 1606 1613	diavolo
+T31	PER 2190 2200	Gesù , mio
+T37	PER 2941 3004	Cristina Scaramelli -- sorella minore di Maria moglie di Sandro
+T49	PER 3651 3674	questa ribelle Cristina
+T64	FAC 4427 4452	questo mucchio di casette
+T65	LOC 4460 4479	specie d ' isolotto
+T67	GPE 4508 4516	Vergonza
+T63	LOC 4522 4531	Mis ' cia
+T66	LOC 4593 4606	Val Mis ' cia
+T68	LOC 4775 4780	fossi
+T69	LOC 4802 4815	Val Mis ' cia
+T74	FAC 4964 4969	forno
+T78	PER 5166 5173	fornaio
+T84	PER 5596 5603	fornaio
+T86	LOC 5771 5784	quell ' eremo
+T94	PER 6334 6352	contadino a podere
+T95	LOC 6346 6352	podere
+T102	PER 6829 6842	brava massaia
+T103	FAC 7028 7052	casa di ricchi fittabili
+T109	PER 7146 7151	altri
+T107	LOC 7205 7211	podere
+T139	FAC 8452 8467	cucina semibuia
+T148	FAC 9095 9099	orto
+T147	PER 9642 9662	quella povera Giulia
+T149	FAC 9804 9821	casupola da canto
+T159	FAC 9957 9971	sua abitazione
+T197	PER 12028 12120	bella contadina , alta , dalle spalle larghe , dalle braccia solide quanto quelle di un uomo
+T204	PER 12643 12648	tutti
+T200	LOC 12702 12708	podere
+
+30030_i_coniugi_varedo_brat.ann:
+T9	PER 451 457	Nocera
+T22	PER 1228 1235	cattiva
+T23	FAC 1273 1287	liceo Marcello
+T34	PER 2297 2310	tua figliuola
+T48	PER 3633 3638	folla
+T61	PER 4221 4274	tedesca , piccola , rosea , grassottella , flemmatica
+T70	PER 4899 4904	Diana
+T74	ORG 5058 5083	questo sinedrio femminino
+T81	PER 5372 5427	signora Astolfi , la moglie del provveditore agli studi
+T103	PER 6760 6779	carezzevole , Diana
+T124	PER 8000 8012	Mammina cara
+T128	PER 8201 8214	Diana , Diana
+T142	PER 9377 9408	Molte altre signore e gentlemen
+T148	PER 9752 9759	signora
+T149	PER 9762 9779	signorina Duranti
+T175	PER 11266 11275	poveretti
+T176	PER 11306 11319	fior di gente
+T184	PER 11767 11793	que ' tuoi amici di Torino
+
+30663_dal_primo_piano_alla_soffitta_brat.ann:
+T3	PER 94 101	Bollati
+T75	PER 4732 4740	Zaccaria
+T76	PER 4743 4752	Chiaretta
+T77	ORG 4811 4820	Salesiane
+T106	PER 6204 6211	Bollati
+T208	PER 12011 12037	alcuni realmente pregevoli
+
+32193_la_bella_morte_brat.ann:
+T0	PER 14 79	capitano di vascello Ruggero Carleoni , comandante della Siracusa
+T1	VEH 26 34	vascello
+T5	ORG 122 142	Consiglio della nave
+T6	VEH 138 142	nave
+T5	PER 378 421	Catenuti , il sott ' ufficiale - segretario
+T11	PER 444 465	comandante in seconda
+T7	PER 538 561	parte dell ' equipaggio
+T8	PER 692 715	caporale - portalettere
+T25	PER 1607 1618	molta gente
+T30	VEH 1745 1753	vascello
+T37	PER 2485 2499	tutta la gente
+T31	PER 2538 2560	quei due infermi gravi
+T33	PER 2747 2754	secondo
+T34	VEH 2924 2932	macchina
+T42	PER 2994 3028	feccia della popolazione tangerina
+T40	VEH 3375 3383	macchina
+T47	PER 3500 3510	equipaggio
+T49	FAC 3590 3597	plancia
+T52	LOC 3751 3755	riva
+T57	PER 4124 4132	voialtri
+T58	VEH 4247 4266	torpediniera nemica
+T61	VEH 4572 4580	vascello
+T63	PER 4672 4726	piantone , un Tarantino famoso per la sua stupidaggine
+T66	ORG 4811 4820	Consiglio
+T75	GPE 5405 5411	Italia
+T76	PER 5484 5493	ufficiale
+T63	PER 5559 5568	portolani
+T78	FAC 5602 5609	coperta
+T88	PER 6330 6357	Uno soltanto , il timoniere
+T90	PER 6393 6420	infermo , pallido , esangue
+T95	ORG 6645 6667	ministero degli Esteri
+T100	VEH 6838 6846	vascello
+T122	FAC 8530 8538	paradiso
+T123	FAC 8661 8668	inferno
+T146	FAC 11893 11911	quello di batteria
+T148	PER 11945 11953	compagno
+T151	PER 12140 12148	Tringale
+T142	VEH 12593 12611	barca col marinaio
+
+32193_la_messa_di_nozze_brat.ann:
+T0	GPE 21 28	Senegal
+T15	PER 1139 1150	sconosciuto
+T17	PER 1223 1252	folla degli scolari sciamanti
+T18	FAC 1264 1269	corte
+T50	FAC 4927 4945	quartieri popolari
+T56	PER 5135 5195	Scrittore di commedie prima che insegnante di lettere greche
+T57	PER 5401 5465	artista geniale , l ' arguto dipintore dei costumi contemporanei
+T73	PER 7226 7244	corpo dei pompieri
+T74	PER 7253 7284	casellanti delle strade ferrate
+T72	LOC 7593 7598	mondo
+T79	PER 7844 7852	mio caro
+T74	PER 7939 7986	critici e i commissarî dei concorsi governativi
+T78	PER 8230 8242	nessun altro
+T79	PER 8508 8527	fanciullo , bendato
+T80	PER 8881 8896	gente coniugata
+T85	PER 9749 9770	creatura predestinata
+T86	PER 9839 9844	altra
+T87	PER 9906 9911	altra
+T88	PER 9948 9953	altra
+T91	PER 10656 10685	Uomini e donne , tutti quanti
+T97	PER 11050 11063	nostro Natali
+T97	PER 11413 11427	uomini e donne
+T101	FAC 11585 11597	santabarbara
+T104	LOC 11663 11673	questa via
+T109	PER 11874 11891	Vittorio Emanuele
+T113	PER 11929 11935	Cavour
+T116	PER 12002 12008	Cavour
+T121	LOC 12324 12332	Promonte
+T141	LOC 13441 13447	centro
+
+32193_un_sogno_brat.ann:
+T3	ORG 151 157	stampa
+T6	GPE 242 247	Varga
+T9	PER 376 381	altri
+T13	PER 521 559	gl ' interlocutori e le interlocutrici
+T44	GPE 3823 3831	Sclàfani
+T52	PER 4435 4442	femmine
+T55	PER 4667 4710	creature illogiche , subalterne e malefiche
+T67	PER 6106 6129	personaggio di Baglioni
+T66	PER 6121 6129	Baglioni
+T82	PER 8499 8525	creatura bella d ' aspetto
+T83	PER 8778 8786	creatura
+T88	GPE 9467 9475	Sclàfani
+T94	ORG 9698 9718	Cavalleria rusticana
+T98	LOC 9816 9834	centro della città
+T101	FAC 9936 9950	quartieri alti
+T103	GPE 10020 10025	Varga
+T116	LOC 11049 11088	mare azzurro aleggiato da tepide brezze
+T122	PER 11330 11351	quelli che osteggiava
+T125	LOC 11417 11452	altissime rupi sopra irte scogliere
+T128	PER 11539 11568	creature di favolosa bellezza
+T129	PER 11711 11732	codazzi di spasimanti
+T130	PER 11877 11888	gioielliere
+T133	PER 11953 11993	qualcuno , un amico straricco e generoso
+T135	PER 12211 12226	quella creatura
+T136	PER 12253 12258	altra
+T134	PER 12481 12488	persona
+T135	PER 12955 12996	straniera , principessa , ricca a milioni
+T140	FAC 13684 13702	giardini incantati
+
+33781_i_misteri_del_castello_d'udolfo,_vol._1_brat.ann:
+T3	PER 110 123	Sant ' Aubert
+T6	LOC 246 271	boschi , vigne ed oliveti
+T9	LOC 361 365	cime
+T13	LOC 691 696	prati
+T17	LOC 914 924	tramontana
+T18	LOC 930 937	levante
+T20	LOC 995 1013	golfo di Guascogna
+T26	LOC 1346 1356	gran mondo
+T30	PER 1847 1876	cadetto d ' illustre famiglia
+T28	PER 1859 1876	illustre famiglia
+T43	LOC 3089 3106	Que ' verdi prati
+T45	LOC 3656 3661	mondo
+T53	FAC 4241 4272	dimora più comoda che ricercata
+T62	LOC 4890 4899	occidente
+T75	LOC 6097 6112	sorgente vicina
+T83	FAC 6315 6334	gabinetto di Emilia
+T83	FAC 6782 6790	giardino
+T85	LOC 6818 6875	viali di mandorli di fichi , di acacie e di mirti fioriti
+T89	PER 7202 7212	villanelle
+T96	FAC 7430 7444	pian superiore
+T104	LOC 7976 8025	boschetto di faggi , di pini e di frassini alpini
+T118	LOC 9381 9387	spazio
+T125	PER 10388 10403	sua unica prole
+
+34346_l'amore_di_loredana_brat.ann:
+T15	PER 1075 1079	cara
+T16	PER 1133 1137	cara
+T25	PER 1621 1625	cara
+T27	FAC 1809 1851	sua casetta bianca nel campiello solitario
+T30	LOC 1832 1851	campiello solitario
+T34	PER 2570 2579	mio amico
+T43	LOC 2937 2946	campiello
+T73	FAC 5534 5545	San Martino
+T74	PER 5560 5569	impiegato
+T75	FAC 5575 5602	San Martino della Battaglia
+T77	PER 5760 5811	uomo sui sessant ' anni , robusto , acceso in volto
+T87	GPE 6448 6452	Riva
+T96	PER 6795 6802	ambedue
+T97	PER 6953 6992	Zio di Filippo , il conte Roberto Vagli
+T102	VEH 7420 7428	battello
+T118	LOC 8312 8335	piazzale della stazione
+T116	FAC 8327 8335	stazione
+T133	VEH 9211 9220	imperiale
+T145	FAC 9938 9945	albergo
+T175	FAC 10976 10980	faro
+
+34983_i_divoratori_-_romanzo_brat.ann:
+T0	PER 19 41	creaturina nella culla
+T6	FAC 636 668	sala da pranzo della Casa Grigia
+T25	PER 1586 1638	donna , severa , quadrata , vestita di percalle rosa
+T45	PER 3072 3098	giovinetta vestita di nero
+T58	PER 3831 3835	cara
+T61	PER 3914 3928	mio angioletto
+T62	PER 4114 4130	ragazza in lutto
+T67	PER 4201 4209	entrambe
+T76	PER 5310 5326	ragazza in lutto
+T80	PER 5391 5395	Cara
+T81	PER 5398 5402	cara
+T82	PER 5405 5409	cara
+T85	FAC 5783 5791	giardino
+T95	PER 5806 5844	Brown Boy , il ragazzo del giardiniere
+T93	PER 6274 6286	tutt ' e due
+T103	PER 6712 6716	moro
+T107	PER 6802 6806	moro
+T108	PER 6822 6836	béby sbagliato
+T119	PER 7033 7046	tutti diversi
+T123	PER 7150 7158	italiana
+T122	FAC 7341 7380	quella stanza piccola .... piccola così
+T137	PER 7595 7612	Povero signor Tom
+T139	PER 7666 7689	prediletto di voi tutti
+T136	PER 7761 7766	tanti
+T137	PER 7790 7805	quelli di mezzo
+T138	PER 7814 7823	preferiti
+T141	PER 7914 7919	tanti
+T147	PER 8250 8291	bella figura di vecchio , alto e maestoso
+T148	LOC 8365 8370	viale
+T156	PER 8656 8660	cara
+T180	PER 9532 9544	tutt ' e due
+T192	PER 9809 9813	cara
+T223	PER 10757 10765	caruccia
+T223	PER 10982 10990	Florence
+T232	FAC 11521 11526	siepi
+T233	LOC 11882 11887	cieli
+T230	FAC 11951 11959	giardino
+T234	FAC 12273 12298	piccolo cimitero di Nervi
+T235	FAC 12293 12298	Nervi
+T250	LOC 13438 13448	Trastevere
+
+36326_sciogli_la_treccia,_maria_maddalena_-_romanzo_brat.ann:
+T1	PER 37 51	Maria Cristina
+T3	LOC 86 90	Nord
+T9	PER 1442 1535	bellissima creatura , lunga , snodata , sottile , con una capigliatura di mogano scintillante
+T13	LOC 3091 3095	Nord
+T17	LOC 3263 3267	Nord
+T19	PER 3629 3673	donne spagnole , dalla carnagione di camelia
+T20	PER 3798 3842	suo amante : un fino tipo di giovine hidalgo
+T21	LOC 3948 3958	Montmartre
+T24	GPE 3988 3993	Paris
+T25	GPE 3996 4002	Madrid
+T31	PER 4848 4877	domestico in livrea gallonata
+T32	PER 4889 4894	calca
+T36	PER 5170 5189	uomo che lo portava
+T38	PER 5211 5225	vecchia Spagna
+T39	PER 5231 5279	Spagna superba e fortissima degli antichi tornei
+T48	PER 5565 5595	ultimo Cavaliere dell ' Ideale
+T45	GPE 5599 5634	questa vecchia terra cristianissima
+T47	PER 5679 5732	perfetto , l ' insuperabile Riccardo Torres — Bombita
+T57	PER 6250 6318	questo amabile gentleman , asciutto , nervoso , forse un po ' timido
+T58	PER 6324 6346	magnifico primo espada
+T59	ORG 6543 6560	sottili industrie
+T62	PER 6751 6761	aficionada
+T56	PER 6777 6793	ogni buon torero
+T88	GPE 9235 9247	tutta Londra
+T97	LOC 9525 9530	terra
+T102	PER 10138 10160	autentico propiziatore
+T105	FAC 10381 10399	tropicale giardino
+T98	LOC 10513 10530	addormentato mare
+T107	FAC 10603 10611	loggiato
+T121	LOC 11873 11878	mondo
+T123	GPE 11951 11958	Higuera
+T131	PER 12359 12373	Maria Cristina
+T135	GPE 12583 12590	Higuera
+T136	PER 12650 12681	uomo di mondo fino ed assennato
+T137	LOC 12658 12663	mondo
+T125	PER 12900 12936	sua famiglia , d ' origine madrilena
+T130	GPE 13316 13339	felice terra d ' Italia
+T131	GPE 13525 13550	bianca terra di Guipuzcoa
+
+38140_abito_nero_ed_abito_bianco_brat.ann:
+T2	FAC 554 612	suo ufficio di capo - stazione della piccola stazione di S
+T3	PER 569 584	capo - stazione
+T8	FAC 1400 1420	suo piccolo giardino
+T12	FAC 1665 1681	piccolo giardino
+T21	FAC 2022 2056	reclusorio quella piccola stazione
+T22	PER 2070 2086	capo , un coatto
+T20	LOC 2124 2128	nord
+T21	LOC 2143 2146	sud
+T24	PER 2246 2288	bigliettaio , spedizioniere , telegrafista
+T34	FAC 3064 3080	quei pozzi grigi
+T35	LOC 3093 3128	vie , le piazze di una grande città
+T38	LOC 3195 3221	vie lucide dei tram lucidi
+T40	PER 3224 3250	uomini col colletto pulito
+T41	PER 3253 3276	donne all ' ultima moda
+T50	VEH 4442 4449	diretto
+T59	PER 5273 5302	due carabinieri regolamentari
+T60	VEH 5320 5325	treno
+T68	FAC 5747 5754	tribuna
+T69	PER 5760 5835	giovane signore , tutto vestito di bianco che pareva un sorbetto vanigliato
+T71	PER 5939 5991	piccolo signore nero con gli occhi fuori dalla testa
+T74	PER 6144 6168	professionista del furto
+T78	PER 6299 6302	uno
+T78	PER 6588 6595	giovane
+T82	PER 7050 7070	padrone del medesimo
+T83	PER 7215 7223	due soli
+T85	ORG 7332 7352	vecchia Mediterranea
+T86	ORG 7429 7441	Mediterranea
+T89	ORG 7497 7502	Stato
+T92	ORG 7734 7739	Stato
+T94	LOC 7806 7812	estero
+T101	PER 8298 8305	vecchio
+T125	VEH 10274 10282	macchine
+T127	PER 10406 10429	macchinisti e fuochisti
+T133	PER 10978 11048	barone Y ... , segretario dell ' ambasciata germanica , mio buon amico
+T134	PER 11011 11031	ambasciata germanica
+T151	PER 12006 12034	tutto il disgraziato signore
+T152	PER 12276 12283	giovane
+T160	FAC 12700 12710	sua galera
+T155	PER 13018 13033	facchino , caro
+T159	PER 13338 13367	tutti , superiori e inferiori
+
+38140_come_la_lingua_della_signora_si_calmò_brat.ann:
+T5	PER 361 366	sordo
+T7	PER 942 1022	quest ' uomo , questo marito , questo esseraccio spregevole che si chiama marito
+T9	PER 1157 1207	povera donna che soffre , che sta male , che muore
+T10	PER 1214 1274	donna tanto gentile , elegante , fine , buona , intelligente
+T13	PER 1376 1425	qualunque altro che non si chiamasse Marx Giraldi
+T17	PER 1413 1425	Marx Giraldi
+T21	PER 2534 2604	uomo di mezza età , barbuto , con la fronte posata in calma sulla mano
+T24	PER 2714 2758	omarino mezzo spelato e con barbetta caprina
+T25	PER 2821 2849	antica classe degli scrivani
+T35	PER 3641 3685	Marchi , professore dell ' Università di ...
+T36	PER 3761 3822	Gian Franco Marchi , specialista per le malattie del cervello
+T44	PER 3875 3887	senatore X .
+T41	PER 4107 4164	uno dei pochi che si son fatti strada senza ciarlataneria
+T63	PER 6079 6101	altri medici alla moda
+T72	PER 6152 6170	parecchi di medici
+T74	FAC 6757 6762	Hôtel
+T87	PER 7240 7246	marito
+T104	PER 8330 8350	brutale , mio marito
+T124	PER 10949 10970	quell ' infame di ...
+T125	PER 11225 11236	villanaccio
+T127	PER 11532 11622	moglie come una di quelle che esistevano prima della proclamazione dei diritti della donna
+T134	PER 11617 11622	donna
+T131	LOC 11925 11930	fosso
+T135	PER 12031 12052	paggetto dell ' hôtel
+T147	VEH 12711 12726	vettura a letto
+T155	PER 12816 12828	caro Giraldi
+T154	PER 13199 13204	tutti
+T155	PER 13211 13219	isterici
+
+38259_vae_victis!_romanzo_brat.ann:
+T2	PER 279 294	piccola Mirella
+T7	PER 555 567	tutt ' e due
+T14	FAC 985 991	strada
+T20	PER 1214 1219	altri
+T37	LOC 2771 2804	breve rue dei Moulins di Westende
+T40	FAC 2869 2895	nuovo hangar per aeroplani
+T48	LOC 3305 3322	tutta la spiaggia
+T50	LOC 3358 3363	Ovest
+T52	LOC 3403 3406	Est
+T55	PER 3512 3536	tutte le figlie di gioia
+T53	GPE 3552 3557	Namur
+T54	GPE 3560 3563	Spa
+T61	VEH 3697 3707	biciclette
+T67	LOC 4185 4225	sabbie , quelle vaste sabbie di Westende
+T73	LOC 4820 4854	mezzo chilometro di arena asciutta
+T80	LOC 5513 5517	mare
+T109	LOC 7954 7960	sponda
+T110	PER 8041 8096	Cirillo , il maestro di bicicletta — l ' uomo - scimmia
+T117	PER 8417 8452	Chérie — snella figuretta scarlatta
+T126	LOC 9027 9031	mare
+T133	GPE 9317 9326	Säkkingen
+T137	GPE 9507 9539	piccola città lontana , sul Reno
+T140	PER 9565 9599	famoso trombettiere dello Scheffel
+T143	PER 9927 9936	fanciulla
+T145	LOC 9975 9979	Reno
+T145	FAC 10023 10029	scuola
+T147	FAC 10118 10122	casa
+T148	FAC 10170 10188	quella bianca casa
+T153	FAC 10290 10336	sua Kaffee - Halle dipinta in bianco e celeste
+T154	FAC 10342 10396	sue panetterie olezzanti di freschi Kuchen e Schnecken
+T159	PER 10677 10703	suoi compagni d ' iniquità
+T162	PER 10741 10781	Egoisti tutti quanti , volgari , frivoli
+T165	GPE 10949 10957	Das Land
+T166	PER 11222 11228	Jungen
+T172	PER 11561 11592	Mademoiselle — Chérie — Brandès
+T192	PER 12249 12257	sgarbata
+T196	PER 12432 12446	hochwolgeboren
+
+38360_il_ponte_del_paradiso_-_racconto_brat.ann:
+T8	PER 727 735	mio caro
+T17	PER 1207 1211	caro
+T28	PER 1963 1975	capo di casa
+T36	GPE 2643 2653	quel paese
+T42	PER 2962 2976	corrispondente
+T45	PER 3167 3181	signor Anselmo
+T46	PER 3187 3211	quel re dei galantuomini
+T47	LOC 3325 3334	Piazzetta
+T52	PER 3907 3911	caro
+T55	PER 4149 4156	noi due
+T80	PER 5213 5230	mio ottimo Brizzi
+T75	PER 5849 5854	tanti
+T79	PER 5953 5962	quel tale
+T88	PER 6737 6770	altrettanti monaci in una abbazia
+T90	PER 6838 6854	voi altri uomini
+T114	PER 8721 8736	signori Zuliani
+T138	PER 9915 9941	quella Margherita Cantelli
+T141	PER 10112 10132	vero angelo in terra
+T146	PER 11016 11022	paggio
+T161	PER 11683 11703	madri , povere madri
+
+39289_la_jettatrice_brat.ann:
+T3	ORG 324 334	cavalleria
+T6	PER 537 552	uomini da amare
+T9	PER 1108 1122	uomini e donne
+T16	PER 1927 1943	Padri spirituali
+T18	PER 2039 2064	pubblico più o meno largo
+T20	PER 2179 2185	simili
+T22	PER 2356 2361	donne
+T24	GPE 2549 2574	quel caratteristico paese
+T25	PER 2779 2839	quegli sciagurati ai quali si attribuisce il fascino maligno
+T27	PER 2897 2902	amico
+T30	PER 3379 3385	quelli
+T31	PER 3417 3420	uno
+T35	LOC 4083 4102	mondo della materia
+T40	PER 4569 4574	tanti
+T42	FAC 4757 4763	strade
+T45	FAC 4957 4966	Sannazaro
+T51	FAC 5169 5173	Casa
+T52	PER 5283 5304	qualche altra persona
+T54	PER 5375 5381	uomini
+T55	PER 5389 5418	uomini più brutti e sgraziati
+T56	PER 5545 5571	più spaventevoli jettatori
+T58	PER 5589 5618	gente tetra , vestita di nero
+T61	PER 5803 5814	quella dama
+T62	PER 5852 5857	tutti
+T68	FAC 6506 6515	Gambrinus
+T78	PER 7298 7305	diavolo
+T85	LOC 8972 8977	mondo
+T91	PER 9674 9689	quella creatura
+T92	PER 9698 9711	povera orfana
+T104	PER 10839 10857	eroe d ' un dramma
+T113	PER 11691 11704	quest ' altro
+T118	PER 12199 12215	più begli uomini
+T120	PER 12773 12778	altri
+T122	PER 12887 12894	vecchio
+
+39289_la_muta_comunione_brat.ann:
+T1	PER 517 547	questo povero signor Me Stesso
+T15	GPE 2604 2610	Babele
+T21	PER 3109 3117	Abdallah
+T30	PER 4336 4353	uomini e le donne
+T31	PER 4508 4522	Uomini e donne
+T35	PER 5590 5609	stessi protagonisti
+T36	PER 5643 5658	Noi cantastorie
+T36	PER 5680 5690	confidenti
+T41	PER 6466 6476	confidenti
+T43	PER 6692 6699	posteri
+T44	PER 6752 6757	tutti
+T44	PER 6775 6810	alcuni , più modesti , più semplici
+T46	PER 6929 6935	quelli
+T47	PER 7047 7050	Uno
+T48	PER 7100 7105	altro
+T49	PER 7303 7315	sue lettrici
+T59	LOC 8524 8529	mondo
+T60	LOC 8532 8537	mondo
+T79	PER 11059 11067	entrambi
+T86	PER 11831 11839	entrambi
+
+39337_la_vita_comincia_domani_-_romanzo_brat.ann:
+T1	FAC 46 69	pianterreno della villa
+T3	FAC 79 95	giardino fiorito
+T7	FAC 976 982	aiuola
+T10	FAC 1133 1141	giardino
+T20	LOC 2017 2023	pendìo
+T16	FAC 2028 2036	giardino
+T17	FAC 2144 2152	cancello
+T21	PER 2547 2597	suo fratello più che ventenne , Marcuccio lo scemo
+T25	FAC 3155 3163	giardino
+T58	PER 5587 5619	smorfiosa come una piccola bimba
+T63	PER 6043 6050	curiose
+T65	PER 6156 6174	padrona della casa
+T84	FAC 6597 6602	bagno
+T76	PER 6622 6625	uno
+T106	PER 8036 8040	uomo
+T107	PER 8046 8103	Andrea , un uomo serio , uno scienziato di così gran nome
+T100	PER 8125 8142	pettegola come te
+T139	PER 9918 9946	musicista oltremodo virtuoso
+T135	PER 11040 11066	Filosofo pensatore , poeta
+
+39541_donna_paola_brat.ann:
+T28	PER 2345 2350	buona
+T36	PER 2850 2856	marito
+T37	PER 2859 2865	moglie
+T53	PER 3863 3870	brigata
+T100	PER 7042 7052	Beati loro
+T111	PER 7440 7449	due o tre
+T121	PER 7810 7827	amici e le amiche
+
+41281_il_perduto_amore_brat.ann:
+T0	PER 12 17	Daria
+T4	LOC 567 572	campi
+T7	PER 1364 1375	prigioniero
+T10	LOC 1553 1566	più alte rupi
+T11	FAC 1869 1880	sotterraneo
+T15	LOC 2041 2055	desolate lande
+T17	LOC 2214 2237	questo viottolo angusto
+T23	PER 2897 2920	giovane vestito di nero
+T26	PER 3173 3225	uomo bruciato dalla fiamma di una logorante passione
+T42	FAC 4349 4361	propria casa
+T41	VEH 4496 4504	ferrovia
+T45	PER 5094 5099	bello
+T46	PER 5284 5306	uomini non più giovani
+T56	PER 6714 6721	ragazzi
+T72	LOC 7923 7941	cascatelle candide
+T76	PER 8082 8093	mia persona
+T74	PER 8353 8418	uno che stacca le labbra da una tazza dopo aver bevuto abbastanza
+T75	PER 8589 8592	uno
+T81	PER 8829 8836	vecchio
+T90	PER 10048 10117	meticcio , un essere semplice e sano , una creatura riccamente dotata
+T110	FAC 11056 11079	loro capanna di giunchi
+T107	LOC 11195 11212	tutto il sentiero
+T110	PER 11389 11403	sposo nascosto
+T118	PER 12312 12318	Behela
+
+41473_vita_e_avventure_di_riccardo_joanna_-_romanzo_brat.ann:
+T0	PER 4 11	PICCOLO
+T5	PER 1087 1096	fanciullo
+T19	PER 2135 2156	creaturina che soffre
+T29	PER 2916 2919	Dio
+T47	PER 4661 4668	vecchio
+T59	PER 5512 5520	Riccardo
+T65	PER 5930 5955	Marià , Marianna mia cara
+T71	PER 6072 6084	Marianna sua
+T76	PER 6526 6571	Marianna , la serva , dalle nerborute braccia
+T76	PER 6827 6857	bimbo , silenzioso e dignitoso
+T100	PER 8138 8155	bimbo senza madre
+T102	PER 8183 8204	donna senza figliuoli
+T122	PER 9332 9339	Madonna
+T126	PER 9549 9559	Pellegrini
+T132	PER 9803 9807	Gesù
+T133	PER 9812 9816	Gesù
+T135	ORG 9849 9854	Tempo
+T128	LOC 9863 9884	piazzetta dei Bianchi
+T146	FAC 10227 10236	stamperia
+T186	FAC 12164 12173	stamperia
+
+42237_cristina_brat.ann:
+T3	PER 1128 1138	Marcorelli
+T5	PER 1172 1180	Fiorillo
+T9	FAC 1348 1356	terrazza
+T12	PER 1756 1766	Marcorelli
+T25	FAC 2643 2678	collegio militare della Nunziatella
+T28	PER 2800 2819	questo suo fratello
+T44	FAC 3958 3963	liceo
+T46	PER 4170 4191	altri , le creaturine
+T50	FAC 4348 4353	liceo
+T56	GPE 4732 4736	Mola
+T69	PER 5355 5400	Carmela , la figlia di Graziella la portinaia
+T93	PER 6310 6318	Cristina
+T103	PER 7165 7202	gran bel giovane , una testa bizzarra
+T104	PER 7207 7223	amico di Totonno
+T117	LOC 8331 8345	piazza Mercato
+T126	LOC 8890 8904	piazza Mercato
+T130	PER 8958 8980	ragazze di Santa Maria
+T131	GPE 8969 8980	Santa Maria
+T148	PER 9752 9759	Peppino
+T149	PER 9787 9809	spasimante provinciale
+T155	PER 10139 10168	tutta la fila delle fanciulle
+T158	PER 10300 10308	Cristina
+T159	PER 10313 10331	Cristina Demartino
+T164	PER 10545 10552	Peppino
+T165	PER 10559 10570	stravagante
+T169	PER 10782 10789	Dio mio
+T174	GPE 10982 10999	tutta Santa Maria
+T182	FAC 11166 11172	strade
+T205	PER 12763 12802	uomini politici del partito democratico
+T206	ORG 12783 12802	partito democratico
+
+42416_alla_scuola_brat.ann:
+T9	FAC 966 977	pianterreno
+T10	FAC 986 1003	scuole elementari
+T36	FAC 2893 2921	giardinetto della ginnastica
+T48	PER 3606 3643	tutte quelle piccine — sessanta forse
+T53	FAC 3941 3947	classe
+T61	PER 4759 4771	grassottella
+T109	PER 10142 10156	queste , poche
+T120	PER 11050 11071	quella scarna di Aloe
+T134	FAC 12531 12543	altra classe
+T147	PER 13192 13255	Casanova , quella poveretta che veniva a scuola con gli zoccoli
+
+42416_una_fioraia_brat.ann:
+T17	LOC 2038 2043	Porto
+T23	LOC 2422 2431	Portanova
+T21	FAC 2686 2705	strada dei Mercanti
+T31	LOC 3002 3024	piazzetta di Portanova
+T35	LOC 3146 3164	piazzetta di Porto
+T41	FAC 4015 4036	stabilimento di bagni
+T50	LOC 4720 4733	santa Barbara
+T51	LOC 4745 4757	Mezzocannone
+T52	LOC 4772 4781	Cerriglio
+T57	PER 5371 5402	Tutta quella gente affaccendata
+T58	PER 5436 5444	bottegai
+T61	PER 5525 5550	serve luride e straccione
+T76	LOC 6522 6531	Portanova
+T79	FAC 8207 8223	strade superiori
+T91	LOC 8318 8327	Portanova
+T91	FAC 8893 8901	giardini
+T109	LOC 9296 9312	piazza Municipio
+T97	FAC 9384 9392	giardino
+T120	FAC 11246 11267	Boulangerie française
+T125	VEH 11764 11772	carrozza
+
+42608_donna_stràula_brat.ann:
+T30	PER 1956 1963	parenti
+T44	PER 3279 3285	ognuna
+T51	LOC 3545 3550	mondo
+T53	PER 3886 3900	quelle angiole
+T53	PER 3585 3593	tangheri
+T54	PER 3795 3800	altri
+T76	FAC 4729 4746	Monastero Vecchio
+T93	PER 5896 5908	altri uomini
+T134	PER 8835 8855	malati e partorienti
+T155	FAC 10666 10674	stradone
+T156	PER 10715 10732	primo carrettiere
+T162	PER 11080 11104	avvocati e i procuratori
+T163	ORG 11194 11199	stato
+
+42643_tormenta!_brat.ann:
+T26	FAC 2833 2841	collegio
+T39	PER 5117 5122	donna
+T41	PER 5371 5376	altri
+T47	PER 6897 6902	altri
+T58	PER 8327 8332	altri
+
+42643_un_caso_di_sonnambulismo_brat.ann:
+T21	GPE 2031 2040	provincia
+T30	FAC 3698 3709	quartierino
+T31	FAC 3716 3766	stesso ufficio della Direzione Generale di Polizia
+T43	FAC 4882 4888	stanza
+T79	ORG 8703 8727	Ministero dell ' interno
+T104	PER 9726 9731	cuoco
+T128	FAC 11443 11452	ringhiera
+
+42673_forse_che_sì_forse_che_no_brat.ann:
+T1	LOC 190 206	pianura fuggente
+T19	PER 4867 4878	Muse vocali
+T35	LOC 7142 7167	margine erboso del canale
+T39	GPE 8710 8715	regno
+T54	GPE 11775 11785	Settefonti
+
+42976_nozze_d'oro_-_romanzo_brat.ann:
+T60	FAC 3967 3975	giardino
+T65	GPE 4413 4430	San Vito al piano
+T107	FAC 6822 6830	giardino
+T112	PER 7343 7410	fratello Luciano , ammogliato in seconde nozze e stabilito a Parigi
+T124	PER 8088 8097	tua Julie
+T129	PER 8321 8366	Girolamo , l ' uomo politico residente a Roma
+T136	PER 8830 8835	altri
+T144	LOC 9267 9271	mari
+T147	PER 9776 9781	altri
+T152	PER 10328 10336	famiglia
+T153	FAC 10344 10348	casa
+T166	VEH 10844 10859	loro bastimenti
+
+43217_capo_d'anno_brat.ann:
+T18	PER 2350 2355	tutti
+T20	PER 3438 3551	reggimenti di soldatini di piombo e di legno , ulani , croati , bersaglieri , chasseurs d ' Afrique , horseguards
+T34	PER 4054 4063	soldatini
+T43	PER 5214 5220	marito
+T47	PER 5296 5304	famiglia
+T52	PER 5732 5737	tutti
+T55	GPE 5796 5801	Staël
+T57	GPE 5888 5893	Ségur
+T67	PER 6973 6996	miei nipoti e pronipoti
+T98	FAC 10602 10609	balcone
+T105	VEH 11363 11374	carrozzelle
+T112	PER 11765 11781	parenti ed amici
+T121	ORG 12661 12667	teatro
+
+43217_storia_d'una_viola_brat.ann:
+T2	FAC 111 124	villeggiatura
+T4	LOC 466 502	quella meraviglia di lago e di monti
+T7	ORG 973 978	posta
+T9	ORG 1000 1008	giornale
+T15	PER 1743 1749	ondine
+T16	LOC 1782 1786	lago
+T22	PER 2185 2194	direttore
+T36	ORG 4968 4973	Stato
+T38	GPE 5054 5065	Alessandria
+T40	GPE 5091 5100	Spielberg
+T48	ORG 5509 5514	Stato
+T50	GPE 5750 5755	China
+T55	PER 7176 7214	ladro francese fuggito dalla Bastiglia
+T56	FAC 7205 7214	Bastiglia
+
+45647_l'esercito_italiano_durante_il_colèra_del_1867_brat.ann:
+T33	GPE 3796 3802	Italia
+T34	GPE 3826 3848	quelle del mezzogiorno
+T35	GPE 3878 3894	quella di Reggio
+T31	GPE 4033 4041	Girgenti
+T32	GPE 4047 4060	Caltanissetta
+T36	ORG 4235 4257	Ministero della guerra
+T67	ORG 6122 6130	esercito
+T71	PER 6453 6493	sindaci e molti altri pubblici officiali
+T77	PER 6657 6728	tutti coloro che avrebbero potuto soccorrere più efficacemente le plebi
+T85	PER 6899 6970	chiunque possedesse tanto da poter vivere qualche giorno senza lavorare
+T101	GPE 7746 7751	città
+T102	PER 8260 8268	Autorità
+T113	FAC 8849 8877	botteghe di oggetti di lusso
+T123	PER 9706 9726	Autorità governative
+T129	PER 10374 10390	medici assassini
+T137	PER 10987 10995	Autorità
+T143	FAC 11199 11203	case
+T145	PER 11246 11254	Autorità
+T147	FAC 11305 11320	pietoso ufficio
+T152	LOC 11666 11679	altri terreni
+T164	ORG 11832 11846	forza pubblica
+T170	GPE 11955 11962	Sicilia
+T174	PER 12072 12081	stranieri
+T169	FAC 12401 12438	caserme dei carabinieri e dei soldati
+T195	LOC 13006 13022	piazze del paese
+
+46211_ombre_di_occaso_brat.ann:
+T1	LOC 148 166	cielo senza stelle
+T13	PER 2740 2745	altri
+T15	PER 3165 3205	pochi altri amici della prima giovinezza
+T24	PER 3885 3890	folla
+T33	ORG 5468 5477	assemblee
+T34	ORG 5484 5492	comitati
+T25	PER 5503 5524	elettori e gli eletti
+T26	ORG 5541 5567	circoli mondani o politici
+T31	PER 5915 5926	ogni classe
+T32	PER 6238 6243	folla
+T38	PER 7332 7337	folla
+T40	PER 7416 7422	coloro
+T42	LOC 7483 7487	mare
+T46	FAC 7877 7892	Castel Giubileo
+T51	PER 8210 8216	popolo
+T69	PER 9891 9902	Altri morti
+
+46568_giorgina_e_i_suoi_uomini_brat.ann:
+T21	PER 1634 1641	Aurelio
+T53	FAC 4199 4204	bagni
+T54	PER 4284 4322	Qualche brigata di maschi e di femmine
+T84	PER 6754 6805	pugno di malfattori fortunati o di sciocchi paurosi
+T94	LOC 8303 8313	gran viale
+T103	PER 8638 8668	quattro o cinque canzonettiste
+T120	LOC 9702 9707	viale
+T122	FAC 9756 9761	bagni
+T139	PER 10786 10790	cara
+T141	PER 11402 11407	altri
+T144	PER 11626 11631	altri
+T147	ORG 11788 11795	società
+
+46568_la_marmotta_brat.ann:
+T5	LOC 455 468	piazza Cavour
+T6	PER 462 468	Cavour
+T89	PER 5688 5699	uomo maturo
+T126	PER 7750 7806	amico , il quale non avrebbe mai creduto all ' innocenza
+T130	PER 8028 8040	signora Anna
+T141	FAC 8823 8830	istrada
+T144	PER 8963 8971	ammalata
+T200	FAC 12560 12578	linea del Gottardo
+
+46704_no_-_romanzo_brat.ann:
+T24	FAC 1978 1983	pozzo
+T51	PER 5800 5806	poveri
+T81	LOC 7620 7652	campi dai lunghi filari denudati
+T79	FAC 8484 8527	cortile grande come un tavolone d ' osteria
+T94	LOC 8843 8849	piazza
+
+46875_dopo_venticinque_anni_brat.ann:
+T5	PER 245 292	uno poteva essere di quarantacinque anni al più
+T6	PER 302 318	altro di 21 a 22
+T59	LOC 3894 3899	Monte
+T69	FAC 4767 4775	Stazione
+T80	PER 5586 5631	Marghera , l ' eroica , la memoranda Marghera
+T84	PER 5792 5806	capi e soldati
+T87	FAC 6090 6114	quei quartieri distrutti
+T103	LOC 7064 7070	piazza
+T108	FAC 7176 7190	Palazzo Ducale
+T126	GPE 8739 8746	Venezia
+T144	FAC 10305 10332	nostri quartieri più poveri
+T158	FAC 12856 12865	quartiere
+
+46875_l'orologio_fermo_brat.ann:
+T4	ORG 231 254	fazione di Monte Suello
+T5	FAC 242 254	Monte Suello
+T43	PER 5690 5696	Fausto
+T62	FAC 7574 7595	nuove aiuole di fiori
+T63	FAC 7600 7618	nostro giardinetto
+T64	FAC 7699 7703	casa
+T76	PER 9417 9440	più gran re della terra
+T82	PER 10149 10155	automa
+
+46999_suor_giovanna_della_croce_-_romanzo_brat.ann:
+T8	FAC 692 705	tutto il coro
+T46	PER 4298 4308	queste tre
+T53	FAC 5088 5092	coro
+T54	PER 5095 5153	alcune più lente per l ' età , forse , o per la corpulenza
+T55	PER 5156 5172	altre più rapide
+T68	FAC 6178 6182	coro
+T70	PER 6538 6542	Gesù
+T74	PER 6596 6622	Grande Mantellata di Avila
+T77	PER 6996 7011	nessuna di esse
+T79	PER 7155 7159	Gesù
+T81	FAC 7390 7451	piccolo cimitero di suor Orsola , la fondatrice dell ' Ordine
+T89	PER 7831 7835	Gesù
+T97	PER 8409 8414	tutte
+T107	PER 9173 9177	Gesù
+T115	PER 9748 9752	Gesù
+T124	PER 10316 10320	Gesù
+T130	PER 11029 11052	madre cara , madre cara
+T163	PER 12850 12854	Gesù
+
+47058_maurizio_zapolyi_brat.ann:
+T7	PER 387 403	Szekely , Siculi
+T10	ORG 461 501	banda primitiva dell ' esercito di Arpad
+T22	ORG 878 906	regime quello del reggimento
+T29	PER 1198 1237	Mio fratello primogenito , morto poscia
+T77	ORG 5172 5190	fabbrica imperiale
+T87	FAC 5886 5892	aiuole
+T100	PER 7046 7053	colosso
+
+47294_il_nemico,_vol._i_brat.ann:
+T7	PER 794 801	umanità
+T28	FAC 2712 2742	camera vasta tre larghi divani
+T86	FAC 5905 5911	strada
+T84	ORG 6171 6187	teatro imperiale
+T106	PER 7653 7672	settario del Raskol
+T115	PER 8385 8510	Mio caro dwornik , primo dwornik di Pietroburgo , zio della bella Catia Ivanovna , la futura Adelina Patti della Santa Russia
+T121	FAC 8673 8711	bottiglieria francese Drummond et Fils
+T132	GPE 8836 8842	Odessa
+T129	PER 9119 9128	voi altri
+T140	ORG 9219 9230	tua fazione
+T149	PER 11313 11318	altri
+T152	FAC 11714 11725	enorme casa
+
+48361_in_faccia_al_destino_brat.ann:
+T9	PER 691 699	figliole
+T17	PER 1289 1297	Marcella
+T18	PER 1303 1330	brava massaia diciannovenne
+T23	PER 1552 1559	padrone
+T26	FAC 1791 1799	giardino
+T50	PER 4529 4534	madre
+T88	PER 9466 9471	altri
+T90	FAC 9576 9591	vicino convento
+T93	PER 10024 10041	ragazzi e ragazze
+
+48398_la_patria_lontana_brat.ann:
+T0	PER 6 14	Voialtri
+T12	ORG 791 798	circolo
+T14	PER 878 892	Nessuno di noi
+T34	PER 1614 1622	italiano
+T36	PER 1723 1748	signore della lunga barba
+T39	LOC 2151 2156	mondo
+T70	ORG 4163 4170	circolo
+T74	ORG 4348 4372	altro circolo di signore
+T77	PER 4465 4487	quelli che discutevano
+T84	PER 5049 5057	Poltrone
+T97	PER 5529 5546	borghese liberale
+T134	PER 9303 9311	Voialtri
+T142	PER 9567 9589	bella e forte gioventù
+T160	PER 10837 10842	Fogne
+T183	PER 11930 11948	ferito di coltello
+
+48400_l'illusione_brat.ann:
+T16	PER 619 624	tutti
+T143	VEH 7492 7500	victoria
+T155	FAC 8188 8192	casa
+T192	VEH 10810 10841	calèche della marchesa Castelli
+T194	VEH 10849 10874	victoria della Santamarta
+T199	PER 11456 11461	tutte
+
+48727_il_ritratto_a_pastello_brat.ann:
+T15	PER 3282 3290	andalusa
+T26	PER 4344 4355	ritrattista
+T47	PER 8457 8578	mia cugina , la solita cugina imposta dalla volontà dei cari genitori ai soliti figlioli docili , tranquilli e morigerati
+
+48801_il_re_bello_brat.ann:
+T15	ORG 1233 1238	corte
+T19	ORG 1529 1537	Orsoline
+T21	ORG 1603 1611	Clarisse
+T23	PER 1719 1757	tutte le vergini e le madri di Birònia
+T47	GPE 3230 3235	Regno
+T51	PER 3676 3689	persona tutta
+T55	PER 3876 3881	tutti
+T59	GPE 4039 4058	Regno della Birònia
+T61	PER 4068 4088	patriarcale famiglia
+T62	PER 4103 4127	figura fortissima del Re
+T80	ORG 5462 5467	Stato
+T101	GPE 6315 6340	Regno tutto della Birònia
+T105	GPE 6553 6558	regno
+T106	PER 6561 6596	quelli chiamati dai regni limitrofi
+T107	GPE 6581 6596	regni limitrofi
+T119	PER 7472 7530	messia , l ' erede , colui che doveva essere Ludovico XIII
+T129	ORG 7940 7952	felice Stato
+T135	FAC 8186 8194	giardini
+T138	GPE 8568 8573	Regno
+T141	GPE 8657 8662	Regno
+T144	PER 8805 8830	soli settantasette uomini
+T140	LOC 8841 8865	piazza dei Settantasette
+T146	PER 8852 8865	Settantasette
+T149	GPE 8960 8967	Sgorpìa
+T159	PER 9669 9674	donna
+T160	GPE 9678 9683	regno
+T164	GPE 9798 9817	regno dei Ludovichi
+T164	LOC 10182 10206	Piazza dei Settantasette
+T173	PER 10193 10206	Settantasette
+T175	GPE 10421 10426	Regno
+T194	ORG 11774 11779	Stato
+T198	GPE 11954 11968	Tutto il Regno
+T199	PER 12028 12063	chirurghi e ostetrici e specialisti
+T200	PER 12081 12084	uno
+T208	ORG 12478 12483	corte
+T201	PER 12491 12516	stesso monsignore Vicario
+T211	ORG 12548 12556	Clarisse
+T213	ORG 12592 12603	Rocchettine
+
+49184_alla_finestra_brat.ann:
+T17	PER 1551 1554	uno
+T18	PER 1561 1566	altro
+T19	PER 1573 1582	inquilini
+T46	LOC 3125 3128	rio
+T48	FAC 3142 3151	Cà Dareni
+T62	FAC 4023 4046	stradicciuola non larga
+T80	LOC 5473 5482	piazzetta
+T82	PER 5646 5651	tutte
+T86	FAC 6048 6055	palazzo
+T113	FAC 7674 7684	parrocchia
+T124	GPE 8513 8520	Venezia
+T127	PER 8759 8784	bambini di sua conoscenza
+T129	FAC 8930 8938	sua casa
+T131	PER 8974 8985	zentilomini
+T134	PER 9207 9239	quelli ch ' erano da meno di lei
+T155	PER 10912 10924	parrocchiani
+T156	PER 10928 10952	coreConforti Don Vittore
+T167	FAC 11556 11566	parrocchia
+
+49231_il_romanzo_della_guerra_nell'anno_1914_brat.ann:
+T12	FAC 991 1008	giardini pubblici
+T13	FAC 1044 1052	giardini
+T16	PER 1097 1112	due assassinati
+T20	ORG 1427 1445	Austria - Ungheria
+T33	PER 3002 3082	garbato signore , un onesto , pacifico viaggiatore di commercio per gli articoli
+T37	GPE 3402 3408	Europa
+T47	ORG 3873 3882	Vorwaerts
+T50	ORG 4315 4337	giornali dell ' ordine
+T83	PER 6843 6892	romagnolo di schietto temperamento rivoluzionario
+T85	GPE 7055 7061	Italia
+T86	ORG 7066 7086	stato rivoluzionario
+T87	ORG 7487 7491	on .
+T109	PER 9236 9242	Kaiser
+T116	GPE 9355 9360	Ilion
+T116	PER 9529 9534	molte
+T131	GPE 9995 10002	Berlino
+T135	PER 10159 10168	meretrice
+T143	PER 10733 10744	benpensanti
+T143	ORG 11006 11010	on .
+
+49807_la_disdetta_brat.ann:
+T56	ORG 5053 5061	fabbrica
+T69	PER 6238 6260	persone di ogni genere
+T72	FAC 6552 6584	vaste sale dell ' antico palazzo
+T80	FAC 6890 6906	stanza appartata
+T86	PER 7066 7084	tutta questa gente
+T92	ORG 7829 7836	società
+T125	ORG 9882 9889	società
+T156	PER 12724 12730	vedovo
+
+49902_piccolo_romanzo_brat.ann:
+T36	FAC 2649 2666	Trinità dei Monti
+T106	GPE 7844 7852	Lanciano
+T116	GPE 8907 8915	Lanciano
+T123	GPE 10622 10636	Schillingfurst
+T131	PER 11045 11079	sudditi e tributari della Germania
+T133	PER 11092 11113	contadini , e i servi
+T138	GPE 11389 11395	Nerola
+
+52484_le_avventure_di_pinocchio_-_storia_di_un_burattino_brat.ann:
+T26	FAC 2977 2983	stanza
+T110	FAC 11762 11768	strada
+
+53801_la_moglie_di_sua_eccellenza_brat.ann:
+T3	FAC 232 239	albergo
+T10	GPE 1188 1194	Rodano
+T14	LOC 1308 1315	colline
+T17	PER 1653 1685	grande famiglia di prim ' ordine
+T39	VEH 3130 3138	ferrovia
+T63	FAC 4840 4860	terzo e quarto piano
+T92	PER 7324 7332	D ' Orea
+T99	PER 7739 7747	D ' Orea
+T104	VEH 7844 7862	ferrovia elettrica
+T108	PER 7990 7998	D ' Orea
+T113	FAC 8063 8071	pensione
+T114	FAC 8179 8190	primo piano
+T127	PER 9164 9169	altri
+T160	PER 10982 11009	duchi , principi , marchesi
+T161	PER 11035 11043	D ' Orea
+T168	FAC 11475 11490	Scala di Milano
+T181	PER 12530 12540	colonnello
+T182	PER 12545 12555	mio marito
+
+54787_il_lampionaio_brat.ann:
+T3	GPE 157 162	città
+T9	LOC 742 797	tutte candide , tutte nitide le piazze ampie ed allegre
+T16	LOC 1251 1256	mondo
+T42	PER 3481 3524	ragazzo che aveva visto la fuga di Gertrude
+T49	FAC 3970 3986	suo nascondiglio
+T60	PER 5527 5535	poverina
+T76	FAC 6892 6911	quel nero stambugio
+T91	PER 8411 8419	Qualcuno
+T87	PER 8434 8471	qualcuno che dev ' essere molto buono
+T90	PER 8714 8717	Dio
+T95	PER 9122 9144	fratellini e sorelline
+T119	PER 11133 11165	branchi di monelli dei due sessi
+T138	PER 12311 12314	uno
+T142	LOC 12599 12605	bacino
+
+57082_fedele_brat.ann:
+T2	PER 175 179	dame
+T6	PER 482 491	signorina
+T11	PER 858 879	altre amabili signore
+T12	PER 882 903	un paio di giovinotti
+T48	FAC 4122 4127	caffè
+T65	PER 5726 5731	cieco
+T72	PER 6697 6702	altri
+T123	FAC 10781 10786	caffè
+
+58415_una_sfida_al_polo_brat.ann:
+T6	PER 489 563	quelle diecimila persone composte di americani , di canadesi e d ' inglesi
+T8	VEH 866 899	suo automobile di ottanta cavalli
+T13	PER 1048 1089	Cinquecento che sono dei noiosi policemen
+T16	VEH 1350 1374	automobile di miss Ellen
+T26	VEH 2330 2371	automobile della bellissima Ellen Perkins
+T28	PER 2377 2444	più indiavolata sportman di tutti gli stati dell ' Unione Americana
+T32	LOC 2625 2676	Quel magnifico viale , tutto bianco , tutto diritto
+T33	PER 2734 2787	quella massa di scommettitori furibondi e di sportmen
+T45	VEH 3809 3842	magnifica macchina tutta scoperta
+T66	PER 5387 5477	grosso americano tutto chiuso in una monumentale pelliccia e con tanto di cilindro in capo
+T81	VEH 6458 6500	quel superbo automobile di ottanta cavalli
+T102	GPE 7341 7350	Cambridge
+T110	PER 7891 7896	altri
+T114	PER 8192 8225	proprietario del bar improvvisato
+T134	VEH 10015 10036	automobili di Buffalo
+T142	PER 10318 10355	più celebre degli Stati dell ' Unione
+T158	PER 11603 11610	Lorenzo
+T160	GPE 11741 11760	territorio canadese
+T183	LOC 12919 12946	terreni del dominio inglese
+
+59687_la_traversata_della_morte_brat.ann:
+T10	LOC 572 600	grande via maestra del cielo
+T38	VEH 2824 2868	barcacce d ' ogni dimensione e d ' ogni tipo
+T55	LOC 4225 4232	Balcani
+T61	GPE 4759 4778	provincia germanica
+T67	ORG 4968 4980	suo esercito
+T77	PER 5725 5756	circa cinquantamila ex - uomini
+T84	PER 6226 6245	gruppo di cavalieri
+T86	LOC 6272 6278	marina
+T90	LOC 6881 6889	spiaggia
+T113	PER 10131 10163	militi della Croce Rossa inglese
+T114	ORG 10144 10163	Croce Rossa inglese
+T120	PER 10810 10818	compagno
+T138	VEH 12731 12743	sommergibili
+
+59919_il_roccolo_di_sant'alipio_brat.ann:
+T5	FAC 217 227	case nuove
+T41	LOC 3072 3091	piazza di San Marco
+T45	FAC 3541 3568	loggia tutta oro e damaschi
+T53	LOC 3840 3846	piazza
+T77	PER 5597 5606	San Marco
+T91	ORG 7042 7055	scuole locali
+T95	FAC 7162 7166	casa
+T96	PER 7189 7214	vecchio e fedel servitore
+T106	FAC 7490 7521	seminario Gregoriano di Belluno
+T109	ORG 7677 7719	società di compagni svegli ed intelligenti
+T116	FAC 7925 7934	seminario
+T117	PER 7948 7973	più intimo dei suoi amici
+T137	FAC 8779 8788	Seminario
+T144	PER 8952 8961	ingegnere
+T150	PER 9270 9291	sartine e le crestaie
+T163	LOC 10034 10040	estero
+T170	PER 10301 10318	liberali cadorini
+T191	LOC 11528 11535	roccolo
+T193	GPE 11678 11688	Montericco
+T201	LOC 12379 12386	roccolo
+
+60115_il_crocifisso_d'argento_brat.ann:
+T45	LOC 2904 2920	splendido podere
+T84	PER 6175 6180	morta
+T104	PER 7235 7238	Dio
+T128	FAC 8966 8974	giardino
+T133	PER 9497 9545	miserabili creature che avevano perduta la madre
+T156	PER 11442 11463	quell ' umile Sindaco
+
+60183_l'ignoto_brat.ann:
+T0	LOC 4 26	Piazzale di Porta Roma
+T3	FAC 68 91	laboratorio pirotecnico
+T10	LOC 535 542	collina
+T31	LOC 1841 1857	sponda cittadina
+T43	LOC 2411 2417	piazza
+T43	FAC 2474 2479	ponte
+T44	FAC 2620 2636	parapetto destro
+T52	LOC 3095 3117	Piazzale di Porta Roma
+T63	LOC 3851 3893	lago percosso dal mite chiarore della luna
+T83	LOC 5554 5562	piazzale
+T91	LOC 6130 6138	piazzale
+T128	LOC 8960 8968	piazzale
+T128	LOC 10545 10550	fiume
+T130	ORG 10631 10651	fabbrica imperatoria
+T155	LOC 11813 11830	cielo bianchiccio
+T144	LOC 11914 11930	Riviera Casilina
+T147	LOC 12141 12146	fiume
+T160	LOC 12948 12959	Corso Appio
+
+60382_inutile!_brat.ann:
+T53	PER 5393 5404	bell ' uomo
+T59	PER 5984 6003	vero uomo superiore
+T61	LOC 6077 6089	nostro mondo
+T105	PER 10160 10165	nuora
+
+60641_i_tre_moschettieri,_vol._i_brat.ann:
+T1	FAC 100 114	borgo di Méung
+T15	ORG 1030 1036	Spagna
+T17	PER 1153 1188	ladri , i mendicanti , gli ugonotti
+T18	PER 1235 1240	tutti
+T19	PER 1259 1281	signori e gli ugonotti
+T44	PER 3763 3803	don Chisciotte di questo altro Rosinante
+T82	PER 6781 6786	altri
+T87	PER 7100 7112	moschettieri
+T119	FAC 9175 9189	molini a vento
+T127	PER 10256 10293	alcun oste , cameriere o palafreniere
+T141	PER 11261 11295	impertinente che si burlava di lui
+T143	PER 11363 11403	uomo dai quaranta ai quarantacinque anni
+T145	PER 11931 11960	osservatore il più scrupoloso
+
+60905_l'ultima_primavera_-_romanzo_brat.ann:
+T6	PER 627 642	nemici , questi
+T11	LOC 2409 2415	Olimpo
+T18	FAC 3445 3464	palazzo d ' Accorsi
+T102	FAC 11527 11537	Serramonte
+T106	FAC 11647 11657	Serramonte
+T117	FAC 13134 13144	Serramonte
+T119	PER 13186 13205	Ginevra d ' Accorsi
+
+61841_tizio_caio_sempronio_-_storia_mezzo_romana_brat.ann:
+T9	PER 547 553	popolo
+T35	LOC 2548 2561	grossi poderi
+T51	PER 3150 3162	grand ' uomo
+T74	FAC 4556 4567	peristilium
+T86	FAC 5610 5619	monastero
+T88	FAC 5812 5859	atrio toscano , il più semplice e il più antico
+T91	FAC 5990 6005	stanze laterali
+T98	FAC 6803 6817	logge laterali
+T101	PER 6894 6902	maggiori
+T110	FAC 7474 7484	peristilio
+T109	FAC 7579 7588	vestibolo
+T115	FAC 7700 7710	peristilio
+T112	FAC 7713 7721	giardino
+T119	PER 8070 8080	protettori
+T138	FAC 8737 8747	peristilio
+T136	PER 8908 8916	famiglia
+T138	FAC 8958 8966	giardino
+T147	FAC 9358 9366	giardino
+T158	FAC 9915 9930	piano superiore
+T159	PER 9947 9964	servi e i ragazzi
+T160	FAC 9978 10016	camere a tetto di tante case signorili
+T195	PER 12274 12280	marito
+T197	PER 12317 12331	Fortuna virile
+
+62400_la_carrozza_di_tutti_brat.ann:
+T11	PER 787 848	signore e signorine elegantissime , indorate e impennacchiate
+T13	PER 1162 1168	classi
+T18	PER 1471 1482	loro vicine
+T21	PER 2254 2269	tutte le classi
+T25	PER 2707 2712	tutti
+T26	PER 2806 2816	personaggi
+T30	LOC 3129 3149	piazza dello Statuto
+T31	LOC 3169 3185	centro di Torino
+T31	VEH 3212 3229	stesso carrozzone
+T35	LOC 3260 3272	via Siccardi
+T47	FAC 4475 4480	asilo
+T48	PER 4483 4505	governante o cucitrice
+T49	FAC 4509 4525	qualche istituto
+T51	LOC 4660 4675	piazza Castello
+T50	LOC 4711 4713	Po
+T67	PER 6493 6500	artisti
+T69	LOC 7251 7271	piazza dello Statuto
+T73	PER 7628 7640	saltimbanchi
+T80	LOC 8434 8454	vaste piazze candide
+T81	VEH 8491 8501	carrozzoni
+T82	VEH 8711 8730	file dei carrozzoni
+T89	PER 9375 9380	tutti
+T90	PER 9453 9495	Giors , un cocchiere della linea Vinzaglio
+T104	PER 11304 11371	vecchi , bambini , donne , malati , di qualunque condizione fossero
+T105	LOC 11452 11471	piazza Carlo Felice
+T104	PER 11459 11471	Carlo Felice
+T110	PER 12435 12460	signore di sua conoscenza
+T113	FAC 12618 12655	Grand Hôtel della Barriera di Francia
+T116	PER 12707 12715	famiglia
+
+64411_diana_degli_embriaci_-_storia_del_xii_secolo_brat.ann:
+T9	FAC 720 734	torri genovesi
+T21	FAC 1737 1750	case di fuori
+T36	PER 2491 2520	abitanti del colle di Sarzano
+T45	LOC 2656 2689	sommità delle colline circostanti
+T51	FAC 3054 3070	vecchio Castello
+T53	LOC 3152 3195	monti e le colline digradanti ad anfiteatro
+T61	LOC 3450 3455	monti
+T64	LOC 3499 3510	largo campo
+T66	FAC 3566 3585	San Giovanni di Piè
+T67	FAC 3591 3599	San Siro
+T68	FAC 3605 3631	Nostra Signora delle Vigne
+T83	PER 5569 5584	figura di donna
+T92	FAC 6030 6055	monasteri del Sacro Cuore
+T94	LOC 6136 6147	Terra Santa
+T99	LOC 6359 6370	Terra Santa
+T113	PER 8201 8206	tutte
+T127	PER 9227 9235	infedeli
+T146	GPE 10163 10172	Carignano
+T149	LOC 10296 10307	Terra Santa
+T163	PER 10735 10781	quella di vostro zio , il console Amico Brusco
+
+65391_il_conte_di_montecristo_brat.ann:
+T10	FAC 413 431	forte San Giovanni
+T12	VEH 537 547	bastimento
+T23	VEH 1302 1312	bastimento
+T24	VEH 1395 1429	naviglio eccellentemente governato
+T32	PER 1812 1859	uno degli accorsi alla spianata di San Giovanni
+T34	VEH 1911 1921	bastimento
+T41	VEH 2201 2211	bastimento
+T43	PER 2341 2357	tutta la persona
+T95	LOC 5747 5751	mare
+T96	VEH 5807 5817	bastimento
+T97	PER 5950 5958	Danglars
+T104	FAC 6186 6211	suo ufficio di computista
+T115	LOC 6555 6559	mare
+T157	VEH 8807 8817	bastimento
+T170	VEH 9608 9618	bastimento
+T171	GPE 9649 9658	Marsiglia
+T173	VEH 9919 9929	bastimento
+T177	PER 10031 10036	padre
+T178	PER 10040 10046	figlio
+T178	PER 10101 10118	stesso reggimento
+T196	PER 10898 10906	chiunque
+T203	GPE 11208 11221	Porto Ferrajo
+T212	GPE 11814 11827	Porto Ferrajo
+T223	PER 12278 12293	mio caro Dantès
+T225	PER 12452 12467	pilota costiere
+T226	PER 12471 12475	uomo
+
+65586_santippe_-_piccolo_romanzo_fra_l'antico_e_il_moderno_brat.ann:
+T5	LOC 185 198	piccola terra
+T12	PER 751 766	popolo ellenico
+T17	GPE 1412 1431	regno delle tenebre
+T23	ORG 2092 2103	positivismo
+T24	ORG 2109 2119	socialismo
+T27	LOC 2327 2341	suo Mississipì
+T48	FAC 3665 3689	qualche cimitero o museo
+T70	FAC 5785 5791	scuola
+T86	PER 6811 6831	tutte le altre genti
+T102	GPE 8146 8203	una di quelle nazioni che oggi diciamo una grande nazione
+T107	VEH 8708 8716	macchine
+T108	GPE 8900 8949	questa necropoli bianca dei grandi morti ellenici
+T111	GPE 9132 9157	questa necropoli di morti
+T115	PER 9466 9494	corona di splendenti giovani
+T118	PER 9791 9798	Socrate
+T124	PER 10200 10215	popolo ellenico
+T135	PER 10773 10815	Clitennestra lorda di sangue e di lussuria
+T155	PER 12002 12009	Socrate
+T156	PER 12014 12055	discepoli e gli amici del grande filosofo
+T157	PER 12040 12055	grande filosofo
+T161	PER 12262 12269	Socrate
+T167	PER 12435 12442	Socrate
+
+65736_il_giro_del_mondo_in_ottanta_giorni_brat.ann:
+T7	LOC 167 212	numero 7 di Saville - row , Burlington Garden
+T12	FAC 343 366	Reform - Club di Londra
+T30	GPE 1071 1075	City
+T33	VEH 1136 1173	nave avente per armatore Phileas Fogg
+T37	ORG 1287 1308	collegio d ' avvocati
+T52	FAC 1588 1623	Istituto Reale della Gran Brettagna
+T54	FAC 1636 1654	Istituto di Londra
+T56	FAC 1667 1691	Istituto degli Artigiani
+T58	FAC 1704 1719	Istituto Russel
+T60	FAC 1732 1764	Istituto letterario dell ' Ovest
+T61	LOC 1759 1764	Ovest
+T62	FAC 1777 1797	Istituto del Diritto
+T63	FAC 1806 1857	quell ' Istituto delle Arti e delle Scienze riunite
+T70	FAC 2192 2205	Reform - Club
+T75	PER 2586 2595	creditore
+T82	LOC 3424 3436	luogo remoto
+T110	FAC 5302 5329	quelle stanze ben addobbate
+T111	FAC 5337 5350	Reform - Club
+T117	FAC 5662 5666	club
+T122	FAC 5870 5874	club
+T124	FAC 5956 5960	club
+T127	FAC 6320 6324	club
+T160	ORG 8272 8277	circo
+T165	PER 8463 8471	pompieri
+T176	PER 8917 8927	Gambalesta
+T207	PER 12227 12234	attriti
+T208	PER 12251 12258	attriti
+
+67559_forte_come_l'amore_brat.ann:
+T13	PER 1453 1458	Volta
+T22	PER 2135 2161	qualcuno che li disconosce
+T28	FAC 2531 2539	giardino
+T68	PER 6144 6151	persona
+T81	PER 7817 7886	donna giovine vestita di velluto nero con un piccolo collare di trina
+T89	PER 10512 10541	pochi quelli che vi ascendono
+T105	PER 12390 12410	bambina che piangeva
+T114	ORG 12871 12879	collegio
+T111	PER 13000 13018	maestre e compagne
+
+68766_o_tutto_o_nulla_-_romanzo_brat.ann:
+T12	PER 1172 1187	uno tra ' piedi
+T12	PER 1257 1270	mezza dozzina
+T15	PER 1534 1539	tutte
+T43	FAC 4212 4224	casa Vezzosi
+T85	PER 7247 7269	riguardoso carabiniere
+T88	PER 7806 7842	tutte le persone che discorrono bene
+T98	PER 8935 8953	Lettori e lettrici
+T111	PER 9935 9958	tutti i suoi personaggi
+T124	PER 11267 11275	Marianna
+
+69294_colei_che_non_si_deve_amare_brat.ann:
+T20	PER 1855 1861	timidi
+T41	PER 3618 3625	cattiva
+T47	PER 4118 4174	quelli che ignorano affatto il coraggio della ribellione
+T57	PER 4760 4770	sua Grazia
+T58	PER 4795 4812	tutto il vicinato
+T66	FAC 5384 5399	piccola bottega
+T80	FAC 6816 6823	bottega
+T81	FAC 6826 6833	bottega
+T83	PER 6929 6939	occhialaio
+T92	PER 7380 7406	fanciullo veramente a modo
+T94	FAC 7615 7621	scuola
+T99	FAC 7766 7786	retrobottega paterna
+T106	FAC 8146 8163	scuola gentilizia
+T107	PER 8191 8204	altri discoli
+T111	PER 8450 8465	propria persona
+T116	FAC 9023 9029	scuola
+T118	PER 9044 9091	quella che gli portava il paniere della merenda
+T120	PER 9147 9171	figlio d ' un occhialaio
+T125	FAC 9254 9263	sua corte
+T135	PER 9846 9871	figlio prete od ufficiale
+T136	PER 9896 9911	famiglie grandi
+T138	PER 9978 10012	falange senza numero d ' inoperosi
+T144	ORG 10464 10469	stati
+T138	PER 10593 10603	scienziato
+T139	PER 10611 10622	speculatore
+T151	PER 11398 11410	del Ferrante
+T159	FAC 11426 11438	vicina corte
+T167	PER 12433 12460	uomo più pacifico del mondo

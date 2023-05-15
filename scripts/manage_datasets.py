@@ -1,4 +1,5 @@
 import argparse
+import pandas
 import os
 
 # Get all the annotations from the ann files contained in the folder "input_folders_name"
@@ -195,56 +196,66 @@ def fuse_datasets(differences: str, final_differences: str, dataset: dict):
     
     return fused_dataset
 
-# Print the number of all the annotations present in the dataset
-def print_ann_number(dataset: dict, to_print: str):
-    occurrences = {}
+# Get the number of all the annotations present in the dataset
+def get_ann_number(dataset: dict):
+    entity_types = {}
     total = 0
     for text in dataset:
         for annotation in dataset[text]:
-            if not annotation['label']['name'] in occurrences:
-                occurrences[annotation['label']['name']] = 0
+            if not annotation['label']['name'] in entity_types:
+                entity_types[annotation['label']['name']] = 0
             else:
-                occurrences[annotation['label']['name']] += 1
+                entity_types[annotation['label']['name']] += 1
             total += 1
-    keys = list(occurrences.keys())
+    keys = list(entity_types.keys())
     keys.sort()
-    sorted_occurrences = {i: occurrences[i] for i in keys}
+    sorted_entity_types = {i: entity_types[i] for i in keys}
     
-    print('There is a total of ' + str(total) + ' annotations present in ', end = '')
+    occurrences = {
+        'types': sorted_entity_types,
+        'total': total
+    }
+    
+    return occurrences
+
+# Print the number of all the annotations present in "occurrences"
+def print_ann_number(occurrences: dict, to_print: str):
+    print('There is a total of ' + str(occurrences['total']) + ' annotations present in ', end = '')
     print(to_print, end = '')
     print(', of which:')
-    for labels_type in sorted_occurrences:
-        print(labels_type + ' = ' + str(sorted_occurrences[labels_type]) + '\t', end = '')
+    for labels_type in occurrences['types']:
+        print(labels_type + ' = ' + str(occurrences['types'][labels_type]) + '\t', end = '')
     print()
 
-# Print the number of annotations of the dataset for each text
-def print_ann_number_for_texts(dataset: dict):
-    cont = {}
-    for text in dataset:
-        cont[text] = len(dataset[text])
+# Plot the comparison of the types of the entities between "occurrences1" and "occurrences2"
+def plot_types_comparison(occurrences1: dict, occurrences2: dict):
+    for entity_type in occurrences1['types']:
+        occurrences1['types'][entity_type] /= occurrences1['total']
+    for entity_type in occurrences2['types']:
+        occurrences2['types'][entity_type] /= occurrences2['total']
     
-    print('Below are the number of annotations for each text:')
-    average = 0
-    for text in cont:
-        print(str(cont[text]) + '\t' + text)
-        average += cont[text]
-    average /= len(cont)
-    print('There is an average of ' + str('{:.1f}'.format(average)) + ' annotations for each text.')
+    df = pandas.DataFrame({'entities1': occurrences1['types'].values(),
+                           'entities2': occurrences2['types'].values()},
+                          index = occurrences1['types'].keys())
+    df.plot.bar(figsize = (4, 4), title = 'frequency')
 
-# Print the number of annotations of the dataset for each level
-def print_ann_number_for_levels(dataset: dict):
+# Get the number of annotations of the dataset for each level
+def get_ann_number_for_levels(dataset: dict):
     levels = {}
     total = 0
     for text in dataset:
         i = 0
         nested_ann = []
         while i < len(dataset[text]):
-            actual_level = 0
+            actual_level = 'no'
             
             found = False
             for ann in nested_ann:
                 if dataset[text][i]['label']['first'] < ann['label']['last']:
-                    actual_level += 1
+                    if actual_level == 'no':
+                        actual_level = 1
+                    else:
+                        actual_level += 1
                     found = True
             if not found:
                 nested_ann.clear()
@@ -258,40 +269,96 @@ def print_ann_number_for_levels(dataset: dict):
             nested_ann.append(dataset[text][i])
             i += 1
     
+    occurrences = {
+        'levels': levels,
+        'total': total
+    }
+    
+    return occurrences
+
+# Print the number of annotations of "occurrences" for each level
+def print_ann_number_for_levels(occurrences: dict):
     print('Below are the number of annotations for each level:')
-    for level in levels:
-        if level == 0:
-            print('no', end = '')
-        else:
-            print(str(level), end = '')
-        print(':\t' + str(levels[level]) + '\t', end = '')
-        if levels[level] < 1000:
+    for level in occurrences['levels']:
+        print(str(level), end = '')
+        print(':\t\t' + str(occurrences['levels'][level]) + '\t\t', end = '')
+        if occurrences['levels'][level] < 1000:
             print('\t', end = '')
-        print(str('{:.3f}'.format((levels[level] / total) * 100)) + '%')
+        print(str('{:.3f}'.format((occurrences['levels'][level] / occurrences['total']) * 100)) + '%')
+
+# Plot the comparison of the nested levels between "occurrences1" and "occurrences2"
+def plot_levels_comparison(occurrences1: dict, occurrences2: dict):
+    for level in occurrences1['levels']:
+        if level not in occurrences2['levels']:
+            occurrences2['levels'][level] = 0
+        occurrences1['levels'][level] /= occurrences1['total']
+    for level in occurrences2['levels']:
+        if level not in occurrences1['levels']:
+            occurrences1['levels'][level] = 0
+        occurrences2['levels'][level] /= occurrences2['total']
+    
+    df = pandas.DataFrame({'entities1': occurrences1['levels'].values(),
+                           'entities2': occurrences2['levels'].values()},
+                          index = occurrences1['levels'].keys())
+    df.plot.bar(figsize = (4, 4), title = 'nesting')
+
+# Print the average of the annotations of the dataset
+def print_ann_average(dataset: dict):
+    average = 0
+    for text in dataset:
+        average += len(dataset[text])
+    average /= len(dataset)
+    print('There is an average of ' + str('{:.1f}'.format(average)) + ' annotations for each text.')
+
+# Compare the datasets and plot the results
+def compare_datasets(dataset1: dict, name_dataset1: str, dataset2: dict, name_dataset2: str):
+    types1 = get_ann_number(dataset1)
+    print_ann_number(types1, name_dataset1)
+    print_ann_average(dataset1)
+    levels1 = get_ann_number_for_levels(dataset1)
+    print_ann_number_for_levels(levels1)
+    print()
+    types2 = get_ann_number(dataset2)
+    print_ann_number(types2, name_dataset2)
+    print_ann_average(dataset2)
+    levels2 = get_ann_number_for_levels(dataset2)
+    print_ann_number_for_levels(levels2)
+    
+    plot_types_comparison(types1, types2)
+    plot_levels_comparison(levels1, levels2)
 
 # Analyse the two input datasets by printing the number of annotations they have in common and
 # the number of different annotations between them
 def analyse_datasets(dataset1: dict, name_dataset1: str, dataset2: dict, name_dataset2: str):
     commons_dataset = get_occurrences(dataset1, dataset2)
-    print_ann_number(commons_dataset, 'both datasets')
-    print_ann_number_for_texts(commons_dataset)
+    c_types = get_ann_number(commons_dataset)
+    print_ann_number(c_types, 'both datasets')
+    print_ann_average(commons_dataset)
     print()
     
     differents_dataset1 = get_occurrences(dataset1, dataset2, False)
-    print_ann_number(differents_dataset1, (name_dataset1 + ' and absent in ' + name_dataset2))
+    d_types1 = get_ann_number(differents_dataset1)
+    print_ann_number(d_types1, (name_dataset1 + ' and absent in ' + name_dataset2))
+    print_ann_average(differents_dataset1)
     differents_dataset2 = get_occurrences(dataset2, dataset1, False)
-    print_ann_number(differents_dataset2, (name_dataset2 + ' and absent in ' + name_dataset1))
-    for text in differents_dataset2:
-        for annotation in differents_dataset2[text]:
-            differents_dataset1[text].append(annotation)
-    sort_dataset(differents_dataset1)
-    print_ann_number_for_texts(differents_dataset1)
+    d_types2 = get_ann_number(differents_dataset2)
+    print_ann_number(d_types2, (name_dataset2 + ' and absent in ' + name_dataset1))
+    print_ann_average(differents_dataset2)
 
-# Analyse the input dataset by printing the number of annotations
+# Analyse the input dataset by plotting the number of annotations
 def analyse_dataset(dataset: dict):
-    print_ann_number(dataset, 'the fused dataset')
-    print_ann_number_for_texts(dataset)
-    print_ann_number_for_levels(dataset)
+    types = get_ann_number(dataset)
+    print_ann_number(types, 'the fused dataset')
+    print_ann_average(dataset)
+    levels = get_ann_number_for_levels(dataset)
+    print_ann_number_for_levels(levels)
+    
+    df1 = pandas.DataFrame({'Italian-Litbank': types['types'].values()}, index = types['types'].keys())
+    df1.plot.pie(y = 'Italian-Litbank', figsize = (4, 4), title = 'frequency')
+    for level in levels['levels']:
+        levels['levels'][level] /= levels['total']
+    df2 = pandas.DataFrame({'Italian-Litbank': levels['levels'].values()}, index = levels['levels'].keys())
+    df2.plot.bar(figsize = (4, 4), title = 'nesting')
 
 # Make the jsonl file for the dataset
 def make_jsonl(input_folders_name: str, dataset: dict):
@@ -328,6 +395,9 @@ if __name__ == '__main__':
     
     annotated_dataset1 = read_ann_from_files(args.dir_dataset1)
     annotated_dataset2 = read_ann_from_files(args.dir_dataset2)
+    
+    compare_datasets(annotated_dataset1, args.dir_dataset1.split('/')[-2], annotated_dataset2, args.dir_dataset2.split('/')[-2])
+    print()
     
     analyse_datasets(annotated_dataset1, args.dir_dataset1.split('/')[-2], annotated_dataset2, args.dir_dataset2.split('/')[-2])
     print()

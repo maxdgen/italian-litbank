@@ -376,7 +376,7 @@ def find_words_at_the_sides(a: Annotations):
         print("There aren't labels that start or end with words.\n")
 
 # Check if all the labels have one of the type specified by "labels_types"
-def check_labels_types(a: Annotations, labels_types):
+def check_labels_types(a: Annotations, labels_types: list):
     found = False
     for text_id in a.texts:
         for label in a.texts[text_id]['labels']:

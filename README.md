@@ -1,6 +1,6 @@
-# Italian-Litbank
+# Italian-LitBank
 
-Italian-Litbank rappresenta un corpus completamente italiano generato a partire da testi, opere e collezioni di opere di narrativa, selezionati per tale obiettivo. Le tre attività principali che hanno portato alla sua creazione sono: Selezione delle opere di narrativa, Creazione dei dataset annotati, Analisi dei dataset e creazione di Italian-Litbank.
+Italian-LitBank rappresenta un corpus completamente italiano generato a partire da testi, opere e collezioni di opere di narrativa, selezionati per tale obiettivo. Le tre attività principali che hanno portato alla sua creazione sono: Selezione delle opere di narrativa, Creazione dei dataset annotati, Analisi dei dataset e creazione di Italian-LitBank.
 
 ## Selezione delle opere di narrativa
 
@@ -23,7 +23,7 @@ A partire dai file di testo inizia l’annotazione vera e propria per la realizz
 
 ### Annotazione delle entità
 
-L’annotazione delle entità è avvenuta sfruttando doccano, utilizzando la stessa metodologia di Litbank. Quindi, oltre all’esclusione del tipo WEA, i tipi possibili di entità sono: PER, FAC, LOC, GPE, VEH e ORG. Inoltre le entità di ItaSet presentano una nested structure.
+L’annotazione delle entità è avvenuta sfruttando doccano, utilizzando la stessa metodologia di LitBank. Quindi, oltre all’esclusione del tipo WEA, i tipi possibili di entità sono: PER, FAC, LOC, GPE, VEH e ORG. Inoltre le entità di ItaSet presentano una nested structure.
 doccano genera un file di estensione JSONL, che contiene diverse informazioni per ogni riga presenti secondo l’ordine specificato di seguito:
 1.	id: valore numerico relativo al testo annotato.
 2.	text: il contenuto del testo annotato.
@@ -44,9 +44,9 @@ inizio_annotazione1 < inizio_annotazione2
 Sono state aggiunte altre annotazioni per entità previamente non annotate a causa di sviste o errori.
 I file JSONL modificati sono stati infine utilizzati per la creazione dei file di annotazioni aventi estensione ANN. Il formato che si ottiene a partire da file di testo e file di annotazioni prende il nome di brat standoff format.
 
-## Analisi dei dataset e creazione di Italian-Litbank
+## Analisi dei dataset e creazione di Italian-LitBank
 
-Completata la creazione dei due dataset, l'ultima fase è costituita dall’analisi delle differenze principali che sussistono tra i dataset stessi e dalla loro fusione, cioè la creazione del dataset finale denominato Italian-Litbank.
+Completata la creazione dei due dataset, l'ultima fase è costituita dall’analisi delle differenze principali che sussistono tra i dataset stessi e dalla loro fusione, cioè la creazione del dataset finale denominato Italian-LitBank.
 
 ### Analisi
 
